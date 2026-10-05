@@ -1,0 +1,49 @@
+{
+  "_meta": { "note": "Aktuality – CMS typ „Aktualita“: {slug, date, type (stavba|projekt|video|clanek), title, perex, body, cover, gallery[], video}. Současný web aktuality nemá; existují jen 2 datovaná fotoalba stavby bez textu (/galerie). Perex a text proto chybí – označeno.", "source": "rezidenceslovanskeudoli.cz/galerie" },
+  "items": [
+    {
+      "slug": "2026-07-zajisteni-stavebni-jamy-a-prelozky",
+      "date": "2026-07", "dateLabel": "Červenec 2026", "type": "stavba",
+      "title": "Zajištění stavební jámy a přeložky",
+      "perex": null, "body": null,
+      "cover": "media/stavba/7-2026-06",
+      "gallery": [
+        { "src": "media/stavba/7-2026-01", "caption": "Oplocení stavby Vejprnická ulice" },
+        { "src": "media/stavba/7-2026-02", "caption": "Základy řadové domy", "portrait": true },
+        { "src": "media/stavba/7-2026-03", "caption": "Základy dvojdomy" },
+        { "src": "media/stavba/7-2026-04", "caption": "Přeložka vodovodního řadu", "portrait": true },
+        { "src": "media/stavba/7-2026-05", "caption": "Záporové pažení BD1" },
+        { "src": "media/stavba/7-2026-06", "caption": "Celkový pohled na staveniště" },
+        { "src": "media/stavba/7-2026-07", "caption": "Záporová stěna" },
+        { "src": "media/stavba/7-2026-08", "caption": "Záporová stěna BD2" }
+      ]
+    },
+    {
+      "slug": "2026-04-zahajeni-vystavby",
+      "date": "2026-04", "dateLabel": "Duben 2026", "type": "stavba",
+      "title": "Zahájení výstavby",
+      "perex": null, "body": null,
+      "cover": "media/stavba/4-2026-01",
+      "gallery": [
+        { "src": "media/stavba/4-2026-01", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-02", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-03", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-04", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-05", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-06", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-07", "caption": "Zahájení zemních prací" },
+        { "src": "media/stavba/4-2026-08", "caption": "Zahájení zemních prací" }
+      ]
+    },
+    {
+      "slug": "videovizualizace-lokality",
+      "date": null, "dateLabel": "Vizualizace", "type": "video",
+      "title": "Videovizualizace Rezidence Slovanské údolí",
+      "perex": "Pohled na celý areál – bytové domy při Vejprnické ulici a řadové domy a dvojdomy při jižní hraně pozemku.",
+      "_src_perex": "Popis obsahu videa sestaven z textu webu (umístění objektů). Datum publikace K OVĚŘENÍ.",
+      "body": null,
+      "cover": "media/video/su-vrc-18-poster",
+      "video": "su-vrc-18"
+    }
+  ]
+}

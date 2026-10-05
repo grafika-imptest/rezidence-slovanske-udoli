@@ -1,0 +1,10 @@
+{
+  "path": "lokalita/", "section": "lokalita/", "title": "Lokalita",
+  "description": "Skvrňany, Plzeň 3 – občanská vybavenost, doprava a příroda v okolí Rezidence Slovanské údolí.",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Lokalita", "title": "Skvrňany, Plzeň 3", "lead": "Při Vejprnické ulici, s výhledem na údolí Vejprnického potoka a s dopravním napojením do centra Plzně.", "image": "su-0013", "imageAlt": "Pohled přes zeleň na zástavbu" },
+    { "type": "LocationFull" },
+    { "type": "Gallery", "eyebrow": "Okolí", "title": "Zeleň a cesty v areálu", "ids": ["su-0011", "su-0021", "su-0012"], "layout": "row" },
+    { "type": "CTA", "eyebrow": "Nabídka", "title": "Vyberte si byt s výhledem do údolí", "text": "Obytné místnosti jsou orientovány k údolí Vejprnického potoka.", "button": "Otevřít nabídku", "href": "nabidka/", "image": "su-0020" }
+  ]
+}

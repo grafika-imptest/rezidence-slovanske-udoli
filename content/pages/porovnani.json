@@ -1,0 +1,7 @@
+{
+  "path": "porovnani/", "title": "Porovnání jednotek", "scripts": ["lists.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Porovnání", "title": "Porovnání jednotek", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Porovnání" }] },
+    { "type": "Compare" }
+  ]
+}

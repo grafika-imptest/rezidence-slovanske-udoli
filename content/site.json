@@ -1,0 +1,50 @@
+{
+  "_meta": { "note": "Globální nastavení webu (CMS: Nastavení webu). Každá hodnota má uvedený zdroj v poli _src nebo v docs/ANALYZA.md." },
+  "name": "Rezidence Slovanské údolí",
+  "lockup": ["Slovanské", "údolí"],
+  "lockupExtended": ["Slovanské údolí", "Plzeň 3", "rezidence"],
+  "_src_lockup": "Podznačka dle Dodatku grafického manuálu IKO 2026, kap. 2.2 (rozšířená varianta: Slovanské údolí / Plzeň 3 / rezidence).",
+  "tagline": "Byty, řadové domy a dvojdomy v Plzni-Skvrňanech",
+  "_src_tagline": "Sestaveno z faktů webu (typy jednotek, Skvrňany). Copy – K OVĚŘENÍ s klientem.",
+  "description": "Rezidence Slovanské údolí – 65 bytů, 6 řadových domů a 4 dvojdomy při Vejprnické ulici v Plzni-Skvrňanech. Developer IKO stavby s.r.o.",
+  "nav": [
+    { "label": "Projekt", "href": "projekt/" },
+    { "label": "Nabídka", "href": "nabidka/" },
+    { "label": "Standardy", "href": "standardy/" },
+    { "label": "Lokalita", "href": "lokalita/" },
+    { "label": "Financování", "href": "financovani/" },
+    { "label": "Aktuality", "href": "aktuality/" },
+    { "label": "Developer", "href": "developer/" },
+    { "label": "Kontakt", "href": "kontakt/" }
+  ],
+  "sales": {
+    "title": "Prodej nemovitostí",
+    "phone": "371 656 916",
+    "phoneHref": "+420371656916",
+    "email": "projekty@ikoplzen.cz",
+    "persons": null,
+    "_src": "Patička a /kontakt současného webu; jména obchodníků a prodejní místo na webu nejsou (CHYBÍ PODKLAD)."
+  },
+  "company": {
+    "name": "IKO stavby s.r.o.",
+    "address": "Vltavínová 1334/3, 326 00 Plzeň",
+    "phone": "371 656 911",
+    "email": "iko@ikoplzen.cz",
+    "ico": "29120543",
+    "register": "Společnost IKO stavby s.r.o. je zapsána v obchodním rejstříku vedeném Krajským soudem v Plzni, oddíl C, vložka 26510.",
+    "map": "https://mapy.cz/s/3pzQU",
+    "web": "https://www.ikoplzen.cz/",
+    "gdpr": "https://www.ikoplzen.cz/gdpr"
+  },
+  "projectAddress": "při Vejprnické ulici, Plzeň-Skvrňany (Plzeň 3)",
+  "otherProjects": [
+    { "name": "Zruč-Senec – Ke Střílně", "href": "https://senec-kestrilne.cz/" },
+    { "name": "Mýto – U Sladovny", "href": "https://myto-usladovny.cz/" },
+    { "name": "Nové Skvrňany", "href": "https://iko-noveskvrnany.cz/" },
+    { "name": "Újezd – jih", "href": "https://ujezd-jih.cz/" },
+    { "name": "Radobyčice – Břízová", "href": "https://radobycice-brizova.cz/" }
+  ],
+  "_src_otherProjects": "Odkazy „Web projektu“ na ikoplzen.cz / ikoplzen.imptest.cz (stav 5. 10. 2026). Názvy dle Dodatku manuálu 2026, kap. 2.5.",
+  "claim": "Stavíme tam, kde sami chceme bydlet.",
+  "_src_claim": "Claim IKO (ikoplzen.imptest.cz, Dodatek manuálu 2026)."
+}

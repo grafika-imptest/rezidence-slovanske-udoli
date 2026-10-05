@@ -1,0 +1,361 @@
+[
+ {
+  "id": "BD1-10",
+  "field": "číslo sklepa",
+  "prodejní list": 37,
+  "XLS": 10,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-11",
+  "field": "číslo sklepa",
+  "prodejní list": 38,
+  "XLS": 11,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-12",
+  "field": "číslo sklepa",
+  "prodejní list": 39,
+  "XLS": 12,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-16",
+  "field": "lodžie",
+  "prodejní list": 7.2,
+  "XLS": 12.5
+ },
+ {
+  "id": "BD1-16",
+  "field": "číslo sklepa",
+  "prodejní list": 6,
+  "XLS": 16,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-17",
+  "field": "číslo sklepa",
+  "prodejní list": 7,
+  "XLS": 17,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-20",
+  "field": "číslo sklepa",
+  "prodejní list": 28,
+  "XLS": 20,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-21",
+  "field": "číslo sklepa",
+  "prodejní list": 29,
+  "XLS": 21,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-22",
+  "field": "číslo sklepa",
+  "prodejní list": 40,
+  "XLS": 22,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-23",
+  "field": "číslo sklepa",
+  "prodejní list": 41,
+  "XLS": 23,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-24",
+  "field": "číslo sklepa",
+  "prodejní list": 42,
+  "XLS": 24,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-25",
+  "field": "číslo sklepa",
+  "prodejní list": 12,
+  "XLS": 25,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-26",
+  "field": "číslo sklepa",
+  "prodejní list": 16,
+  "XLS": 26,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-27",
+  "field": "číslo sklepa",
+  "prodejní list": 17,
+  "XLS": 27,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-28",
+  "field": "číslo sklepa",
+  "prodejní list": 8,
+  "XLS": 28,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-29",
+  "field": "číslo sklepa",
+  "prodejní list": 9,
+  "XLS": 29,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-30",
+  "field": "číslo sklepa",
+  "prodejní list": 22,
+  "XLS": 30,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-31",
+  "field": "číslo sklepa",
+  "prodejní list": 23,
+  "XLS": 31,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-37",
+  "field": "číslo sklepa",
+  "prodejní list": 10,
+  "XLS": 37,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-38",
+  "field": "číslo sklepa",
+  "prodejní list": 11,
+  "XLS": 38,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-39",
+  "field": "číslo sklepa",
+  "prodejní list": 24,
+  "XLS": 39,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-40",
+  "field": "číslo sklepa",
+  "prodejní list": 25,
+  "XLS": 40,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-41",
+  "field": "číslo sklepa",
+  "prodejní list": 30,
+  "XLS": 41,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-42",
+  "field": "číslo sklepa",
+  "prodejní list": 31,
+  "XLS": 42,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-06",
+  "field": "číslo sklepa",
+  "prodejní list": 20,
+  "XLS": 6,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-07",
+  "field": "číslo sklepa",
+  "prodejní list": 21,
+  "XLS": 7,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-08",
+  "field": "dispozice",
+  "prodejní list": "1,5+kk",
+  "web": "1+KK"
+ },
+ {
+  "id": "BD1-08",
+  "field": "podlahová plocha",
+  "prodejní list": 46.2,
+  "XLS": 45.9
+ },
+ {
+  "id": "BD1-08",
+  "field": "číslo sklepa",
+  "prodejní list": 26,
+  "XLS": 8,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD1-09",
+  "field": "číslo sklepa",
+  "prodejní list": 27,
+  "XLS": 9,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-10",
+  "field": "číslo sklepa",
+  "prodejní list": 16,
+  "XLS": 10,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-13",
+  "field": "číslo sklepa",
+  "prodejní list": 4,
+  "XLS": 13,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-14",
+  "field": "číslo sklepa",
+  "prodejní list": 17,
+  "XLS": 14,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-15",
+  "field": "číslo sklepa",
+  "prodejní list": 18,
+  "XLS": 15,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-16",
+  "field": "číslo sklepa",
+  "prodejní list": 9,
+  "XLS": 16,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-17",
+  "field": "číslo sklepa",
+  "prodejní list": 10,
+  "XLS": 17,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-18",
+  "field": "číslo sklepa",
+  "prodejní list": 5,
+  "XLS": 18,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-04",
+  "field": "číslo sklepa",
+  "prodejní list": 13,
+  "XLS": 4,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-05",
+  "field": "dispozice",
+  "prodejní list": "1,5+kk",
+  "web": "1+KK"
+ },
+ {
+  "id": "BD2-05",
+  "field": "číslo sklepa",
+  "prodejní list": 14,
+  "XLS": 5,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "BD2-09",
+  "field": "číslo sklepa",
+  "prodejní list": 15,
+  "XLS": 9,
+  "note": "interní číslování, nezobrazuje se jako rozpor"
+ },
+ {
+  "id": "RDD-01",
+  "field": "obytná plocha",
+  "web": 112.1,
+  "prodejní list": 96.2,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RDD-02",
+  "field": "obytná plocha",
+  "web": 127.3,
+  "prodejní list": 107,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RDD-03",
+  "field": "obytná plocha",
+  "web": 130.6,
+  "prodejní list": 109.9,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RDD-04",
+  "field": "obytná plocha",
+  "web": 130.6,
+  "prodejní list": 109.9,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-05",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-06",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-06",
+  "field": "plocha pozemku",
+  "prodejní list": 294,
+  "XLSX": 295.2
+ },
+ {
+  "id": "RRD-07",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-08",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-09",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ },
+ {
+  "id": "RRD-10",
+  "field": "obytná plocha",
+  "web": 152.5,
+  "prodejní list": 129,
+  "note": "web sčítá obytnou plochu a garáž – nový web uvádí odděleně"
+ }
+]

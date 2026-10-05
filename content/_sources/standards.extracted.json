@@ -1,0 +1,1444 @@
+{
+ "source": "https://www.rezidenceslovanskeudoli.cz/standardy",
+ "webPageNote": "Stránka /standardy NEOBSAHUJE texty standardů ani fotky jednotlivých položek – jen 5 karet s odkazy na PDF (náhledové obrázky karet viz webThumbnail). Veškerý obsah níže je doslovně převzat z PDF. Fotky položek existují jen uvnitř PDF prezentací (odkazy na strany v images[]); samostatné URL fotek položek na webu nejsou.",
+ "presentationExtras": {
+  "laminateDecors": [
+   "Rockford Oak (5946)",
+   "New England Oak (8837)",
+   "Firebrand Oak (K450)",
+   "Biscotti Oak (K453)",
+   "Wheat Pistachio Oak (K625)",
+   "Fawn Apollo Oak (K635)"
+  ],
+  "laminateSpec": "cca 1285 × 192 mm, tloušťka 8 mm, AC4/32, zámkový systém 1clic 2go",
+  "skirting": "K-PRODUKT KP 40, 40 x 17 mm, fólie v dekoru podlahy",
+  "transitionStrip": "PARKETT FREUND, 20 mm / 30 mm, samolepicí hliníková, světlý bronz",
+  "tileColours": {
+   "MITO_obklad": [
+    "arena",
+    "perla",
+    "marengo",
+    "dekor mozaika mix",
+    "dekor mozaika gris"
+   ],
+   "BETONICO_dlazba": [
+    "bílošedá",
+    "světle béžová",
+    "tmavě béžová",
+    "šedá",
+    "černá"
+   ]
+  },
+  "doorDecors_Hormann_ProLine": [
+   "Alpský Dub",
+   "Bílá hladká",
+   "Kartáčovaná Bílá",
+   "Modřín Světlý",
+   "Prachově šedá",
+   "Přírodní Dub",
+   "Severský dub",
+   "Solný dub",
+   "Světle šedá",
+   "Šedý dub",
+   "Divoký dub"
+  ],
+  "showerEnclosure": "HÜPPE Urban, výška 190 cm, sklo čiré 4 a 6 mm, chrom; čtvrtkruh radius R 550; dveře do niky šíře vstupu 56,2, lítací dvoukřídlé, Anti-Plaque (v PDF \"Anti-Plague\")",
+  "bathtub": "EBS Vera 170 x 75, akrylová, nožičky, vanový sifon",
+  "wcButton": "GEBERIT 24,6 x 16,4 cm, alpská bílá",
+  "radiator": "KORADO Koralux Linear Classic 150 x 60 cm, bílá",
+  "entranceDoor_BD": "SOLODOOR DPO EI30DP3, výška 197 cm, EI30DP3-34dB, kukátko, CPL Bílá",
+  "sanitarySiphon": "umyvadlový kovový, výpusť click clack, chrom",
+  "mixers": "EBS Senso – umyvadlová stojánková, vanová a sprchová nástěnná",
+  "sets": "NOVASERVIS Metalia 54, 3jet, chrom"
+ },
+ "standards": [
+  {
+   "document": "Standardy_BD1_BD2_290528.pdf",
+   "heading": "STANDARDY BD1 a BD2",
+   "appliesTo": "Bytové domy BD1 a BD2",
+   "validFrom": "28. 5. 2026",
+   "url": "https://www.rezidenceslovanskeudoli.cz/standardy_bd1_bd2_290528_awm_dwn.pdf?data=ZO5zOWG2K3pT0YVuI7DkMuW+QiIm+oREI18ZORjUGYMuDiOZfLl76mK9yT1xF14yhehheQ4L5BbWRrRssn2YAzcngdw0GIFceOXpfHs6yjvJ0nSyyXvsVtZPtW6y9DdW",
+   "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-standardy-bytovy-dum-bd1-a-bd2_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYhjccjChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg==",
+   "presentation": {
+    "file": "Prezentace_BD.pdf",
+    "url": "https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==",
+    "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-prezentace-vybaveni-bytu_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYpjIcDChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg=="
+   },
+   "extractionNote": "Na str. 2 PDF jsou popisky prvků (Schodiště, Výtah, Podlahy, Tepelná izolace, Zábradlí) v textové vrstvě posunuté vůči odrážkám; přiřazení odrážek k prvkům je rekonstruováno logicky.",
+   "categories": [
+    {
+     "category": "KONSTRUKCE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Základové konstrukce",
+       "text": "- železobetonová monolitická deska s armovací sítí, asfaltový modifikovaný pás proti radonu a vodě"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svislé konstrukce",
+       "text": "- zděná nosná konstrukce s obvodovým zdivem z keramických cihelných bloků\n- vnitřní nosné zdivo z akustických cihelných bloků\n- příčky zděné z keramických cihel 11,5 a 14,5 dle konkrétní bytové jednotky\n- instalační přizdívky z pórobetonového zdiva (za vanou, umyvadlem a za WC)\n- stěny suterénu (garáže) železobetonové pohledové\n- výtahové šachty železobetonové"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Omítky a fasáda",
+       "text": "- vnitřní – hladké jednovrstvé vápenosádrové omítky stěn, bílá výmalba\n- vnější – zateplovací systém domu s vrchní strukturovanou silikonovou probarvenou omítkou"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Výplně otvorů",
+       "text": "- vstupní dveře – hliníkový profil, neprůhledná izolační výplň v barvě, barevnost Quartzgrau / bílá, kování klika/koule\n- vnitřní dveře – viz níže\n- okna - plastová, vícekomorový profil, trojité těsnění, vestavná hloubka profilu 80mm, barevnost Quartzgrau (exterier) / bílá (interier), mikroventilace, izolační trojsklo Ug = 0,6 W/m2 K, celoobvodové kování\n- vnitřní parapety bílé plastové\n- venkovní parapety barvený pozinkovaný plech\n- kastlíky pro předokenní žaluzie vč. připojení na el. pohon\n- v rámci nadstandardu je možné zrealizovat předokenní žaluzie a jejich dálkové ovládání\n- garážová vrata – sekční, lamelová plná, automatizovaný el. pohon"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Vodorovné konstrukce",
+       "text": "- prefabrikované panely Spiroll + sádrokartonový podhled\n- stropy suterénu (garáže) železobetonové pohledové\n- překlady – prefabrikované typové cihelné, ocelové profily, ev. železobetonové monolitické"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Střecha",
+       "text": "- plochá jednoplášťová střecha v systémové skladbě\n- odvod dešťových vod vnitřním svodem\n- střešní krytina – svařované fóliové pásy, 2 % spád\n- klempířské prvky – barvený pozinkovaný plech\n- střecha nad 2.PP provedena jako zelená s vegetační vrstvou, rozdělenou k jednotlivým bytům zábradlím a zástěnami"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Schodiště",
+       "text": "- železobetonové prefabrikované s teracovým obkladem\n- zábradlí jednoduché kovové s lakovanou povrchovou úpravou"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Výtah",
+       "text": "- osobní trakční výtah v každém vchodě"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Podlahy",
+       "text": "- skladba: nášlapná vrstva (viz níže), betonová strojně hlazená mazanina, PE fólie, kročejová příp. tepelná izolace, obvodové dilatace"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Tepelná izolace",
+       "text": "- podlaha v 1. NP – polystyren tl. 150 mm\n- podlaha ve 2. - 6. NP – kročejová izolace tl. 50 mm\n- obvodové stěny domu – kontaktní zateplovací systém z fasádního polystyrenu tl. 180 mm\n- obvodové stěny garáže - kontaktní zateplovací systém z fasádního polystyrenu tl. 150 mm\n- střecha domu – polystyren tl. 200 mm + spádové klíny z polystyrenu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Zábradlí balkonů, teras",
+       "text": "- venkovní zábradlí z ocelových příčníků, žárový zinek + lakovaná povrchová úprava"
+      }
+     ]
+    },
+    {
+     "category": "ÚPRAVA POVRCHŮ",
+     "items": [
+      {
+       "manufacturer": "KRONO Original (SUPER NATURAL)",
+       "images": [
+        "Prezentace_BD.pdf s. 14 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)",
+        "Prezentace_BD.pdf s. 15 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Laminátová podlaha",
+       "text": "- výrobce KRONO Original, kolekce SUPER NATURAL, třída zátěže AC4/32 – výběr z dekorů, obývací pokoj s kuchyňským koutem, ložnice"
+      },
+      {
+       "manufacturer": "RAKO (BETONICO)",
+       "images": [
+        "Prezentace_BD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)",
+        "Prezentace_BD.pdf s. 5 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Dlažby",
+       "text": "- WC, koupelna – keramická dlažba RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky\n- zádveří, předsíně, šatny, komory – keramická dlažba včetně řezaného soklu RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky"
+      },
+      {
+       "manufacturer": "EBS (série MITO)",
+       "images": [
+        "Prezentace_BD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Obklady",
+       "text": "- WC, koupelna - keramický obklad EBS, série MITO 33,5 x 50 cm, v koupelně obložení do 2 m, na WC obložení do 1,6 m, provedení na střih, spárování bílé, bez inzert a listel"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terasy, balkony",
+       "text": "- podlaha teras v 1.PP – betonová dlažba hladká do štěrkového lože, tl. 4 cm, přírodní šedá barevnost\n- podlaha balkonů v 1. - 3. NP – strojově zahlazený betonový povrch\n- podlaha lodžií v 1. - 3. NP – betonová dlažba hladká na terče, tl. 4 cm, přírodní šedá barevnost"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Přechody různých povrchů podlah budou řešeny přechodovými lištami. Upozorňujeme Budoucí kupující, že v případě lepené vinylové podlahové krytiny je nutné počítat s její rozměrovou stálostí dle ČSN EN ISO 23999 a vznikem případných spár mezi lamelami až do 0,25 % rozměru lamely, v souladu s technickými listy výrobce. Budoucí kupující bere na vědomí, že v místnostech s podlahovým vytápěním a lepenou podlahovou krytinou, kde je třeba dodržet dilatační úseky, bude tato krytina respektovat rozdělení dilatačních úseků a jejich přiznání pomocí dilatačních lišt, přerušení krytiny apod. V případě, že bude Budoucí kupující trvat na provedení krytiny bez respektování těchto dilatačních úseků, přebírá veškeré záruky za vady krytiny vzniklé absencí těchto dilatací v podlahové krytině."
+      }
+     ]
+    },
+    {
+     "category": "VNITŘNÍ DVEŘE",
+     "items": [
+      {
+       "manufacturer": "SOLODOOR",
+       "images": [
+        "Prezentace_BD.pdf s. 18 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Vstupní bytové dveře",
+       "text": "- požárně odolné dveře s odolností 30 minut, výška 197 cm, plné, hladké, vnější povrch CPL, typ SOLODOOR, polodrážkové, se zvukovou izolací 34 dB, s kukátkem, bílá barva\n- ocelová protipožární zárubeň s nátěrem"
+      },
+      {
+       "manufacturer": "HÖRMANN (série ProLine)",
+       "images": [
+        "Prezentace_BD.pdf s. 16 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Vnitřní dveře",
+       "text": "- výška 197 cm, plné, hladké, Duradecor, výplň dutinková DTD dřevotříska, vnější povrch CPL, typ HÖRMANN, série ProLine, výběr z dekorů\n- obložková zárubeň dle šířky stěn"
+      },
+      {
+       "manufacturer": "FAB; TWIN (HARMONIA DEF, Leko Vision)",
+       "images": [
+        "Prezentace_BD.pdf s. 17 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Dveřní kování",
+       "text": "- vstupní dveře do bytu – zámek FAB, typ bezp. madlo/klika Twin HARMONIA DEF, KPZ/F1 72mm, eloxovaný hliník\n- vnitřní dveře - nerez, zámek obyčejný, typ TWIN Leko Vision H 1892R"
+      }
+     ]
+    },
+    {
+     "category": "ZDRAVOTNĚ TECHNICKÉ INSTALACE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Rozvody",
+       "text": "- vody - plastové s označením Hostalen (vnitřní) a PE (vnější)\n- kanalizace - plastové s označením KG (vnější) a HT (vnitřní)"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Pračka",
+       "text": "- příprava pro připojení pračky samostatným výtokovým ventilem s ¾\" závitem a odpadem, elektrická zásuvka"
+      }
+     ]
+    },
+    {
+     "category": "ZAŘIZOVACÍ PŘEDMĚTY",
+     "items": [
+      {
+       "title": "Umyvadlo",
+       "text": "- KOLO Rekord 60 x 40 cm, PVC chromový sifon click- clack",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_BD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie",
+       "text": "- EBS Senso chromová",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_BD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Sprchová vanička",
+       "text": "- Litý mramor 90 x 90 cm, hloubka 1,5 cm, radius, nebo čtverec",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_BD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)",
+        "Prezentace_BD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Sprchový kout",
+       "text": "- HÜPPE Urban 90 x 90 cm, čtvrtkruh, nebo čtverec, nebo 2kř. dveře do niky 90 cm",
+       "manufacturer": "HÜPPE (Urban)",
+       "images": [
+        "Prezentace_BD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)",
+        "Prezentace_BD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)",
+        "Prezentace_BD.pdf s. 12 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Sprchová baterie",
+       "text": "- EBS Senso chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_BD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Sprchový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_BD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Vana",
+       "text": "- EBS Vera 170 x 75 cm, vanová podpora, vanový sifon\n- ev. EBS Urban 160 x 70 cm, vanová podpora, vanový sifon",
+       "manufacturer": "EBS (Vera; ev. Urban)",
+       "images": [
+        "Prezentace_BD.pdf s. 9 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Vanová baterie",
+       "text": "- EBS Senso, chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_BD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Vanový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_BD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "WC mísa",
+       "text": "- EBS Urban keramické bílé",
+       "manufacturer": "EBS (Urban)",
+       "images": [
+        "Prezentace_BD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "WC sedátko",
+       "text": "- bílé plast, soft - close",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_BD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "WC tlačítko",
+       "text": "- Geberit Sigma 01 bílé",
+       "manufacturer": "Geberit (Sigma 01)",
+       "images": [
+        "Prezentace_BD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Umývátko",
+       "text": "- KOLO Rekord 40 x 31 cm",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_BD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie (umývátko)",
+       "text": "- EBS Senso chromová, stojánková",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_BD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ]
+      },
+      {
+       "title": "Poznámka",
+       "text": "Součástí standardu je vestavný modul pro závěsnou mísu WC. Koupelna a WC obsahují ve standardu pouze ty zařizovací předměty, které jsou zakresleny v půdorysu silnou čarou, který je součástí Smlouvy o budoucí kupní smlouvě.",
+       "manufacturer": null,
+       "images": []
+      }
+     ]
+    },
+    {
+     "category": "VZDUCHOTECHNIKA",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Ventilátor",
+       "text": "- odvětrání koupelny a WC\n- příprava pro vývod pro digestoř ukončený výstupem ze zdi v pozici stoupacího potrubí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Případné zakrytí odvětrávacího potrubí dle umístění spotřebičů bude řešeno v rámci nadstandardu kuchyňské linky."
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SILNOPROUD",
+     "items": [
+      {
+       "manufacturer": "TANGO (typ; výrobce neuveden)",
+       "images": [],
+       "title": "Vypínače, zásuvky",
+       "text": "- typ TANGO – bílá barva\n- počet a umístění jsou znázorněny v projektu\n- na každé terase, balkonu, nebo lodžii je osazena jedna zásuvka pro venkovní prostředí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svítidla",
+       "text": "- stropní nebo nástěnná\n- součástí standardu jsou pouze svítidla na chodbě, v šatně, v koupelně, na WC, na terase ev. balkonu, nebo lodžii (venkovní svítidla nelze měnit)\n- v obytných místnostech je jeden vývod pro stropní svítidlo\n- v koupelně je jeden vývod pro osvětlení zrcadla"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Elektrické vedení",
+       "text": "- rozvody vedeny skrytě, materiál měď"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava rozvodů",
+       "text": "- příprava rozvodů v kuchyni pro elektrické spotřebiče viz níže"
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SLABOPROUD",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Televize",
+       "text": "- v rámci STA rozvody do všech obytných místností"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Domovní zvonek",
+       "text": "- audiosystém s interkomem a el. vrátníkem k hlavním vchodovým dveřím do domu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Datová síť",
+       "text": "- rozvody do všech obytných místností, zásuvky 2 x RJ 45"
+      }
+     ]
+    },
+    {
+     "category": "VYTÁPĚNÍ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Otopná tělesa",
+       "text": "- ocelová desková tělesa typu VK osazena termohlavicemi\n- kombinace vedení měď nebo PVC"
+      },
+      {
+       "manufacturer": "KORADO Koralux Linear Classic 150 x 60 cm (dle Prezentace_BD.pdf, ve standardu neuvedeno)",
+       "images": [
+        "Prezentace_BD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_bd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KXxKIceBGZny5b7qJtyc9xXG8ZLCjwi/BhXILtoy0scpfiSaRcANzNBgwF+G8p3zto5V2OUvoVjm9diu2nrW5yj1zrA==)"
+       ],
+       "title": "Otopné těleso v koupelně",
+       "text": "- trubkové otopné těleso (žebřík), termohlavice\n- možno realizovat v nadstandardu el. patronu osazenou do žebříku"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Společná kotelna",
+       "text": "- vytápění a příprava TUV bude zajištěna sestavou dvou plynových kondenzačních kotlů, společná kotelna umístěna v technické místnosti 2.PP"
+      }
+     ]
+    },
+    {
+     "category": "KUCHYNĚ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava pro kuchyňskou linku",
+       "text": "- jednofázový přívod elektřiny pro lednici, troubu, digestoř, myčku, mikrovlnou troubu\n- třífázový přívod elektřiny pro varnou desku\n- 2 x 2 samostatné zásuvky pod horními skříňkami\n- 1x vývod pro instalaci osvětlení pod horními skříňkami, včetně vypínače\n- odpadní potrubí pro dřez\n- vývod teplé a studené vody pro napojení dřezové stojánkové baterie, ventily ½\" - ⅜\"\n- přívod studené vody pro myčku osazený pračkovým ventilem s ¾\" závitem, připojení odpadu myčky je uvažováno k dřezovému sifonu, který není součástí standardní dodávky\n- příprava pro vývod na digestoř ukončený výstupem ze zdi v pozici stoupacího potrubí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Součástí standardu není kuchyňská linka se spotřebiči (ani jejich zapojení), dřezová baterie, keramický obklad za kuchyňskou linkou, dopojení digestoře včetně zpětné klapky a případného zakrytí sádrokartonovou konstrukcí."
+      }
+     ]
+    },
+    {
+     "category": "POZNÁMKA (závěr dokumentu)",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Jednotlivé standardy je možné v průběhu výstavby změnit při dodržení stejné jakosti a kvality a s ohledem na optimalizaci designového a architektonického řešení a také na dostupnost na trhu (ukončení výroby). Změnu standardu za nadstandard je možné provést v souladu s Pravidly klientských změn. Jednotlivé nadstandardy budou vybrány výhradně u smluvních dodavatelů. V případě dílčích odchylek mezi výkresovou částí dokumentace a textovou částí standardů, jsou nadřazeny standardy, které jsou přílohou Smlouvy o budoucí kupní smlouvě. Klienti mají nárok na 1 designový návrh koupelny zdarma. Vestavěné skříně nejsou součástí standardu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "document": "Standardy_DD_110826.pdf",
+   "heading": "STANDARDY DVOJDOMY 01 - 04",
+   "appliesTo": "Rodinné dvojdomy RDD-01 až RDD-04",
+   "validFrom": "11. 8. 2026",
+   "url": "https://www.rezidenceslovanskeudoli.cz/standardy_dd_110826_awm_dwn.pdf?data=ZO5zOWG2K3pT0YVuI7DkMuW+RCLriWIDgzIbLjiRM8dz7auJbznpXC68kWGjsF44heRha8hL2Fb1MRk0GMCbQzAGceF5PePedJXZcks6rCe97GVr6VvcVtNhN28=",
+   "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-standardy-dvojdomy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYhnQYDChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg==",
+   "presentation": {
+    "file": "Prezentace_RR_DD.pdf",
+    "url": "https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=",
+    "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-prezentace-vybaveni-rodinnych-domu-a-dvojdomu_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYhnMcjChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg==",
+    "note": "Prezentace má na titulu \"STANDARDY ŘRD\", na webu je nazvána \"Prezentace Vybavení Rodinných Domů a Dvojdomů\"; neobsahuje stranu se vstupními dveřmi."
+   },
+   "extractionNote": "Na str. 2 PDF jsou popisky prvků (Schodiště, Komín, Podlahy, Tepelná izolace, Zábradlí) v textové vrstvě posunuté; přiřazení rekonstruováno logicky.",
+   "categories": [
+    {
+     "category": "KONSTRUKCE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Základové konstrukce",
+       "text": "- železobetonová monolitická deska s armovací sítí, asfaltový modifikovaný pás proti radonu a vodě"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svislé konstrukce",
+       "text": "- nosné zdivo z keramických cihelných bloků v kombinaci s ŽB opěrnou stěnou pod úrovní terénu směrem do svahu v 1.PP\n- příčky zděné z keramických cihel 11,5\n- instalační přizdívky z pórobetonového zdiva za WC"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Omítky a fasáda",
+       "text": "- vnitřní – hladké jednovrstvé vápenosádrové omítky stěn, bílá výmalba\n- vnější – zateplovací systém domu s vrchní strukturovanou silikonovou probarvenou omítkou"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Výplně otvorů",
+       "text": "- vstupní dveře – PVC profil, neprůhledná izolační výplň v barvě, barevnost Quartzgrau / bílá, kování klika/koule\n- vnitřní dveře – viz níže\n- okna - plastová, vícekomorový profil, trojité těsnění, vestavná hloubka profilu 80mm, barevnost Quartzgrau (exterier) / bílá (interier), mikroventilace, izolační trojsklo Ug = 0,6 W/m2 K, celoobvodové kování\n- vnitřní parapety bílé plastové\n- venkovní parapety barvený pozinkovaný plech\n- kastlíky pro předokenní žaluzie vč. připojení na el. pohon\n- v rámci nadstandardu je možné zrealizovat předokenní žaluzie a jejich dálkové ovládání\n- garážová vrata – sekční, lamelová plná, automatizovaný el. pohon"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Vodorovné konstrukce",
+       "text": "- prefabrikované panely Spiroll + sádrokartonový podhled\n- překlady – prefabrikované typové cihelné, ocelové profily, ev. železobetonové monolitické"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Střecha",
+       "text": "- plochá jednoplášťová střecha v systémové skladbě\n- odvod dešťových vod vnějšími svody\n- střešní krytina – svařované fóliové pásy, 2 % spád\n- klempířské prvky – barvený pozinkovaný plech\n- střecha nad 1.NP provedena jako zelená extenzivní střecha s rozchodníkovým kobercem"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Schodiště",
+       "text": "- železobetonové prefabrikované s keramickým obkladem\n- zábradlí jednoduché kovové s lakovanou povrchovou úpravou"
+      },
+      {
+       "manufacturer": "Schiedel",
+       "images": [],
+       "title": "Komín",
+       "text": "- komínové těleso Schiedel D 180 mm s vedením v interiéru a ukončením v nadstřešní části. Součástí je také přívod vzduchu ke komínu a odvod kondenzátu\n- v rámci nadstandardu je možné realizovat krb či krbová kamna."
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Podlahy",
+       "text": "- skladba: nášlapná vrstva (viz níže), betonová strojně hlazená mazanina, PE fólie, kročejová příp. tepelná izolace, obvodové dilatace"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Tepelná izolace",
+       "text": "- podlaha v 1. PP – polystyren tl. 160 mm\n- podlaha ve 1. NP – kročejová izolace tl. 60 mm, v garáži tl. 40 mm\n- obvodové stěny domu – kontaktní zateplovací systém z fasádního polystyrenu tl. 200 mm\n- obvodové stěny lodžie - kontaktní zateplovací systém z fasádního polystyrenu tl. 150 mm\n- střecha domu – polystyren tl. 200 mm + spádové klíny z polystyrenu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Zábradlí balkonů",
+       "text": "- venkovní zábradlí z ocelových příčníků, žárový zinek + lakovaná povrchová úprava"
+      }
+     ]
+    },
+    {
+     "category": "ÚPRAVA POVRCHŮ",
+     "items": [
+      {
+       "manufacturer": "KRONO Original (SUPER NATURAL)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 14 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 15 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Laminátová podlaha",
+       "text": "- výrobce KRONO Original, kolekce SUPER NATURAL, třída zátěže AC4/32 – výběr z dekorů, obývací pokoj s kuchyňským koutem, ložnice, dětský pokoj"
+      },
+      {
+       "manufacturer": "RAKO (BETONICO)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 5 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Dlažby",
+       "text": "- WC, koupelna – keramická dlažba RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky\n- zádveří, chodba, garáž, technická místnost, komora – keramická dlažba včetně řezaného soklu RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky"
+      },
+      {
+       "manufacturer": "EBS (série MITO)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Obklady",
+       "text": "- WC, koupelna - keramický obklad EBS, série MITO 33,5 x 50 cm, v koupelně obložení do 2 m, na WC obložení do 1,6 m, provedení na střih, spárování bílé, bez inzert a listel"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terasy, balkony",
+       "text": "- podlaha teras v 1.PP – betonová dlažba do štěrkového lože a obrub, tl. 4 cm, přírodní šedá barevnost\n- podlaha balkonů v 1. NP u RDD – betonová dlažba hladká na terče, tl. 4 cm, přírodní šedá barevnost"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Přechody různých povrchů podlah budou řešeny přechodovými lištami. Upozorňujeme Budoucí kupující, že v případě lepené vinylové podlahové krytiny je nutné počítat s její rozměrovou stálostí dle ČSN EN ISO 23999 a vznikem případných spár mezi lamelami až do 0,25 % rozměru lamely, v souladu s technickými listy výrobce. Budoucí kupující bere na vědomí, že v místnostech s podlahovým vytápěním a lepenou podlahovou krytinou, kde je třeba dodržet dilatační úseky, bude tato krytina respektovat rozdělení dilatačních úseků a jejich přiznání pomocí dilatačních lišt, přerušení krytiny apod. V případě, že bude Budoucí kupující trvat na provedení krytiny bez respektování těchto dilatačních úseků, přebírá veškeré záruky za vady krytiny vzniklé absencí těchto dilatací v podlahové krytině."
+      }
+     ]
+    },
+    {
+     "category": "VNITŘNÍ DVEŘE",
+     "items": [
+      {
+       "manufacturer": "HÖRMANN (série ProLine)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 16 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Vnitřní dveře",
+       "text": "- výška 197 cm, plné, hladké, Duradecor, výplň dutinková DTD dřevotříska, vnější povrch CPL, typ HÖRMANN, série ProLine, výběr z dekorů\n- obložková zárubeň dle šířky stěn"
+      },
+      {
+       "manufacturer": "FAB; TWIN (HARMONIA DEF, Leko Vision)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 17 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Dveřní kování",
+       "text": "- vstupní dveře do bytu – zámek FAB, typ bezp. madlo/klika Twin HARMONIA DEF, KPZ/F1 72mm, eloxovaný hliník\n- vnitřní dveře - nerez, zámek obyčejný, typ TWIN Leko Vision H 1892R"
+      }
+     ]
+    },
+    {
+     "category": "ZDRAVOTNĚ TECHNICKÉ INSTALACE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Rozvody",
+       "text": "- vody - plastové s označením Hostalen (vnitřní) a PE (vnější)\n- kanalizace - plastové s označením KG (vnější) a HT (vnitřní)"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Pračka",
+       "text": "- příprava pro připojení pračky samostatným výtokovým ventilem s ¾\" závitem a odpadem, elektrická zásuvka"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Vývod studené vody",
+       "text": "- na terase v 1. PP nezámrzný kohout"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Dešťová kanalizace",
+       "text": "- zemní práce a rozvody dešťové kanalizace na pozemku\n- u RDD svod dešťové vody do retenční nádrže 4m3 + vsakovací štěrkové jímky"
+      }
+     ]
+    },
+    {
+     "category": "ZAŘIZOVACÍ PŘEDMĚTY",
+     "items": [
+      {
+       "title": "Umyvadlo",
+       "text": "- KOLO Rekord 60 x 40 cm, PVC chromový sifon click- clack",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie",
+       "text": "- EBS Senso chromová",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchová vanička",
+       "text": "- Litý mramor 90 x 90 cm, hloubka 1,5 cm, radius, nebo čtverec",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_RR_DD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchový kout",
+       "text": "- HÜPPE Urban 90 x 90 cm, čtvrtkruh, nebo čtverec",
+       "manufacturer": "HÜPPE (Urban)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 12 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchová baterie",
+       "text": "- EBS Senso chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vana",
+       "text": "- EBS Vera 170 x 75 cm, vanová podpora, vanový sifon",
+       "manufacturer": "EBS (Vera)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 9 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vanová baterie",
+       "text": "- EBS Senso, chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vanový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC mísa",
+       "text": "- EBS Urban keramické bílé",
+       "manufacturer": "EBS (Urban)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC sedátko",
+       "text": "- bílé plast, soft - close",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC tlačítko",
+       "text": "- Geberit Sigma 01 bílé",
+       "manufacturer": "Geberit (Sigma 01)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umývátko",
+       "text": "- KOLO Rekord 40 x 31 cm",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie (umývátko)",
+       "text": "- EBS Senso chromová, stojánková",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Poznámka",
+       "text": "Součástí standardu je vestavný modul pro závěsnou mísu WC. Koupelna a WC obsahují ve standardu pouze ty zařizovací předměty, které jsou zakresleny v půdorysu silnou čarou, který je součástí Smlouvy o budoucí kupní smlouvě.",
+       "manufacturer": null,
+       "images": []
+      }
+     ]
+    },
+    {
+     "category": "VZDUCHOTECHNIKA",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Ventilátor",
+       "text": "- odvětrání koupelny, technické místnosti a komory v 1.PP\n- příprava pro vývod pro digestoř ukončený výstupem ze stropu\n- ostatní místnosti jsou větrány přirozeně"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Případné zakrytí odvětrávacího potrubí dle umístění spotřebičů bude řešeno v rámci nadstandardu kuchyňské linky."
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SILNOPROUD",
+     "items": [
+      {
+       "manufacturer": "TANGO (typ; výrobce neuveden)",
+       "images": [],
+       "title": "Vypínače, zásuvky",
+       "text": "- typ TANGO – bílá barva\n- počet a umístění jsou znázorněny v projektu\n- na každé terase, balkonu, nebo lodžii je osazena jedna zásuvka pro venkovní prostředí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svítidla",
+       "text": "- stropní nebo nástěnná\n- součástí standardu jsou pouze svítidla na chodbě, tech. místnosti, v koupelně, v garáži, na terase ev. balkonu (venkovní svítidla nelze měnit)\n- v obytných místnostech je jeden vývod pro stropní svítidlo\n- v koupelně je jeden vývod pro osvětlení zrcadla"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Elektrické vedení",
+       "text": "- rozvody vedeny skrytě, materiál měď"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava rozvodů",
+       "text": "- příprava rozvodů v kuchyni pro elektrické spotřebiče viz níže\n- příprava pro venkovní žaluzie"
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SLABOPROUD",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Televize",
+       "text": "- v rámci STA rozvody do všech obytných místností"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Domovní zvonek",
+       "text": "- audiosystém s interkomem a el. vrátníkem k hlavním vchodovým dveřím do domu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Datová síť",
+       "text": "- rozvody do všech obytných místností, zásuvky 2 x RJ 45"
+      }
+     ]
+    },
+    {
+     "category": "VYTÁPĚNÍ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Podlahové vytápění",
+       "text": "- ve všech místnostech\n- rozvod v podlaze polypropylenovým potrubím na systémové desce"
+      },
+      {
+       "manufacturer": "KORADO Koralux Linear Classic (dle prezentace)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Otopné těleso v koupelně",
+       "text": "- trubkové otopné těleso (žebřík), termohlavice\n- možno realizovat v nadstandardu el. patronu osazenou do žebříku"
+      },
+      {
+       "manufacturer": "neuveden",
+       "images": [],
+       "title": "Zdroj vytápění",
+       "text": "- tepelné čerpadlo vzduch/voda, venkovní jednotka umístěná na střeše domu\n- v rámci nadstandardu lze doplnit alternativní zdroj vytápění krbová kamna"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Upozorňujeme Budoucí kupující, že v případě podlahového vytápění realizovaného v rámci standardu nebudou jeho rozvody provedeny pod předměty s pevně daným umístěním (např. pod kuchyňskou linkou, vestavěnými skříněmi, vanou, sprchovým koutem, kotlem, boilerem TUV apod.)."
+      }
+     ]
+    },
+    {
+     "category": "KUCHYNĚ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava pro kuchyňskou linku",
+       "text": "- jednofázový přívod elektřiny pro lednici, troubu, digestoř, myčku, mikrovlnou troubu\n- třífázový přívod elektřiny pro varnou desku\n- 2 x 2 samostatné zásuvky pod horními skříňkami\n- 1x vývod pro instalaci osvětlení pod horními skříňkami, včetně vypínače\n- odpadní potrubí pro dřez\n- vývod teplé a studené vody pro napojení dřezové stojánkové baterie, ventily ½\" - ⅜\"\n- přívod studené vody pro myčku osazený pračkovým ventilem s ¾\" závitem, připojení odpadu myčky je uvažováno k dřezovému sifonu, který není součástí standardní dodávky\n- příprava pro vývod na digestoř ukončený výstupem ze zdi v pozici stoupacího potrubí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Součástí standardu není kuchyňská linka se spotřebiči (ani jejich zapojení), dřezová baterie, keramický obklad za kuchyňskou linkou, dopojení digestoře včetně zpětné klapky a případného zakrytí sádrokartonovou konstrukcí."
+      }
+     ]
+    },
+    {
+     "category": "VENKOVNÍ ÚPRAVY",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Parkovací stání a chodník",
+       "text": "- betonová dlažba, přírodní barva"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Okapový chodník",
+       "text": "- kačírek a betonová dlažba přírodní barvy do pískového lože"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terasy",
+       "text": "- podlaha teras v 1.PP – betonová dlažba do štěrku a obrub, tl. 4 cm, přírodní šedá barevnost"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Oplocení",
+       "text": "- vnější oplocení mezi sousedy je tvořené pozinkovaným pletivem s podhrabovými deskami. Výška oplocení je +-1,5 m\n- vchodová branka s přístupem na zahradu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Pergola",
+       "text": "- u ŘRD nosná konstrukce pergoly z ocel. jeklů s přípravou na el. pohon (zastínění možno realizovat v rámci nadstandardu dle vlastního výběru typu a materiálu)\n- RDD pergoly ve standardu nemají, mají pouze zástěny u teras do výšky cca 2,4 m mezi sousedy"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Venkovní schodiště",
+       "text": "- betonové z prefabrikovaných stupňů, osazených do betonového lože"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terénní úpravy",
+       "text": "- hrubé rozprostření ornice bez založení trávníku (mimo zpevněné plochy)"
+      }
+     ]
+    },
+    {
+     "category": "POZNÁMKA (závěr dokumentu)",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Jednotlivé standardy je možné v průběhu výstavby změnit při dodržení stejné jakosti a kvality a s ohledem na optimalizaci designového a architektonického řešení a také na dostupnost na trhu (ukončení výroby). Změnu standardu za nadstandard je možné provést v souladu s Pravidly klientských změn. Jednotlivé nadstandardy budou vybrány výhradně u smluvních dodavatelů. V případě dílčích odchylek mezi výkresovou částí dokumentace a textovou částí standardů, jsou nadřazeny standardy, které jsou přílohou Smlouvy o budoucí kupní smlouvě. Klienti mají nárok na 1 designový návrh koupelny zdarma. Vestavěné skříně nejsou součástí standardu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "document": "Standardy_RRD_110826.pdf",
+   "heading": "STANDARDY ŘADOVÉ DOMY 05 - 10",
+   "appliesTo": "Řadové rodinné domy ŘRD-05 až ŘRD-10",
+   "validFrom": "11. 8. 2026",
+   "url": "https://www.rezidenceslovanskeudoli.cz/standardy_rrd_110826_awm_dwn.pdf?data=ZO5zOWG2K3pT0YVuI7DkMuW+UpKI+mITAzgZNhfBMmZ8bnvVYreTei64vGQLOsKXwcJyC60y0sZWX5gzGsQYczQGgbh4vNP4b9GVdpO06Cs53nYrrXrW5lY9sG63",
+   "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-standardy-radove-domy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYpnQYjChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg==",
+   "presentation": {
+    "file": "Prezentace_RR_DD.pdf",
+    "url": "https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=",
+    "webThumbnail": "https://www.rezidenceslovanskeudoli.cz/nahled-prezentace-vybaveni-rodinnych-domu-a-dvojdomu_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xwsJPCbRm9dHuvYhnMcjChxoFg4qZws3y3ybSnbu2r0T2xK9x0yb12Czr4tdnCbEuOC54mJ2E9dZ7cmg==",
+    "note": "Prezentace má na titulu \"STANDARDY ŘRD\", na webu je nazvána \"Prezentace Vybavení Rodinných Domů a Dvojdomů\"; neobsahuje stranu se vstupními dveřmi."
+   },
+   "extractionNote": "Na str. 2 PDF jsou popisky prvků (Schodiště, Komín, Podlahy, Tepelná izolace, Zábradlí) v textové vrstvě posunuté; přiřazení rekonstruováno logicky.",
+   "categories": [
+    {
+     "category": "KONSTRUKCE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Základové konstrukce",
+       "text": "- železobetonová monolitická deska s armovací sítí, asfaltový modifikovaný pás proti radonu a vodě"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svislé konstrukce",
+       "text": "- nosné zdivo z keramických cihelných bloků v kombinaci s ŽB opěrnou stěnou pod úrovní terénu směrem do svahu v 1.PP\n- příčky zděné z keramických cihel 11,5\n- instalační přizdívky z pórobetonového zdiva za WC"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Omítky a fasáda",
+       "text": "- vnitřní – hladké jednovrstvé vápenosádrové omítky stěn, bílá výmalba\n- vnější – zateplovací systém domu s vrchní strukturovanou silikonovou probarvenou omítkou"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Výplně otvorů",
+       "text": "- vstupní dveře – PVC profil, neprůhledná izolační výplň v barvě, barevnost Quartzgrau / bílá, kování klika/koule\n- vnitřní dveře – viz níže\n- okna - plastová, vícekomorový profil, trojité těsnění, vestavná hloubka profilu 80mm, barevnost Quartzgrau (exterier) / bílá (interier), mikroventilace, izolační trojsklo Ug = 0,6 W/m2 K, celoobvodové kování\n- vnitřní parapety bílé plastové\n- venkovní parapety barvený pozinkovaný plech\n- kastlíky pro předokenní žaluzie vč. připojení na el. pohon\n- v rámci nadstandardu je možné zrealizovat předokenní žaluzie a jejich dálkové ovládání\n- garážová vrata – sekční, lamelová plná, automatizovaný el. pohon"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Vodorovné konstrukce",
+       "text": "- prefabrikované panely Spiroll + sádrokartonový podhled\n- překlady – prefabrikované typové cihelné, ocelové profily, ev. železobetonové monolitické"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Střecha",
+       "text": "- plochá jednoplášťová střecha v systémové skladbě\n- odvod dešťových vod vnějšími svody\n- střešní krytina – svařované fóliové pásy, 2 % spád\n- klempířské prvky – barvený pozinkovaný plech\n- střecha nad 1.NP provedena jako zelená extenzivní střecha s rozchodníkovým kobercem"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Schodiště",
+       "text": "- železobetonové prefabrikované s keramickým obkladem\n- zábradlí jednoduché kovové s lakovanou povrchovou úpravou"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Komín",
+       "text": "- není součástí standardu\n- v rámci nadstandardu je možné realizovat komín + krb či krbová kamna."
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Podlahy",
+       "text": "- skladba: nášlapná vrstva (viz níže), betonová strojně hlazená mazanina, PE fólie, kročejová příp. tepelná izolace, obvodové dilatace"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Tepelná izolace",
+       "text": "- podlaha v 1. PP – polystyren tl. 160 mm\n- podlaha ve 1. NP – kročejová izolace tl. 60 mm, v garáži tl. 40 mm\n- obvodové stěny domu – kontaktní zateplovací systém z fasádního polystyrenu tl. 200 mm\n- obvodové stěny lodžie - kontaktní zateplovací systém z fasádního polystyrenu tl. 150 mm\n- střecha domu – polystyren tl. 200 mm + spádové klíny z polystyrenu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Zábradlí balkonů",
+       "text": "- venkovní zábradlí z ocelových příčníků, žárový zinek + lakovaná povrchová úprava"
+      }
+     ]
+    },
+    {
+     "category": "ÚPRAVA POVRCHŮ",
+     "items": [
+      {
+       "manufacturer": "KRONO Original (SUPER NATURAL)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 14 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 15 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Laminátová podlaha",
+       "text": "- výrobce KRONO Original, kolekce SUPER NATURAL, třída zátěže AC4/32 – výběr z dekorů, obývací pokoj s kuchyňským koutem, ložnice, dětský pokoj"
+      },
+      {
+       "manufacturer": "RAKO (BETONICO)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 5 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Dlažby",
+       "text": "- WC, koupelna – keramická dlažba RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky\n- zádveří, chodba, garáž, technická místnost, komora – keramická dlažba včetně řezaného soklu RAKO série BETONICO 45 x 45 cm, provedení na střih, spárování šedé, bez mozaiky"
+      },
+      {
+       "manufacturer": "EBS (série MITO)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 4 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Obklady",
+       "text": "- WC, koupelna - keramický obklad EBS, série MITO 33,5 x 50 cm, v koupelně obložení do 2 m, na WC obložení do 1,6 m, provedení na střih, spárování bílé, bez inzert a listel"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terasy, balkony",
+       "text": "- podlaha teras v 1.PP – betonová dlažba do štěrkového lože a obrub, tl. 4 cm, přírodní šedá barevnost"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Přechody různých povrchů podlah budou řešeny přechodovými lištami. Upozorňujeme Budoucí kupující, že v případě lepené vinylové podlahové krytiny je nutné počítat s její rozměrovou stálostí dle ČSN EN ISO 23999 a vznikem případných spár mezi lamelami až do 0,25 % rozměru lamely, v souladu s technickými listy výrobce. Budoucí kupující bere na vědomí, že v místnostech s podlahovým vytápěním a lepenou podlahovou krytinou, kde je třeba dodržet dilatační úseky, bude tato krytina respektovat rozdělení dilatačních úseků a jejich přiznání pomocí dilatačních lišt, přerušení krytiny apod. V případě, že bude Budoucí kupující trvat na provedení krytiny bez respektování těchto dilatačních úseků, přebírá veškeré záruky za vady krytiny vzniklé absencí těchto dilatací v podlahové krytině."
+      }
+     ]
+    },
+    {
+     "category": "VNITŘNÍ DVEŘE",
+     "items": [
+      {
+       "manufacturer": "HÖRMANN (série ProLine)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 16 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Vnitřní dveře",
+       "text": "- výška 197 cm, plné, hladké, Duradecor, výplň dutinková DTD dřevotříska, vnější povrch CPL, typ HÖRMANN, série ProLine, výběr z dekorů\n- obložková zárubeň dle šířky stěn"
+      },
+      {
+       "manufacturer": "FAB; TWIN (HARMONIA DEF, Leko Vision)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 17 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Dveřní kování",
+       "text": "- vstupní dveře do bytu – zámek FAB, typ bezp. madlo/klika Twin HARMONIA DEF, KPZ/F1 72mm, eloxovaný hliník\n- vnitřní dveře - nerez, zámek obyčejný, typ TWIN Leko Vision H 1892R"
+      }
+     ]
+    },
+    {
+     "category": "ZDRAVOTNĚ TECHNICKÉ INSTALACE",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Rozvody",
+       "text": "- vody - plastové s označením Hostalen (vnitřní) a PE (vnější)\n- kanalizace - plastové s označením KG (vnější) a HT (vnitřní)"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Pračka",
+       "text": "- příprava pro připojení pračky samostatným výtokovým ventilem s ¾\" závitem a odpadem, elektrická zásuvka"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Vývod studené vody",
+       "text": "- na terase v 1. PP nezámrzný kohout"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Dešťová kanalizace",
+       "text": "- zemní práce a rozvody dešťové kanalizace na pozemku\n- u ŘRD svod dešťové vody do retenční nádrže 4m3 + vsakovací štěrkové jímky"
+      }
+     ]
+    },
+    {
+     "category": "ZAŘIZOVACÍ PŘEDMĚTY",
+     "items": [
+      {
+       "title": "Umyvadlo",
+       "text": "- KOLO Rekord 60 x 40 cm, PVC chromový sifon click- clack",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie",
+       "text": "- EBS Senso chromová",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchová vanička",
+       "text": "- Litý mramor 90 x 90 cm, hloubka 1,5 cm, radius, nebo čtverec",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_RR_DD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchový kout",
+       "text": "- HÜPPE Urban 90 x 90 cm, čtvrtkruh, nebo čtverec",
+       "manufacturer": "HÜPPE (Urban)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 10 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 11 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)",
+        "Prezentace_RR_DD.pdf s. 12 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchová baterie",
+       "text": "- EBS Senso chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Sprchový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vana",
+       "text": "- EBS Vera 170 x 75 cm, vanová podpora, vanový sifon",
+       "manufacturer": "EBS (Vera)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 9 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vanová baterie",
+       "text": "- EBS Senso, chromová, nástěnná",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Vanový set",
+       "text": "- NOVASERVIS Metalia 54, chromový",
+       "manufacturer": "NOVASERVIS (Metalia 54)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 8 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC mísa",
+       "text": "- EBS Urban keramické bílé",
+       "manufacturer": "EBS (Urban)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC sedátko",
+       "text": "- bílé plast, soft - close",
+       "manufacturer": null,
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "WC tlačítko",
+       "text": "- Geberit Sigma 01 bílé",
+       "manufacturer": "Geberit (Sigma 01)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umývátko",
+       "text": "- KOLO Rekord 40 x 31 cm",
+       "manufacturer": "KOLO (Rekord)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 6 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Umyvadlová baterie (umývátko)",
+       "text": "- EBS Senso chromová, stojánková",
+       "manufacturer": "EBS (Senso)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 7 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ]
+      },
+      {
+       "title": "Poznámka",
+       "text": "Součástí standardu je vestavný modul pro závěsnou mísu WC. Koupelna a WC obsahují ve standardu pouze ty zařizovací předměty, které jsou zakresleny v půdorysu silnou čarou, který je součástí Smlouvy o budoucí kupní smlouvě.",
+       "manufacturer": null,
+       "images": []
+      }
+     ]
+    },
+    {
+     "category": "VZDUCHOTECHNIKA",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Ventilátor",
+       "text": "- odvětrání koupelny, technické místnosti a komory v 1.PP\n- příprava pro vývod pro digestoř ukončený výstupem ze stropu\n- ostatní místnosti jsou větrány přirozeně"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Případné zakrytí odvětrávacího potrubí dle umístění spotřebičů bude řešeno v rámci nadstandardu kuchyňské linky."
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SILNOPROUD",
+     "items": [
+      {
+       "manufacturer": "TANGO (typ; výrobce neuveden)",
+       "images": [],
+       "title": "Vypínače, zásuvky",
+       "text": "- typ TANGO – bílá barva\n- počet a umístění jsou znázorněny v projektu\n- na každé terase, balkonu, nebo lodžii je osazena jedna zásuvka pro venkovní prostředí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Svítidla",
+       "text": "- stropní nebo nástěnná\n- součástí standardu jsou pouze svítidla na chodbě, tech. místnosti, v koupelně, v garáži, na terase ev. balkonu (venkovní svítidla nelze měnit)\n- v obytných místnostech je jeden vývod pro stropní svítidlo\n- v koupelně je jeden vývod pro osvětlení zrcadla"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Elektrické vedení",
+       "text": "- rozvody vedeny skrytě, materiál měď"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava rozvodů",
+       "text": "- příprava rozvodů v kuchyni pro elektrické spotřebiče viz níže\n- příprava pro venkovní žaluzie"
+      }
+     ]
+    },
+    {
+     "category": "ELEKTROINSTALACE - SLABOPROUD",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Televize",
+       "text": "- v rámci STA rozvody do všech obytných místností"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Domovní zvonek",
+       "text": "- audiosystém s interkomem a el. vrátníkem k hlavním vchodovým dveřím do domu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Datová síť",
+       "text": "- rozvody do všech obytných místností, zásuvky 2 x RJ 45"
+      }
+     ]
+    },
+    {
+     "category": "VYTÁPĚNÍ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Podlahové vytápění",
+       "text": "- ve všech místnostech\n- rozvod v podlaze polypropylenovým potrubím na systémové desce"
+      },
+      {
+       "manufacturer": "KORADO Koralux Linear Classic (dle prezentace)",
+       "images": [
+        "Prezentace_RR_DD.pdf s. 13 (fotografie/vzorník v PDF: https://www.rezidenceslovanskeudoli.cz/prezentace_rr_dd_awm_dwn.pdf?data=ZO5zOWG2K3pQyZV6KzfosI3KX5JK+ohE4nAyZj7Nt1di7ZP0Lhd5yGHRhS+DsOSwtYxpY6z6YiMzORg3GsAY4ngv0/FvOivscqXRVnK37LK1nmtzrOnC5vY=)"
+       ],
+       "title": "Otopné těleso v koupelně",
+       "text": "- trubkové otopné těleso (žebřík), termohlavice\n- možno realizovat v nadstandardu el. patronu osazenou do žebříku"
+      },
+      {
+       "manufacturer": "neuveden",
+       "images": [],
+       "title": "Zdroj vytápění",
+       "text": "- tepelné čerpadlo vzduch/voda, venkovní jednotka umístěná na střeše domu\n- v rámci nadstandardu lze doplnit alternativní zdroj vytápění krbová kamna + komín"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Upozorňujeme Budoucí kupující, že v případě podlahového vytápění realizovaného v rámci standardu nebudou jeho rozvody provedeny pod předměty s pevně daným umístěním (např. pod kuchyňskou linkou, vestavěnými skříněmi, vanou, sprchovým koutem, kotlem, boilerem TUV apod.)."
+      }
+     ]
+    },
+    {
+     "category": "KUCHYNĚ",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Příprava pro kuchyňskou linku",
+       "text": "- jednofázový přívod elektřiny pro lednici, troubu, digestoř, myčku, mikrovlnou troubu\n- třífázový přívod elektřiny pro varnou desku\n- 2 x 2 samostatné zásuvky pod horními skříňkami\n- 1x vývod pro instalaci osvětlení pod horními skříňkami, včetně vypínače\n- odpadní potrubí pro dřez\n- vývod teplé a studené vody pro napojení dřezové stojánkové baterie, ventily ½\" - ⅜\"\n- přívod studené vody pro myčku osazený pračkovým ventilem s ¾\" závitem, připojení odpadu myčky je uvažováno k dřezovému sifonu, který není součástí standardní dodávky\n- příprava pro vývod na digestoř ukončený výstupem ze zdi v pozici stoupacího potrubí"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Součástí standardu není kuchyňská linka se spotřebiči (ani jejich zapojení), dřezová baterie, keramický obklad za kuchyňskou linkou, dopojení digestoře včetně zpětné klapky a případného zakrytí sádrokartonovou konstrukcí."
+      }
+     ]
+    },
+    {
+     "category": "VENKOVNÍ ÚPRAVY",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Parkovací stání a chodník",
+       "text": "- betonová dlažba, přírodní barva"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Okapový chodník",
+       "text": "- kačírek a betonová dlažba přírodní barvy do pískového lože"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terasy",
+       "text": "- podlaha teras v 1.PP – betonová dlažba do štěrku a obrub, tl. 4 cm, přírodní šedá barevnost"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Oplocení",
+       "text": "- vnější oplocení mezi sousedy je tvořené pozinkovaným pletivem s podhrabovými deskami. Výška oplocení je +-1,5 m\n- vchodová branka s přístupem na zahradu"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Pergola",
+       "text": "- u ŘRD nosná konstrukce pergoly z ocel. jeklů s přípravou na el. pohon (zastínění možno realizovat v rámci nadstandardu dle vlastního výběru typu a materiálu)\n- RDD pergoly ve standardu nemají, mají pouze zástěny u teras do výšky cca 2,4 m mezi sousedy"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Venkovní schodiště",
+       "text": "- betonové z prefabrikovaných stupňů, osazených do betonového lože"
+      },
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Terénní úpravy",
+       "text": "- hrubé rozprostření ornice bez založení trávníku (mimo zpevněné plochy)"
+      }
+     ]
+    },
+    {
+     "category": "POZNÁMKA (závěr dokumentu)",
+     "items": [
+      {
+       "manufacturer": null,
+       "images": [],
+       "title": "Poznámka",
+       "text": "Jednotlivé standardy je možné v průběhu výstavby změnit při dodržení stejné jakosti a kvality a s ohledem na optimalizaci designového a architektonického řešení a také na dostupnost na trhu (ukončení výroby). Změnu standardu za nadstandard je možné provést v souladu s Pravidly klientských změn. Jednotlivé nadstandardy budou vybrány výhradně u smluvních dodavatelů. V případě dílčích odchylek mezi výkresovou částí dokumentace a textovou částí standardů, jsou nadřazeny standardy, které jsou přílohou Smlouvy o budoucí kupní smlouvě. Klienti mají nárok na 1 designový návrh koupelny zdarma. Vestavěné skříně nejsou součástí standardu."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

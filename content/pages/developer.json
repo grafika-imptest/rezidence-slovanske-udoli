@@ -1,0 +1,9 @@
+{
+  "path": "developer/", "section": "developer/", "title": "Developer IKO",
+  "description": "IKO stavby s.r.o. – rodinná stavební a developerská firma z Plzně, developer Rezidence Slovanské údolí.",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Developer", "title": "Za projektem stojí IKO Plzeň", "lead": "Rodinná stavební a developerská firma z Plzně. Od roku 1991 stavíme domy, od roku 2003 také vlastní rezidenční projekty.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Developer" }] },
+    { "type": "Developer", "variant": "full" },
+    { "type": "CTA", "eyebrow": "Slovanské údolí", "title": "Projekt IKO ve Skvrňanech", "text": "65 bytů, 6 řadových domů a 4 dvojdomy při Vejprnické ulici.", "button": "Nabídka jednotek", "href": "nabidka/", "image": "su-0018" }
+  ]
+}

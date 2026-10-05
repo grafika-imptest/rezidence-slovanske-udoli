@@ -1,0 +1,128 @@
+{
+  "_meta": { "note": "Texty o projektu – doslovně ze současného webu rezidenceslovanskeudoli.cz (stav 5. 10. 2026), pokud není uvedeno jinak.", "source": "/, /nemovitosti, /nemovitosti/byty, /nemovitosti/radove-domy, /nemovitosti/dvojdomy" },
+
+  "intro": "Lokalita navazuje na stávající zástavbu Slovanského údolí. Dopravně je napojena z křižovatky ulic Za Humny a Slovanské údolí. Bytové domy o 65 bytových jednotkách jsou umístěny při Vejprnické ulici a využívají svažitosti terénu. Obytné místnosti jsou situovány s výhledem na údolí Vejprnického potoka. 10 řadových domů a dvojdomů je situováno při jižní hraně pozemku. Kromě obslužné komunikace bude v rámci výstavby vybudována též kompletní technická infrastruktura.",
+  "introShort": "Lokalita nabízí klidné místo pro rodinné bydlení s krásnou přírodou na dosah a současně vynikající občanskou vybaveností.",
+
+  "facts": [
+    { "value": "65", "label": "bytů ve dvou bytových domech", "src": "web" },
+    { "value": "6", "label": "řadových domů 5+kk", "src": "web – tabulka ŘRD-05 až 10" },
+    { "value": "4", "label": "dvojdomy 4+kk", "src": "web – tabulka RDD-01 až 04" },
+    { "value": "B", "label": "energetická třída všech objektů (PENB)", "src": "PENB BD1, BD2, RDD, ŘRD" }
+  ],
+
+  "timeline": [
+    { "label": "Zahájení výstavby", "value": "cca 05/2026", "note": "Galerie stavby uvádí „4/2026 – zahájení výstavby“.", "verify": true },
+    { "label": "Dokončení bytových domů", "value": "cca 12/2028", "verify": false },
+    { "label": "Dokončení dvojdomů", "value": "cca 02/2029", "note": "Na /nemovitosti „bude upřesněno“.", "verify": true },
+    { "label": "Dokončení řadových domů", "value": "cca 03/2029", "note": "Na /nemovitosti „bude upřesněno“.", "verify": true }
+  ],
+
+  "typologies": [
+    {
+      "id": "byt", "title": "Byty", "plural": "Byty", "href": "nabidka/?typ=byt",
+      "image": "su-0014", "imageAlt": "Bytový dům při Vejprnické ulici – vizualizace",
+      "lead": "Bytové domy 01 a 02 využívají svažitosti terénu. Obytné místnosti jsou situovány s výhledem na údolí Vejprnického potoka.",
+      "bullets": [
+        "Dispozice bytů 1+KK, 2+KK, 3+KK, 4+KK",
+        "K bytům v přízemí náleží vlastní zahrady",
+        "Dostatek soukromí - jen 2-3 byty na patře",
+        "Parkování v suterénu byt. domu",
+        "Každý byt má vlastní sklep",
+        "Nízká energetická náročnost"
+      ],
+      "description": [
+        "Bytové domy 01 a 02 budou vybudovány v rámci výstavby lokality Rezidence Slovanské Údolí. Lokalita navazuje na stávající zástavbu Slovanského údolí. Dopravně je napojena z křižovatky ulic Za Humny a Slovanské údolí. Bytové domy o 65 bytových jednotkách jsou umístěny při Vejprnické ulici a využívají svažitosti terénu. Obytné místnosti jsou situovány s výhledem na údolí Vejprnického potoka. Lokalita nabízí klidné místo pro rodinné bydlení s přírodou na dosah a současně vynikající občanskou vybaveností. Nespornou výhodou je též napojení na nově vybudovaný západní obchvat Plzně.",
+        "V 2. PP jsou umístěna krytá parkovací stání a sklepní kóje. Současně jsou zde prostory pro umístění el. rozvaděčů a slaboproudých rozvodů. Vytápění a příprava TUV bude zajištěno centrální plynovou kotelnou umístěnou v 2. PP každého z bytových domů. Propojení podzemního parkování s vyššími podlažími je zajištěno výtahy.",
+        "Součástí vybraných bytů jsou balkony, nebo lodžie, u většiny bytů v 1. PP pak terasy se vlastními zahradami."
+      ],
+      "priceIncludes": [
+        "cenu bytové jednotky při zachování standardního vybavení, jehož součástí není pouze dodávka kuchyňské linky, vestavěného nábytku a svítidel v obytných místnostech",
+        "cenu příslušenství (sklep, balkon, popř. lodžie, terasa se zahradou)",
+        "cenu spoluvlastnického podílu na pozemku zastavěném bytovým domem a pozemku přiléhajícímu k bytovému domu, na společných částech domu a veškerých inženýrských sítích a rozvodech, resp. přípojkách, které budou v podílovém spoluvlastnictví vlastníků jednotek."
+      ],
+      "priceNote": "Cena bytu je uvedena včetně platné DPH. K ceně bytové jednotky bude dále připočítána cena parkovacího stání (umístění - viz půdorys bytové jednotky). Kromě vnitřních parkovacích stání budou na venkovní komunikaci přiléhající k bytovému domu veřejná parkovací stání, která budou převedena včetně komunikace po dokončení lokality do majetku města Plzně.",
+      "verify": [
+        "Počet podlaží: text webu uvádí „5 podlažní objekt“ a „V 1. PP až 4. NP se nachází celkem 65 bytových jednotek“, prodejní listy a tabulky končí 3. NP.",
+        "Počet výtahů: homepage uvádí 7 výtahů, standardy „osobní trakční výtah v každém vchodě“.",
+        "Vytápění: /nemovitosti uvádí napojení na Plzeňskou teplárenskou, ostatní zdroje (standardy, PENB, /byty) plynovou kotelnu – na novém webu použita plynová kotelna."
+      ]
+    },
+    {
+      "id": "radovy-dum", "title": "Řadové domy", "plural": "Řadové domy", "href": "nabidka/?typ=radovy-dum",
+      "image": "su-0040", "imageAlt": "Rodinné domy se zahradami – vizualizace", "imageVerify": "Přiřazení vizualizace k typu domu K OVĚŘENÍ",
+      "video": "su-vrc-40",
+      "lead": "Řadový rodinný dům je navržen se dvěma nadzemními podlažími, přičemž vstup do domu a vjezd do garáže je z úrovně horního podlaží a výstup na zahradu, terasa a hlavní obytná část + KK se nachází ve spodním podlaží, které je zapuštěno do svahu.",
+      "bullets": [
+        "Extenzivní zelené střechy ve standardu",
+        "Garáž a tech. místnost součástí domů",
+        "Jižní a západní orientace",
+        "Soukromé zóny na pozemcích a prostorné terasy",
+        "Nízká energetická náročnost",
+        "Velká modulová šířka domu 12,4 m"
+      ],
+      "description": [
+        "Řadový rodinný dům je navržen se dvěma nadzemními podlažími, přičemž vstup do domu a vjezd do garáže je z úrovně horního podlaží a výstup na zahradu, terasa a hlavní obytná část + KK se nachází ve spodním podlaží, které je zapuštěno do svahu. Každý řadový rodinný dům tvoří samostatný celek. Architektonické řešení vychází z návrhu celé lokality „Rezidence Slovanské Údolí“.",
+        "Dispozičně je řadový rodinný dům řešen jako 5+kk. V 1. NP se nachází závětří, chodba se schodištěm, koupelna, 2 další pokoje s velkou společnou lodžií a garáž. Ve spodním 1. PP je ze společné chodby přístup do obývacího pokoje + KK, ložnice a pokoje pro hosty, koupelny, samostatného WC, technické místnosti a komory."
+      ],
+      "priceIncludes": [
+        "cenu řadového rodinného domu při zachování standardního vybavení, jehož součástí není pouze dodávka kuchyňské linky, vestavěného nábytku a svítidel v obytných místnostech",
+        "cenu přípojek inženýrských sítí k řadovému rodinnému domu",
+        "cenu venkovních úprav: terasa, přístupový chodník, příjezd do garáže a okapový chodník, venkovní schodiště, oplocení, terénní úpravy s rozhrnutím ornice na pozemku",
+        "cenu pozemku zastavěného řadovým rodinným domem a pozemku náležejícího k domu"
+      ],
+      "priceNote": "Cena řadového rodinného domu je uvedena včetně platné DPH.",
+      "verify": [
+        "Parkování: /nemovitosti uvádí „jedno parkovací stání v garáži a další 2 stání venkovní“, /nemovitosti/radove-domy „1x vnitřní v garáži a 1x venkovní před garáží“.",
+        "Homepage uvádí „3 typy řadových domů - levý, pravý, prostřední“ – v nabídce nejsou typy rozlišeny."
+      ]
+    },
+    {
+      "id": "dvojdum", "title": "Dvojdomy", "plural": "Dvojdomy", "href": "nabidka/?typ=dvojdum",
+      "image": "su-0023", "imageAlt": "Rodinný dům s terasou – vizualizace", "imageVerify": "Přiřazení vizualizace k typu domu K OVĚŘENÍ",
+      "lead": "Rodinný dvojdům je navržen se dvěma nadzemními podlažími, přičemž vstup do domu a vjezd do garáže je z úrovně horního podlaží a výstup na zahradu, terasa a hlavní obytná část + KK se nachází ve spodním podlaží, které je zapuštěno do svahu.",
+      "bullets": [
+        "2 typy rodinných domů - levý a pravý",
+        "Extenzivní zelené střechy ve standardu",
+        "Garáž a tech. místnost součástí domů",
+        "Jižní a západní orientace",
+        "Soukromé zóny na pozemcích a prostorné terasy",
+        "Velká modulová šířka domu 10,4 m"
+      ],
+      "description": [
+        "Rodinný dvojdům je navržen se dvěma nadzemními podlažími přičemž vstup do domu a vjezd do garáže je z úrovně horního podlaží a výstup na zahradu, terasa a hlavní obytná část + KK se nachází ve spodním podlaží, které je zapuštěno do svahu. Každý rodinný dvojdům tvoří samostatný celek. Architektonické řešení vychází z návrhu celé lokality „Rezidence Slovanské Údolí“.",
+        "Dispozičně je rodinný dvojdům řešený jako 4+kk. V 1. NP se nachází závětří, chodba se schodištěm, koupelna, pokoj, ložnice s velkou společnou lodžií a garáž. Ve spodním 1. PP je ze společné chodby přístup do obývacího pokoje + KK, pokoje, koupelny, samostatného WC, technické místnosti a komory. Ke každému domu náleží parkovací stání na vlastním pozemku (1x vnitřní v garáži a 1x venkovní před garáží). Vstup do domu je přes kryté závětří."
+      ],
+      "priceIncludes": [
+        "cenu rodinného dvojdomu při zachování standardního vybavení, jehož součástí není pouze dodávka kuchyňské linky, vestavěného nábytku a svítidel v obytných místnostech",
+        "cenu přípojek inženýrských sítí k rodinnému dvojdomu",
+        "cenu venkovních úprav: terasa, přístupový chodník, příjezd do garáže a okapový chodník, venkovní schodiště, oplocení, terénní úpravy s rozhrnutím ornice na pozemku",
+        "cenu pozemku zastavěného rodinným dvojdomem a pozemku náležejícího k domu"
+      ],
+      "priceNote": "Cena rodinného dvojdomu je uvedena včetně platné DPH.",
+      "verify": []
+    }
+  ],
+
+  "architecture": {
+    "text": "Architektonické řešení vychází z návrhu celé lokality „Rezidence Slovanské Údolí“.",
+    "architect": null,
+    "_gap": "Jméno architekta / ateliéru a popis architektonického konceptu nad rámec této věty na webu ani v podkladech nejsou."
+  },
+
+  "energy": [
+    { "object": "Bytový dům 1", "class": "B", "value": "91 kWh/(m²·rok)", "pdf": "docs/PENB_BD1.pdf" },
+    { "object": "Bytový dům 2", "class": "B", "value": "88 kWh/(m²·rok)", "pdf": "docs/PENB_BD2.pdf" },
+    { "object": "Dvojdomy", "class": "B", "value": "62 kWh/(m²·rok)", "pdf": "docs/PENB_RDD.pdf" },
+    { "object": "Řadové domy", "class": "B", "value": "58 kWh/(m²·rok)", "pdf": "docs/PENB_RRD.pdf", "verify": "PENB ŘRD nemá vyplněné evidenční číslo průkazu." }
+  ],
+
+  "technical": [
+    { "label": "Okna", "value": "plastová, izolační trojsklo Ug = 0,6 W/m2 K, barevnost Quartzgrau / bílá", "src": "Standardy (všechny typy)" },
+    { "label": "Vytápění – byty", "value": "sestava dvou plynových kondenzačních kotlů, společná kotelna v technické místnosti 2.PP", "src": "Standardy BD1 a BD2" },
+    { "label": "Vytápění – domy", "value": "tepelné čerpadlo vzduch/voda, podlahové vytápění ve všech místnostech", "src": "Standardy DD a ŘRD" },
+    { "label": "Střechy", "value": "zelené střechy – u bytových domů nad 2.PP, u domů extenzivní s rozchodníkovým kobercem nad 1.NP", "src": "Standardy" },
+    { "label": "Parkování – byty", "value": "kryté garážové stání ve 2. PP, cena 425 000 Kč s DPH", "src": "web /nemovitosti/byty" },
+    { "label": "Sklepy", "value": "každý byt má vlastní sklep", "src": "web homepage" }
+  ]
+}

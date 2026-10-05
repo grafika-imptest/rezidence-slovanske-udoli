@@ -1,0 +1,10 @@
+{
+  "path": "nabidka/", "section": "nabidka/", "title": "Nabídka bytů a domů",
+  "description": "Interaktivní výběr bytů, řadových domů a dvojdomů v Rezidenci Slovanské údolí – situace, půdorysy pater, ceny a dostupnost.",
+  "scripts": ["selector.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Nabídka", "title": "Vyberte byt nebo dům", "lead": "Začněte v situaci areálu, nebo rovnou filtrujte podle dispozice, plochy a ceny.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Nabídka" }] },
+    { "type": "UnitSelector" },
+    { "type": "CTA", "eyebrow": "Poradíme vám", "title": "Nevíte si rady s výběrem?", "text": "Zavolejte nebo napište – projdeme s vámi půdorysy i financování.", "button": "Kontaktovat prodej", "href": "kontakt/", "image": "su-0020", "imageAlt": "Výhled z balkonu na rodinné domy" }
+  ]
+}

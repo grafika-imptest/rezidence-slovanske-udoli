@@ -1,0 +1,101 @@
+{
+ "note": "Web NEMÁ sekci aktuality/novinky (/aktuality přesměrovává 301 na /). Jediným časovým obsahem jsou datované sekce fotogalerie stavby na /galerie – bez textu, jen nadpis + fotky.",
+ "items": [
+  {
+   "date": "7/2026",
+   "title": "7/2026 - zajištění stavební jámy a přeložky",
+   "text": null,
+   "source": "https://www.rezidenceslovanskeudoli.cz/galerie",
+   "images": [
+    {
+     "title": "Oplocení stavby Vejprnická ulice",
+     "full": "https://www.rezidenceslovanskeudoli.cz/oploceni-stavby-vejprnicka-ulice_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRZi6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-oploceni-stavby-vejprnicka-ulice_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMpkX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Základy řadové domy",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zaklady-radove-domy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRai6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zaklady-radove-domy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMqkX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Základy dvojdomy",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zaklady-dvojdomy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRbC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zaklady-dvojdomy_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMrEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Přeložka vodovodního řadu",
+     "full": "https://www.rezidenceslovanskeudoli.cz/prelozka-vodovodniho-radu_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRbi6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-prelozka-vodovodniho-radu_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMrkX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Záporové pažení BD1",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zaporove-pazeni-bd1_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRcC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zaporove-pazeni-bd1_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMsEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Celkový pohled na staveniště",
+     "full": "https://www.rezidenceslovanskeudoli.cz/celkovy-pohled-na-staveniste_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRci6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-celkovy-pohled-na-staveniste_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMskX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Záporová stěna",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zaporova-stena_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmZYC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zaporova-stena_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIM4EX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Záporová stěna BD2",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zaporova-stena-bd2_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmZYi6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zaporova-stena-bd2_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIM4kX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    }
+   ]
+  },
+  {
+   "date": "4/2026",
+   "title": "4/2026 - zahájení výstavby",
+   "text": null,
+   "source": "https://www.rezidenceslovanskeudoli.cz/galerie",
+   "images": [
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmJai6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMakX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmJbC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMbEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmJbi6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMbkX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmJcC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMcEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmJci6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMckX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRYC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMoEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRYi6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMokX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    },
+    {
+     "title": "Zahájení zemních prací",
+     "full": "https://www.rezidenceslovanskeudoli.cz/zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06TfKPs3edRPtk3ri4i8yYTqFl2Zvjnt9MBmRZC6pwWc=",
+     "thumb": "https://www.rezidenceslovanskeudoli.cz/nahled-zahajeni-zemnich-praci_awm_min.jpg?data=cE4r2Xq3k9Zv2YV06bDct/HmaZNtC3ozAzA+drzNtRY9RoHAfLl76mK9yT1xF14XuF5wQw76wgfGabVhsZWXRmGOC7xmt6PeX8DIMpEX1Did+G+TLdPc9ld0nmOyuTonb84L0Xw7y+BsuaV06SKIIhGIRONts8LGlnSwTzHJsKd1p7nU"
+    }
+   ]
+  }
+ ]
+}

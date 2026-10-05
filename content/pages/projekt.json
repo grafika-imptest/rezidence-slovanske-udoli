@@ -1,0 +1,15 @@
+{
+  "path": "projekt/", "section": "projekt/", "title": "Projekt",
+  "description": "Rezidence Slovanské údolí – bytové domy BD1 a BD2, řadové domy a dvojdomy v Plzni-Skvrňanech. Koncept, typologie, technické údaje a vizualizace.",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Projekt", "title": "Rezidence Slovanské údolí", "lead": "Lokalita navazuje na stávající zástavbu Slovanského údolí. Obytné místnosti jsou situovány s výhledem na údolí Vejprnického potoka.", "image": "su-0017", "imageAlt": "Letecký pohled od jihu s údolím Vejprnického potoka" },
+    { "type": "ProjectFacts" },
+    { "type": "Architecture", "eyebrow": "Koncept", "title": "Domy, které využívají svah" },
+    { "type": "VideoBanner", "video": "su-vrc-18", "eyebrow": "Video", "title": "Areál z výšky" },
+    { "type": "TypologyDetail" },
+    { "type": "TechFacts", "eyebrow": "Technické údaje", "title": "Energetická třída B a konkrétní technologie" },
+    { "type": "Timeline", "eyebrow": "Harmonogram", "title": "Termíny výstavby", "newsLink": true },
+    { "type": "Gallery", "eyebrow": "Galerie", "title": "Vizualizace", "filters": true, "paper": true },
+    { "type": "CTA", "eyebrow": "Nabídka", "title": "Vyberte si svůj domov", "text": "Interaktivní výběr podle situace, podlaží a dispozice.", "button": "Otevřít nabídku", "href": "nabidka/", "image": "su-0023", "imageAlt": "Rodinný dům s terasou a zahradou" }
+  ]
+}

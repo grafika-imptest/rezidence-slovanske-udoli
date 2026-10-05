@@ -1,0 +1,19 @@
+{
+  "path": "",
+  "title": null,
+  "blocks": [
+    { "type": "HeroVideo", "eyebrow": "Plzeň 3 · Skvrňany · při Vejprnické ulici", "title": "Slovanské údolí", "lead": "65 bytů, 6 řadových domů a 4 dvojdomy ve svahu nad údolím Vejprnického potoka." },
+    { "type": "Intro", "eyebrow": "O projektu", "title": "Bydlení ve svahu s výhledem do údolí", "image": "su-0003", "imageAlt": "Bytové domy podél obslužné komunikace" },
+    { "type": "ProjectFacts" },
+    { "type": "Typology", "eyebrow": "Co se prodává", "title": "Byty, řadové domy a dvojdomy", "lead": "Dva bytové domy při Vejprnické ulici a deset rodinných domů při jižní hraně pozemku. Počty a ceny se načítají z aktuální nabídky." },
+    { "type": "SelectorTeaser", "eyebrow": "Výběr jednotky", "title": "Najděte svůj byt nebo dům přímo v situaci", "lead": "Vyberte objekt, podlaží a konkrétní jednotku. U každé najdete půdorys, plochy místností, cenu a prodejní list ke stažení." },
+    { "type": "VideoBanner", "video": "su-vrc-18", "eyebrow": "Areál z výšky", "title": "Celé Slovanské údolí na jednom místě", "text": "Bytové domy využívají svažitosti terénu, rodinné domy jsou situovány při jižní hraně pozemku.", "cta": { "label": "Prohlédnout projekt", "href": "projekt/" } },
+    { "type": "StandardsTeaser", "eyebrow": "Standardy", "title": "Konkrétní výrobky, ne obecné sliby", "lead": "Standardy vybavení jsou rozepsané po položkách včetně výrobců – pro byty, dvojdomy i řadové domy zvlášť." },
+    { "type": "LocationTeaser", "eyebrow": "Lokalita", "title": "Skvrňany, Plzeň 3" },
+    { "type": "Gallery", "eyebrow": "Vizualizace", "title": "Jak bude Slovanské údolí vypadat", "ids": ["su-0018", "su-0021", "su-0028", "su-0012", "su-0040", "su-0020"], "more": "projekt/#galerie" },
+    { "type": "Timeline", "eyebrow": "Stav projektu", "title": "Výstavba byla zahájena v roce 2026", "newsLink": true },
+    { "type": "NewsList", "eyebrow": "Aktuality", "title": "Ze stavby", "limit": 3 },
+    { "type": "Developer", "variant": "compact" },
+    { "type": "ContactForm", "eyebrow": "Kontakt", "title": "Máte zájem o byt nebo dům?", "paper": true }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "path": "standardy/", "section": "standardy/", "title": "Standardy",
+  "description": "Standardy vybavení bytů, dvojdomů a řadových domů v Rezidenci Slovanské údolí – konstrukce, podlahy, koupelny, dveře, vytápění a další.",
+  "scripts": ["standards.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Standardy", "title": "Co je součástí dodávky", "lead": "Položky ze standardů projektu včetně výrobců a konkrétních sérií. Vyberte typ výstavby a projděte kategorie.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Standardy" }] },
+    { "type": "StandardsExplorer" },
+    { "type": "CTA", "eyebrow": "Klientské změny", "title": "Chcete jiné vybavení?", "text": "Standard lze upravit v rámci klientských změn KZ1–KZ3.", "button": "Pravidla a postup", "href": "financovani/#kz", "image": "su-0028" }
+  ]
+}

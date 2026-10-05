@@ -1,0 +1,25 @@
+{
+  "_meta": { "note": "Developer – texty doslovně z ikoplzen.cz a ikoplzen.imptest.cz (nová centrála IKO, copy dodané klientem/IMPnet). Čísla ze stat bandu centrály nejsou nezávisle ověřena.", "source": "ikoplzen.cz, ikoplzen.imptest.cz (5. 10. 2026)" },
+  "eyebrow": "Developer projektu",
+  "title": "Místo, které si vybíráme stejně pečlivě jako vy.",
+  "paragraphs": [
+    "Jsme rodinná stavební a developerská firma z Plzně. Od roku 1991 stavíme domy — a od roku 2003 také vlastní rezidenční projekty. Vše pod jednou střechou: přípravu, realizaci i prodej.",
+    "Kupujete u nás jistotu, ne jen metry čtvereční. Vlastní kapitál, vlastní realizační tým a přímé jednání znamenají, že za kvalitou stojí konkrétní lidé — ti, kteří dům skutečně staví."
+  ],
+  "history": "Společnost IKO zahájila svoji činnost v roce 1991. Od roku 2003 se společnost začala také zabývat vlastní developerskou činností zaměřenou převážně na výstavbu rodinných domů, řadových domů a bytů v rámci nově vznikajících lokalit pro bydlení. Za výstavbu obytné lokality Újezd – Na Dražkách, zejména pak za její komplexní a architektonické řešení, obdržela dokonce firma titul „Stavba roku Plzeňského kraje 2017“.",
+  "stats": [
+    { "value": "35", "label": "let na trhu", "sub": "Rodinná firma z Plzně od roku 1991" },
+    { "value": "1875+", "label": "postavených bytových jednotek", "sub": "Od roku 2003 do dnes", "verify": true },
+    { "value": "19+", "label": "realizovaných kompletních projektů", "sub": "Celé obytné lokality", "verify": true },
+    { "value": "100 %", "label": "vlastní kapitál", "sub": "Bez rizika zastavení projektu", "verify": true }
+  ],
+  "_src_stats": "Stat band ikoplzen.imptest.cz – hodnoty dodal klient do nové centrály, nezávisle neověřeno → K OVĚŘENÍ před spuštěním.",
+  "benefits": [
+    "prodej nemovitostí probíhá zcela v naší režii bez účasti dalších zprostředkovatelů",
+    "samozřejmostí je snaha a ochota vyhovět přáním našich zákazníků v rámci jejich požadavků na provedení klientských změn",
+    "výstavba je realizována naší společností, popř. spolupracujícími firmami pod dohledem našich stavbyvedoucích a mistrů",
+    "v případě zájmu možnost zajištění financování koupě nemovitostí"
+  ],
+  "_src_benefits": "ikoplzen.cz – Výhody pro naše klienty (výběr, doslovně)",
+  "projectsTitle": "Další projekty IKO"
+}

@@ -1,0 +1,1942 @@
+{
+ "source": "https://www.rezidenceslovanskeudoli.cz/nemovitosti",
+ "scrapedAt": "2026-10-05",
+ "notes": [
+  "Data jsou v HTML tabulkách (server-side render, CMS awm / Tuto Studio), žádné JSON/API nenalezeno.",
+  "U prodaných jednotek web neuvádí cenu bytu ani cenu stání (prázdné buňky).",
+  "Cena garážového stání (425 000 Kč s DPH) je uvedena u každého neprodaného bytu.",
+  "Na webu nejsou samostatné detailní stránky jednotek; detail = prodejní list PDF.",
+  "Byty BD1-08 a BD2-05: web uvádí 1+KK, prodejní list 1,5+kk."
+ ],
+ "summary": {
+  "BD1": {
+   "volne": 23,
+   "rezervovano": 16,
+   "prodano": 6,
+   "celkem": 45
+  },
+  "BD2": {
+   "volne": 0,
+   "rezervovano": 0,
+   "prodano": 20,
+   "celkem": 20
+  },
+  "Řadové domy 5-10": {
+   "volne": 5,
+   "rezervovano": 1,
+   "prodano": 0,
+   "celkem": 6
+  },
+  "Dvojdomy 1-4": {
+   "volne": 1,
+   "rezervovano": 3,
+   "prodano": 0,
+   "celkem": 4
+  }
+ },
+ "summary_web_widget": {
+  "Bytové domy": {
+   "neprodano": 23,
+   "rezervovano": 16,
+   "prodano": 26,
+   "pripravujeme": 0
+  },
+  "BD1": {
+   "neprodano": 23,
+   "rezervovano": 16,
+   "prodano": 6,
+   "pripravujeme": 0
+  },
+  "BD2": {
+   "neprodano": 0,
+   "rezervovano": 0,
+   "prodano": 20,
+   "pripravujeme": 0
+  },
+  "Řadové domy": {
+   "neprodano": 5,
+   "rezervovano": 1,
+   "prodano": 0,
+   "pripravujeme": 0
+  },
+  "Dvojdomy": {
+   "neprodano": 1,
+   "rezervovano": 3,
+   "prodano": 0,
+   "pripravujeme": 0
+  }
+ },
+ "units": [
+  {
+   "id": "BD1-01",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 1",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 3724000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzGYuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 290560,
+   "webObjId": "333"
+  },
+  {
+   "id": "BD1-02",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 2",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 6470000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzGguwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 289152,
+   "webObjId": "334"
+  },
+  {
+   "id": "BD1-03",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 3",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 8,1 m² + T 31,1 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.1
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 31.1
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": 7450000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzGwuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 329195,
+   "webObjId": "336"
+  },
+  {
+   "id": "BD1-04",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 4",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 8,5 m² + T 39,7 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.5
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 39.7
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": 6202000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzG4uwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 314523,
+   "webObjId": "337"
+  },
+  {
+   "id": "BD1-05",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 5",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 90.2,
+   "outdoor_raw": "T 81,2 m²",
+   "outdoor": [
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 81.2
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": 9899000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgqRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzHAuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 322294,
+   "webObjId": "338"
+  },
+  {
+   "id": "BD1-06",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 6",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 71.4,
+   "outdoor_raw": "L 7,6 m² + T 36 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 36
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 8189000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgsRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZzHIuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 317948,
+   "webObjId": "339"
+  },
+  {
+   "id": "BD1-07",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 7",
+   "disposition_web": "4+KK",
+   "disposition_salesSheet": "4+kk",
+   "floorArea_m2": 105.9,
+   "outdoor_raw": "L 8,9 m² + T 72,3 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.9
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 72.3
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 11504000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEguRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ0GAuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 325430,
+   "webObjId": "340"
+  },
+  {
+   "id": "BD1-08",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 8",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1,5+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 8,5 m² + T 58,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.5
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 58.2
+    }
+   ],
+   "cellar_m2": 2.5,
+   "price_czk_incl_vat": 6369000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgwRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ0GIuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 297406,
+   "webObjId": "341"
+  },
+  {
+   "id": "BD1-09",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 9",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 81,
+   "outdoor_raw": "T 118,4 m²",
+   "outdoor": [
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 118.4
+    }
+   ],
+   "cellar_m2": 2.5,
+   "price_czk_incl_vat": 9735000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgyRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ0GQuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 324933,
+   "webObjId": "342"
+  },
+  {
+   "id": "BD1-10",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 10",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 7,6 m² + T 36 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 36
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGgzcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 323235,
+   "webObjId": "343"
+  },
+  {
+   "id": "BD1-11",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 11",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 3724000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg0cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 268038,
+   "webObjId": "344"
+  },
+  {
+   "id": "BD1-12",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. PP",
+   "label": "Byt 12",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 8,4 m² + T 36,5 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.4
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 36.5
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 7256000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg1cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 317433,
+   "webObjId": "345"
+  },
+  {
+   "id": "BD1-13",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 13",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.4,
+   "price_czk_incl_vat": 3756000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg2cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 267777,
+   "webObjId": "346"
+  },
+  {
+   "id": "BD1-14",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 14",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 6537000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg3cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 285889,
+   "webObjId": "347"
+  },
+  {
+   "id": "BD1-15",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 15",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.8,
+   "price_czk_incl_vat": 6968000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg4cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 299363,
+   "webObjId": "348"
+  },
+  {
+   "id": "BD1-16",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 16",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": 5447000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGg5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 328269,
+   "webObjId": "349"
+  },
+  {
+   "id": "BD1-17",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 17",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 3,
+   "price_czk_incl_vat": 6390000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGowcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 333744,
+   "webObjId": "350"
+  },
+  {
+   "id": "BD1-18",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 18",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 71.4,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 7664000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGoxcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 380053,
+   "webObjId": "351"
+  },
+  {
+   "id": "BD1-19",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 19",
+   "disposition_web": "4+KK",
+   "disposition_salesSheet": "4+kk",
+   "floorArea_m2": 96.5,
+   "outdoor_raw": "L 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 9936000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGoycQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 325319,
+   "webObjId": "352"
+  },
+  {
+   "id": "BD1-20",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 20",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 5.3,
+   "price_czk_incl_vat": 5501000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGozcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 328855,
+   "webObjId": "353"
+  },
+  {
+   "id": "BD1-21",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 21",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.8,
+   "price_czk_incl_vat": 6390000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo0cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 331054,
+   "webObjId": "354"
+  },
+  {
+   "id": "BD1-22",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 22",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.8,
+   "price_czk_incl_vat": 6948000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo1cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 356514,
+   "webObjId": "355"
+  },
+  {
+   "id": "BD1-23",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 23",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 3756000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo2cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 266434,
+   "webObjId": "356"
+  },
+  {
+   "id": "BD1-24",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "1. NP",
+   "label": "Byt 24",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 6537000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo3cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 287742,
+   "webObjId": "357"
+  },
+  {
+   "id": "BD1-25",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 25",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.4,
+   "price_czk_incl_vat": 3788000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkZpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo4cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 252241,
+   "webObjId": "358"
+  },
+  {
+   "id": "BD1-26",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 26",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.8,
+   "price_czk_incl_vat": 6604000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGo5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 271448,
+   "webObjId": "359"
+  },
+  {
+   "id": "BD1-27",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 27",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 7039000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkZtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGwwcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 286042,
+   "webObjId": "360"
+  },
+  {
+   "id": "BD1-28",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 28",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 3,
+   "price_czk_incl_vat": 5554000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGwxcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 267335,
+   "webObjId": "361"
+  },
+  {
+   "id": "BD1-29",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 29",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 3,
+   "price_czk_incl_vat": 6455000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkZxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGwycQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 277277,
+   "webObjId": "362"
+  },
+  {
+   "id": "BD1-30",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 30",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 71.4,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 7742000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGwzcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 286391,
+   "webObjId": "363"
+  },
+  {
+   "id": "BD1-31",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 31",
+   "disposition_web": "4+KK",
+   "disposition_salesSheet": "4+kk",
+   "floorArea_m2": 96.5,
+   "outdoor_raw": "L 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.3,
+   "price_czk_incl_vat": 10040000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw0cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 283601,
+   "webObjId": "364"
+  },
+  {
+   "id": "BD1-32",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 32",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 5554000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw1cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 265454,
+   "webObjId": "365"
+  },
+  {
+   "id": "BD1-33",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 33",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.1,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw2cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 277367,
+   "webObjId": "366"
+  },
+  {
+   "id": "BD1-34",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 34",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.1,
+   "price_czk_incl_vat": 7019000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw3cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 286301,
+   "webObjId": "367"
+  },
+  {
+   "id": "BD1-35",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 35",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmZpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw4cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 251192,
+   "webObjId": "368"
+  },
+  {
+   "id": "BD1-36",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "2. NP",
+   "label": "Byt 36",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGw5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 268505,
+   "webObjId": "369"
+  },
+  {
+   "id": "BD1-37",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 37",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 2.1,
+   "price_czk_incl_vat": 5714000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmZtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG4xcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 259092,
+   "webObjId": "371"
+  },
+  {
+   "id": "BD1-38",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 38",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.1,
+   "price_czk_incl_vat": 6651000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG4ycQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 270353,
+   "webObjId": "372"
+  },
+  {
+   "id": "BD1-39",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 39",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 71.4,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.4,
+   "price_czk_incl_vat": 7977000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmZxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG4zcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 281234,
+   "webObjId": "373"
+  },
+  {
+   "id": "BD1-40",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 40",
+   "disposition_web": "4+KK",
+   "disposition_salesSheet": "4+kk",
+   "floorArea_m2": 96.5,
+   "outdoor_raw": "L 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": 10350000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG40cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 275491,
+   "webObjId": "374"
+  },
+  {
+   "id": "BD1-41",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 41",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 46.2,
+   "outdoor_raw": "L 7,2 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.2
+    }
+   ],
+   "cellar_m2": 2.8,
+   "price_czk_incl_vat": 5714000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG41cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 262337,
+   "webObjId": "375"
+  },
+  {
+   "id": "BD1-42",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 42",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 2.2,
+   "price_czk_incl_vat": 6651000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG42cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 271276,
+   "webObjId": "376"
+  },
+  {
+   "id": "BD1-43",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 43",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.9,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG43cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 279959,
+   "webObjId": "377"
+  },
+  {
+   "id": "BD1-44",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 44",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG44cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 243259,
+   "webObjId": "378"
+  },
+  {
+   "id": "BD1-45",
+   "category": "byt",
+   "building": "BD1",
+   "floor": "3. NP",
+   "label": "Byt 45",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": 6804000,
+   "parking_price_czk_incl_vat": 425000,
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoZpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzG45cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 263684,
+   "webObjId": "379"
+  },
+  {
+   "id": "BD2-01",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. PP",
+   "label": "Byt 1",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 5.1,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4GAuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 222185,
+   "webObjId": "380"
+  },
+  {
+   "id": "BD2-02",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. PP",
+   "label": "Byt 2",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 8,9 m² + T 94,7 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 8.9
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 94.7
+    }
+   ],
+   "cellar_m2": 5.1,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4GIuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 295616,
+   "webObjId": "381"
+  },
+  {
+   "id": "BD2-03",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. PP",
+   "label": "Byt 3",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 7,7 m² + T 35,4 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.7
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 35.4
+    }
+   ],
+   "cellar_m2": 5,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgmRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4GQuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 260852,
+   "webObjId": "382"
+  },
+  {
+   "id": "BD2-04",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. PP",
+   "label": "Byt 4",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 81,
+   "outdoor_raw": "T 116,9 m²",
+   "outdoor": [
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 116.9
+    }
+   ],
+   "cellar_m2": 2.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgoRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4GYuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 260646,
+   "webObjId": "383"
+  },
+  {
+   "id": "BD2-05",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. PP",
+   "label": "Byt 5",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1,5+kk",
+   "floorArea_m2": 50.1,
+   "outdoor_raw": "L 9,2 m² + T 57,9 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 9.2
+    },
+    {
+     "kind": "terasa (+ zahrada)",
+     "m2": 57.9
+    }
+   ],
+   "cellar_m2": 3.7,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgqRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4Gguwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 248692,
+   "webObjId": "384"
+  },
+  {
+   "id": "BD2-06",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. NP",
+   "label": "Byt 6",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgsRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4Gouwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 206973,
+   "webObjId": "385"
+  },
+  {
+   "id": "BD2-07",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. NP",
+   "label": "Byt 7",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 2.7,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEguRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4Gwuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 222206,
+   "webObjId": "386"
+  },
+  {
+   "id": "BD2-08",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. NP",
+   "label": "Byt 8",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 2.7,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgwRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4G4uwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 250642,
+   "webObjId": "387"
+  },
+  {
+   "id": "BD2-09",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. NP",
+   "label": "Byt 9",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 5.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgyRfgMpn4c3uuE94n0y4XLzKFOhYvDpO9ZLJT3GkxpXOjr2CZ4HAuwy/T+PZHZTtytNEr5G/OK7VPtXPKPbmV",
+   "salesSheetSizeBytes": 240058,
+   "webObjId": "388"
+  },
+  {
+   "id": "BD2-10",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "1. NP",
+   "label": "Byt 10",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 50.1,
+   "outdoor_raw": "L 7,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.8
+    }
+   ],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHA5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 219704,
+   "webObjId": "389"
+  },
+  {
+   "id": "BD2-11",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "2. NP",
+   "label": "Byt 11",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHIycQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 204781,
+   "webObjId": "392"
+  },
+  {
+   "id": "BD2-12",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "2. NP",
+   "label": "Byt 12",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 3.3,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHIzcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 222251,
+   "webObjId": "393"
+  },
+  {
+   "id": "BD2-13",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "2. NP",
+   "label": "Byt 13",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 5.1,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI0cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 229807,
+   "webObjId": "394"
+  },
+  {
+   "id": "BD2-14",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "2. NP",
+   "label": "Byt 14",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 3.1,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI1cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 228362,
+   "webObjId": "395"
+  },
+  {
+   "id": "BD2-15",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "2. NP",
+   "label": "Byt 15",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 50.1,
+   "outdoor_raw": "L 7,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.8
+    }
+   ],
+   "cellar_m2": 3.6,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI2cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 216895,
+   "webObjId": "396"
+  },
+  {
+   "id": "BD2-16",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "3. NP",
+   "label": "Byt 16",
+   "disposition_web": "1+KK",
+   "disposition_salesSheet": "1+kk",
+   "floorArea_m2": 32.1,
+   "outdoor_raw": "---",
+   "outdoor": [],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI3cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 205590,
+   "webObjId": "397"
+  },
+  {
+   "id": "BD2-17",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "3. NP",
+   "label": "Byt 17",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 59.1,
+   "outdoor_raw": "L 7,6 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.6
+    }
+   ],
+   "cellar_m2": 3.4,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZtcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI4cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 222433,
+   "webObjId": "398"
+  },
+  {
+   "id": "BD2-18",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "3. NP",
+   "label": "Byt 18",
+   "disposition_web": "3+KK",
+   "disposition_salesSheet": "3+kk",
+   "floorArea_m2": 64.1,
+   "outdoor_raw": "L 6,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 6.8
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiRxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzHI5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 229624,
+   "webObjId": "399"
+  },
+  {
+   "id": "BD2-19",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "3. NP",
+   "label": "Byt 19",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 58.2,
+   "outdoor_raw": "B 7,0 m²",
+   "outdoor": [
+    {
+     "kind": "balkon",
+     "m2": 7
+    }
+   ],
+   "cellar_m2": 3.6,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgiZxcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4Y0GAwcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 228417,
+   "webObjId": "400"
+  },
+  {
+   "id": "BD2-20",
+   "category": "byt",
+   "building": "BD2",
+   "floor": "3. NP",
+   "label": "Byt 20",
+   "disposition_web": "2+KK",
+   "disposition_salesSheet": "2+kk",
+   "floorArea_m2": 50.1,
+   "outdoor_raw": "L 7,8 m²",
+   "outdoor": [
+    {
+     "kind": "lodžie",
+     "m2": 7.8
+    }
+   ],
+   "cellar_m2": 3.2,
+   "price_czk_incl_vat": null,
+   "parking_price_czk_incl_vat": null,
+   "status_web": "Prodáno",
+   "status": "prodano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pC5dEgkRhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4Y0GAxcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 269042,
+   "webObjId": "401"
+  },
+  {
+   "id": "ŘRD-05",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-05",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.7,
+   "plot_m2": 379,
+   "price_czk_incl_vat": 16153000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": 23.5,
+    "lodzie_m2": 11.7,
+    "terasa_m2": 31,
+    "zavetri_m2": null
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaRhqF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwmcXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 365512,
+   "webObjId": "303"
+  },
+  {
+   "id": "ŘRD-06",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-06",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.7,
+   "plot_m2": 294,
+   "price_czk_incl_vat": 14916000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": 23.5,
+    "lodzie_m2": 11.7,
+    "terasa_m2": 31,
+    "zavetri_m2": null
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaRhsF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwocXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 349318,
+   "webObjId": "304"
+  },
+  {
+   "id": "ŘRD-07",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-07",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.5,
+   "plot_m2": 324,
+   "price_czk_incl_vat": 15454000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": 23.5,
+    "lodzie_m2": 11.7,
+    "terasa_m2": 30.8,
+    "zavetri_m2": null
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaRhuF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwqcXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 387623,
+   "webObjId": "305"
+  },
+  {
+   "id": "ŘRD-08",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-08",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.6,
+   "plot_m2": 286,
+   "price_czk_incl_vat": 14977000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": 23.5,
+    "lodzie_m2": 11.7,
+    "terasa_m2": 30.9,
+    "zavetri_m2": null
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaRhwF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwscXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 374974,
+   "webObjId": "306"
+  },
+  {
+   "id": "ŘRD-09",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-09",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.7,
+   "plot_m2": 288,
+   "price_czk_incl_vat": 14832000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": null,
+    "lodzie_m2": null,
+    "terasa_m2": null,
+    "zavetri_m2": null,
+    "note": "z PDF nešlo strojově vyčíst (jiný layout)"
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaRhyF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwucXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 403404,
+   "webObjId": "307"
+  },
+  {
+   "id": "ŘRD-10",
+   "category": "radovy_dum",
+   "building": "Řadové domy 5-10",
+   "floor": null,
+   "label": "ŘRD-10",
+   "disposition_web": "5+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 152.5,
+   "loggia_terrace_web_m2": 42.5,
+   "plot_m2": 369,
+   "price_czk_incl_vat": 16028000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 129,
+    "garaz_m2": 23.5,
+    "lodzie_m2": 11.7,
+    "terasa_m2": 30.8,
+    "zavetri_m2": null
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3rFYklEaZhgF8HIZuNue+om9nKeLhe8MhZ0LHnBcrcjymq5pUxLueivwGYwwcXD8qfHbzplO8m0R1bJe9lltnrWbpX0bis=",
+   "salesSheetSizeBytes": 387730,
+   "webObjId": "308"
+  },
+  {
+   "id": "RDD-01",
+   "category": "dvojdum",
+   "building": "Dvojdomy 1-4",
+   "floor": null,
+   "label": "RDD-01",
+   "disposition_web": "4+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 112.1,
+   "loggia_terrace_web_m2": 41,
+   "plot_m2": 237,
+   "price_czk_incl_vat": 12721000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 96.2,
+    "garaz_m2": 15.9,
+    "lodzie_m2": 6.3,
+    "terasa_m2": 25.6,
+    "zavetri_m2": 9.1
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pSEREtgZhcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGIxcQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 390850,
+   "webObjId": "311"
+  },
+  {
+   "id": "RDD-02",
+   "category": "dvojdum",
+   "building": "Dvojdomy 1-4",
+   "floor": null,
+   "label": "RDD-02",
+   "disposition_web": "4+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 127.3,
+   "loggia_terrace_web_m2": 40.4,
+   "plot_m2": 239,
+   "price_czk_incl_vat": 13547000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 107,
+    "garaz_m2": 20.2,
+    "lodzie_m2": 6.3,
+    "terasa_m2": 25,
+    "zavetri_m2": 9.1
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pSEREtgRlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGI3cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 394931,
+   "webObjId": "317"
+  },
+  {
+   "id": "RDD-03",
+   "category": "dvojdum",
+   "building": "Dvojdomy 1-4",
+   "floor": null,
+   "label": "RDD-03",
+   "disposition_web": "4+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 130.6,
+   "loggia_terrace_web_m2": 41.9,
+   "plot_m2": 258,
+   "price_czk_incl_vat": 14110000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 109.9,
+    "garaz_m2": 20.7,
+    "lodzie_m2": 8,
+    "terasa_m2": 24.8,
+    "zavetri_m2": 9.1
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Rezervováno",
+   "status": "rezervovano",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pSEREtgZlcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGI4cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 385582,
+   "webObjId": "318"
+  },
+  {
+   "id": "RDD-04",
+   "category": "dvojdum",
+   "building": "Dvojdomy 1-4",
+   "floor": null,
+   "label": "RDD-04",
+   "disposition_web": "4+KK",
+   "area_web_label": "Obytná plocha",
+   "area_web_m2": 130.6,
+   "loggia_terrace_web_m2": 41.9,
+   "plot_m2": 278,
+   "price_czk_incl_vat": 14360000,
+   "salesSheet": {
+    "obytna_plocha_celkem_m2": 109.9,
+    "garaz_m2": 20.7,
+    "lodzie_m2": 8,
+    "terasa_m2": 24.8,
+    "zavetri_m2": 9.1
+   },
+   "note": "Hodnota \"Obytná plocha\" na webu = obytná plocha z prodejního listu + garáž (ověřeno výpočtem); u RDD \"Lodžie + terasa\" zahrnuje i závětří. Hodnoty salesSheet jsou strojově vytažené z PDF a mohou být neúplné.",
+   "status_web": "Volné",
+   "status": "volne",
+   "salesSheetPdf": "https://www.rezidenceslovanskeudoli.cz/prodejni-list_awm_dwn.pdf?data=ZO5zOWG2K3pSEREtgRpcOJHMfJvtq8T2Jz0XLpeRsEdh5YPJbzIr1G6lMWmbOr4YzGI5cQ/L9Mf2dLJ2OaU6ZU7ts5Vtp1vcZfS5ZQ==",
+   "salesSheetSizeBytes": 377835,
+   "webObjId": "319"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "note": "Web neobsahuje seznam bodů zájmu se vzdálenostmi/časy, GPS souřadnice ani mapu projektu (jen odkaz na mapy.cz k sídlu firmy). Níže je vše, co web a PDF uvádějí.",
+ "project": {
+  "name": "Rezidence Slovanské údolí",
+  "city": "Plzeň",
+  "district": "Skvrňany, Městský obvod Plzeň 3",
+  "street": "Vejprnická (bytové domy „při Vejprnické ulici“)",
+  "access": "Dopravně je napojena z křižovatky ulic Za Humny a Slovanské údolí.",
+  "cadastre": {
+   "ku": "Skvrňany (722596)",
+   "parcels_PENB_BD1": [
+    "2113/1",
+    "2113/2"
+   ],
+   "parcels_PENB_BD2": [
+    "2112/1",
+    "2113/1"
+   ],
+   "parcels_PENB_RDD": [
+    "2113/1"
+   ]
+  },
+  "psc_in_PENB": {
+   "BD": "30100 Plzeň",
+   "RD": "31800 Plzeň"
+  },
+  "gps": null,
+  "mapLink": null,
+  "labels_in_overview_map_pdf": [
+   "Skvrňany",
+   "Slovanské údolí",
+   "Vejprnická",
+   "Za Humny",
+   "Waltrova",
+   "Cyklostezka",
+   "Vejprnický potok"
+  ]
+ },
+ "textual_points": [
+  {
+   "text": "Tramvajová zastávka se nachází nedaleko budované lokality \"Rezidence Slovanské údolí\".",
+   "distance": null,
+   "time": null
+  },
+  {
+   "text": "Nespornou výhodou je též nedaleké napojení na nově vybudovaný Západní okruh Plzně.",
+   "distance": null,
+   "time": null
+  },
+  {
+   "text": "Lokalita má výborné dopravní napojení do centra Plzně.",
+   "distance": null,
+   "time": null
+  },
+  {
+   "text": "Obytné místnosti jsou situovány s výhledem na údolí Vejprnického potoka.",
+   "distance": null,
+   "time": null
+  },
+  {
+   "text": "Nechybí zde školy, školky, dětská hřiště, zdravotnická zařízení, knihovna, plavecký bazén, sportovní hřiště a samozřejmě i supermarkety. Najdeme zde i lokální prodejny, moderní bistra či restaurace.",
+   "distance": null,
+   "time": null
+  },
+  {
+   "text": "Další nový bytový areál vyrůstá postupně i v sousedství ulice Vojanova a v prodloužení ulice Františka Kováříka.",
+   "distance": null,
+   "time": null
+  }
+ ],
+ "district_facts": {
+  "text": "Městský obvod Plzeň 3 je svojí rozlohou 3 546 ha jedním z největších plzeňských obvodů.",
+  "parts": [
+   "historická část města",
+   "Bory",
+   "Doudlevce",
+   "Skvrňany",
+   "Nová Hospoda",
+   "Zátiší",
+   "Valcha",
+   "Radobyčice"
+  ]
+ },
+ "salesOffice": {
+  "note": "Samostatné prodejní místo ani jména obchodníků web neuvádí; kontakt = sídlo IKO stavby s.r.o.",
+  "company": "IKO stavby s.r.o.",
+  "address": "Vltavínová 1334/3, 326 00 Plzeň",
+  "mapLink": "https://mapy.cz/s/3pzQU",
+  "phoneSales": "371 656 916",
+  "phoneHQ": "371 656 911",
+  "email": "projekty@ikoplzen.cz",
+  "ico": "29120543"
+ },
+ "overviewMapsPdf": "https://www.rezidenceslovanskeudoli.cz/slovanske_udoli_awm_dwn.pdf?data=ZO5zOWG2K3pTsb12CzfmtZW+dSPtY9LiB2QzfLm9uiZvTum4LpcjwnSFvHALOcK2GdJsK+uJZINTMJk4GMAXh3lP4710srPkadFZTns7yrY91m4rp3PK"
+}

@@ -1,0 +1,27 @@
+{
+  "_meta": { "note": "Dokumenty ke stažení (CMS typ „Dokument“: title, description, file, size, valid, group, showOn[]). Rozhodnutí o zařazení viz docs/ANALYZA.md, kap. Ke stažení.", "source": "rezidenceslovanskeudoli.cz/ke-stazeni, /standardy, /" },
+  "groups": [
+    { "id": "standardy", "title": "Standardy a vybavení" },
+    { "id": "nakup", "title": "Nákup a financování" },
+    { "id": "energie", "title": "Energetické průkazy" },
+    { "id": "lokalita", "title": "Lokalita" }
+  ],
+  "items": [
+    { "group": "standardy", "title": "Standardy – bytové domy BD1 a BD2", "file": "docs/Standardy_BD1_BD2.pdf", "valid": "platné od 28. 5. 2026", "showOn": ["standardy", "byt"] },
+    { "group": "standardy", "title": "Katalog vybavení – byty", "file": "docs/Prezentace_vybaveni_byty.pdf", "showOn": ["standardy", "byt"] },
+    { "group": "standardy", "title": "Standardy – dvojdomy 01–04", "file": "docs/Standardy_dvojdomy.pdf", "valid": "platné od 11. 8. 2026", "showOn": ["standardy", "dvojdum"] },
+    { "group": "standardy", "title": "Standardy – řadové domy 05–10", "file": "docs/Standardy_radove_domy.pdf", "valid": "platné od 11. 8. 2026", "showOn": ["standardy", "radovy-dum"] },
+    { "group": "standardy", "title": "Katalog vybavení – rodinné domy", "file": "docs/Prezentace_vybaveni_RD.pdf", "showOn": ["standardy", "radovy-dum", "dvojdum"] },
+    { "group": "nakup", "title": "Postup financování", "file": "docs/Postup_financovani.pdf", "valid": "platné od 01. 05. 2026", "showOn": ["financovani", "byt", "radovy-dum", "dvojdum"] },
+    { "group": "nakup", "title": "Pravidla klientských změn – byty", "file": "docs/Pravidla_klientskych_zmen_BYTY.pdf", "valid": "platné od 01. 06. 2026", "showOn": ["financovani", "byt"] },
+    { "group": "nakup", "title": "Pravidla klientských změn – dvojdomy a řadové domy", "file": "docs/Pravidla_klientskych_zmen_RDD_RRD.pdf", "valid": "platné od 01. 07. 2026", "showOn": ["financovani", "radovy-dum", "dvojdum"] },
+    { "group": "nakup", "title": "Smlouva o rezervaci (vzor)", "file": null, "gap": "Na současném webu jen placeholder „Připravuje se…“ – nepřebíráme, dokument DOPLNIT KLIENTEM." },
+    { "group": "nakup", "title": "Smlouva o budoucí kupní smlouvě (vzor)", "file": null, "gap": "Placeholder „Připravuje se…“ – DOPLNIT KLIENTEM." },
+    { "group": "nakup", "title": "Termíny výstavby (harmonogram)", "file": null, "gap": "Placeholder „Připravuje se…“ – DOPLNIT KLIENTEM." },
+    { "group": "energie", "title": "PENB – bytový dům 1", "file": "docs/PENB_BD1.pdf", "valid": "třída B", "showOn": ["byt"] },
+    { "group": "energie", "title": "PENB – bytový dům 2", "file": "docs/PENB_BD2.pdf", "valid": "třída B", "showOn": ["byt"] },
+    { "group": "energie", "title": "PENB – rodinné dvojdomy", "file": "docs/PENB_RDD.pdf", "valid": "třída B", "showOn": ["dvojdum"] },
+    { "group": "energie", "title": "PENB – řadové domy", "file": "docs/PENB_RRD.pdf", "valid": "třída B", "verify": "chybí evidenční číslo průkazu", "showOn": ["radovy-dum"] },
+    { "group": "lokalita", "title": "Přehledové mapy lokality", "file": "docs/Prehledove_mapy_Slovanske_udoli.pdf", "showOn": ["lokalita"] }
+  ]
+}

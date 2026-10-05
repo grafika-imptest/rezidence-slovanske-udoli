@@ -1,0 +1,8 @@
+{
+  "path": "kontakt/", "section": "kontakt/", "title": "Kontakt",
+  "description": "Kontakt na prodej Rezidence Slovanské údolí – IKO stavby s.r.o., Plzeň.",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Kontakt", "title": "Prodej nemovitostí", "lead": "Pro více informací o prodeji nemovitostí nás neváhejte kontaktovat.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Kontakt" }] },
+    { "type": "ContactForm", "eyebrow": "Napište nám", "title": "Poptávka a dotazy" }
+  ]
+}

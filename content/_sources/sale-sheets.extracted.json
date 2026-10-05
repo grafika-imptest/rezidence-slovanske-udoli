@@ -1,0 +1,9750 @@
+[
+ {
+  "id": "BD1-10",
+  "building": "BD1",
+  "number": 10,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.10_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 16.6
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 28.3
+   },
+   {
+    "name": "WC",
+    "area": 1.6
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.1
+   },
+   {
+    "name": "KOMORA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 62.8,
+  "structures": 1.3,
+  "floorArea": 64.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": 36,
+  "garden": null,
+  "cellar": {
+   "no": 37,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 37
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.10"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "7,5 m²"
+   ],
+   [
+    "LOŽNICE",
+    "16,6 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "28,3 m"
+   ],
+   [
+    "WC",
+    "1,6 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,1 m2"
+   ],
+   [
+    "KOMORA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,8 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "TERASA",
+    "36,0 m"
+   ],
+   [
+    "SKLEP č. 37",
+    "2,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 37",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-11",
+  "building": "BD1",
+  "number": 11,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.11_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 19.9
+   }
+  ],
+  "livingArea": 30.8,
+  "structures": 1.3,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 38,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 38
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.11"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "19,9 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "30,8 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 38",
+    "2,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 38",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-12",
+  "building": "BD1",
+  "number": 12,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.12_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.9
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.8,
+  "structures": 1.3,
+  "floorArea": 59.1,
+  "loggia": 8.4,
+  "balcony": null,
+  "terrace": 36.5,
+  "garden": null,
+  "cellar": {
+   "no": 39,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 39
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.12"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²7.6m²"
+   ],
+   [
+    "LOŽNICE",
+    "12,1 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,9 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,8 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,4 m"
+   ],
+   [
+    "TERASA",
+    "36,5 m"
+   ],
+   [
+    "SKLEP č. 39",
+    "2,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 39",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-13",
+  "building": "BD1",
+  "number": 13,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.13_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.6
+   }
+  ],
+  "livingArea": 31.1,
+  "structures": 1,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 13,
+   "area": 2.4
+  },
+  "parking": {
+   "no": 13
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.13"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 mLEGENDA"
+   ],
+   [
+    "KOUPELNA",
+    "4,6 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 13",
+    "2,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 13",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-14",
+  "building": "BD1",
+  "number": 14,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.14_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 14,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 1
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.14"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²LEGENDA"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m"
+   ],
+   [
+    "SKLEP č. 14",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 1",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-15",
+  "building": "BD1",
+  "number": 15,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.15_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.7
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.6
+   }
+  ],
+  "livingArea": 62.2,
+  "structures": 1.9,
+  "floorArea": 64.1,
+  "loggia": 7,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 15,
+   "area": 2.8
+  },
+  "parking": {
+   "no": 2
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.15"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m²"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m2"
+   ],
+   [
+    "KOMORA",
+    "2,7 m2"
+   ],
+   [
+    "POKOJ",
+    "11,4 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m2"
+   ],
+   [
+    "WC",
+    "1,6 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,2 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,0 m"
+   ],
+   [
+    "SKLEP č. 15",
+    "2,8 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 2",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-16",
+  "building": "BD1",
+  "number": 16,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.16_PRODEJ - 2.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.5
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.3
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.3,
+  "structures": 1.9,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 6,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 6
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.16"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,5 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,3 m"
+   ],
+   [
+    "KOMORA",
+    "2,2 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m2"
+   ],
+   [
+    "SKLEP č. 6",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 6",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-17",
+  "building": "BD1",
+  "number": 17,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.17_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56.1,
+  "structures": 2.1,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 7,
+   "area": 3
+  },
+  "parking": {
+   "no": 7
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.17"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²LEGENDA"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 7",
+    "3,0 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 7",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-18",
+  "building": "BD1",
+  "number": 18,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.18_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 11.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 1.9
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 24.5
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.6
+   }
+  ],
+  "livingArea": 68.3,
+  "structures": 3.1,
+  "floorArea": 71.4,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 18,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 18
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.18"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "11,4 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m"
+   ],
+   [
+    "WC",
+    "1,9 m"
+   ],
+   [
+    "KOMORA",
+    "1,9 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "24,5 m2"
+   ],
+   [
+    "POKOJ",
+    "11,6 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "68,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "3,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "71,4 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 18",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 18",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-19",
+  "building": "BD1",
+  "number": 19,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.19_PRODEJ.pdf",
+  "layout": "4+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 14.7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.6
+   },
+   {
+    "name": "POKOJ",
+    "area": 9.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.9
+   },
+   {
+    "name": "POKOJ",
+    "area": 9.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 35.9
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   }
+  ],
+  "livingArea": 92.1,
+  "structures": 4.4,
+  "floorArea": 96.5,
+  "loggia": 7,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 19,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 19
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD11.9m²"
+   ],
+   [
+    "BYT 4+kk",
+    "BYT č.19KOMORA18.04"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "14,7 m²"
+   ],
+   [
+    "KOMORA",
+    "2,6 m2"
+   ],
+   [
+    "POKOJ",
+    "9,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,9 m2"
+   ],
+   [
+    "POKOJ",
+    "9,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "35,9 m2"
+   ],
+   [
+    "WC",
+    "1,9 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "92,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "4,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "96,5 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 19",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 19",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-1",
+  "building": "BD1",
+  "number": 1,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.1_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.6
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 19.9
+   }
+  ],
+  "livingArea": 30.6,
+  "structures": 1.5,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 1,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 14
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.1"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,6 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "19,9 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "30,6 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 1",
+    "2,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 14",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKA"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD1-20",
+  "building": "BD1",
+  "number": 20,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.20_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.9
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44,
+  "structures": 2.2,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 28,
+   "area": 5.3
+  },
+  "parking": {
+   "no": 28
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.20"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,9 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,0 m2"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m"
+   ],
+   [
+    "SKLEP č. 28",
+    "5,3 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 28",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-21",
+  "building": "BD1",
+  "number": 21,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.21_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56,
+  "structures": 2.2,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 29,
+   "area": 2.8
+  },
+  "parking": {
+   "no": 29
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\"2.2m²"
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.21"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m"
+   ],
+   [
+    "SKLEP č. 29",
+    "2,8 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 29",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-22",
+  "building": "BD1",
+  "number": 22,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.22_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 61.6,
+  "structures": 2.5,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 40,
+   "area": 2.8
+  },
+  "parking": {
+   "no": 40
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.22"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m²"
+   ],
+   [
+    "KOMORA",
+    "2,3 m2"
+   ],
+   [
+    "POKOJ",
+    "11,4 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m2"
+   ],
+   [
+    "WC",
+    "1,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,0 m"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "61,6 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 40",
+    "2,8 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 40",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-23",
+  "building": "BD1",
+  "number": 23,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.23_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 41,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 32
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.23"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 41",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 32",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-24",
+  "building": "BD1",
+  "number": 24,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.24_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 42,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 42
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.24"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²LEGENDA"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 42",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 42",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-25",
+  "building": "BD1",
+  "number": 25,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.25_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.6
+   }
+  ],
+  "livingArea": 31.1,
+  "structures": 1,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 12,
+   "area": 2.4
+  },
+  "parking": {
+   "no": 12
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.25"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,6 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 12",
+    "2,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 12",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-26",
+  "building": "BD1",
+  "number": 26,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.26_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 16,
+   "area": 2.8
+  },
+  "parking": {
+   "no": 9
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.26"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 16",
+    "2,8 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 9",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-27",
+  "building": "BD1",
+  "number": 27,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.27_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.7
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.6
+   }
+  ],
+  "livingArea": 62.2,
+  "structures": 1.9,
+  "floorArea": 64.1,
+  "loggia": 7,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 17,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 8
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.27"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m²"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m"
+   ],
+   [
+    "KOMORA",
+    "2,7 m"
+   ],
+   [
+    "POKOJ",
+    "11,4 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m"
+   ],
+   [
+    "WC",
+    "1,6 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,2 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²LEGENDA"
+   ],
+   [
+    "LODŽIE",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 17",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 8",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-28",
+  "building": "BD1",
+  "number": 28,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.28_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.5
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.3
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.3,
+  "structures": 1.9,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 8,
+   "area": 3
+  },
+  "parking": {
+   "no": 17
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.28"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,5 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,3 m2"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m2"
+   ],
+   [
+    "SKLEP č. 8",
+    "3,0 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 17",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-29",
+  "building": "BD1",
+  "number": 29,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.29_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56.1,
+  "structures": 2.1,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 9,
+   "area": 3
+  },
+  "parking": {
+   "no": 16
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.29"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 mLEGENDA"
+   ],
+   [
+    "SKLEP č. 9",
+    "3,0 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 16",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-2",
+  "building": "BD1",
+  "number": 2,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.2_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 31.2
+   }
+  ],
+  "livingArea": 58.1,
+  "structures": 1,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 2,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 15
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.2"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,1 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "31,2 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "58,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2LEGENDA"
+   ],
+   [
+    "SKLEP č. 2",
+    "2,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 15",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD1-30",
+  "building": "BD1",
+  "number": 30,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.30_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 11.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 1.9
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 24.5
+   },
+   {
+    "name": "POKOJ",
+    "area": 12
+   }
+  ],
+  "livingArea": 68.7,
+  "structures": 2.7,
+  "floorArea": 71.4,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 22,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 22
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.30"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "11,4 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "WC",
+    "1,9 m"
+   ],
+   [
+    "KOMORA",
+    "1,9 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "24,5 m"
+   ],
+   [
+    "POKOJ",
+    "12,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "68,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,7 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "71,4 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 22",
+    "2,9 m2LEGENDA"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 22",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-31",
+  "building": "BD1",
+  "number": 31,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.31_PRODEJ.pdf",
+  "layout": "4+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 14.8
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.6
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 13.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 35.9
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   }
+  ],
+  "livingArea": 93.2,
+  "structures": 3.3,
+  "floorArea": 96.5,
+  "loggia": 7,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 23,
+   "area": 2.3
+  },
+  "parking": {
+   "no": 23
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 4+kk",
+    "BYT č.31"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "14,8 m²"
+   ],
+   [
+    "KOMORA",
+    "2,6 m2"
+   ],
+   [
+    "POKOJ",
+    "10,1 m2"
+   ],
+   [
+    "LOŽNICE",
+    "13,3 m2"
+   ],
+   [
+    "POKOJ",
+    "10,1 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "35,9 m2"
+   ],
+   [
+    "WC",
+    "1,9 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "93,2 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "3,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "96,5 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 23",
+    "2,3 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 23",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-32",
+  "building": "BD1",
+  "number": 32,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.32_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.9
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.3
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.3,
+  "structures": 1.9,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 32,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 41
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.32"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,9 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,3 m2"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m"
+   ],
+   [
+    "SKLEP č. 32",
+    "2,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 41",
+    "LEGENDA"
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-33",
+  "building": "BD1",
+  "number": 33,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.33_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56,
+  "structures": 2.2,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 33,
+   "area": 2.1
+  },
+  "parking": {
+   "no": 45
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.33"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m"
+   ],
+   [
+    "SKLEP č. 33",
+    "2,1 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 45",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-34",
+  "building": "BD1",
+  "number": 34,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.34_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 62,
+  "structures": 2.1,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 34,
+   "area": 2.1
+  },
+  "parking": {
+   "no": 46
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.34"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m²"
+   ],
+   [
+    "KOMORA",
+    "2,3 m"
+   ],
+   [
+    "POKOJ",
+    "11,4 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m"
+   ],
+   [
+    "WC",
+    "1,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 34",
+    "2,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 46",
+    "LEGENDA"
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-35",
+  "building": "BD1",
+  "number": 35,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.35_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 35,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 47
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.35"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 35",
+    "2,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 47",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-36",
+  "building": "BD1",
+  "number": 36,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.36_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 36,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 36
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.36"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m"
+   ],
+   [
+    "SKLEP č. 36",
+    "2,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 36",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-37",
+  "building": "BD1",
+  "number": 37,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.37_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.5
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.3
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.3,
+  "structures": 1.9,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 10,
+   "area": 2.1
+  },
+  "parking": {
+   "no": 10
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.37"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,5 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,3 m"
+   ],
+   [
+    "KOMORA",
+    "2,2 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m2"
+   ],
+   [
+    "SKLEP č. 10",
+    "2,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 10",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-38",
+  "building": "BD1",
+  "number": 38,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.38_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56.1,
+  "structures": 2.1,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 11,
+   "area": 2.1
+  },
+  "parking": {
+   "no": 11
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\"KOMORA37.05"
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.38"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m"
+   ],
+   [
+    "SKLEP č. 11",
+    "2,1 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 11",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-39",
+  "building": "BD1",
+  "number": 39,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.39_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 11.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 1.9
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 24.5
+   },
+   {
+    "name": "POKOJ",
+    "area": 12
+   }
+  ],
+  "livingArea": 68.7,
+  "structures": 2.7,
+  "floorArea": 71.4,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 24,
+   "area": 2.4
+  },
+  "parking": {
+   "no": 24
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.39"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "11,4 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "WC",
+    "1,9 m"
+   ],
+   [
+    "KOMORA",
+    "1,9 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "24,5 m"
+   ],
+   [
+    "POKOJ",
+    "12,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "68,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,7 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "71,4 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 24",
+    "2,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 24",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-3",
+  "building": "BD1",
+  "number": 3,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.3_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   },
+   {
+    "name": "POKOJ",
+    "area": 12
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.5
+   },
+   {
+    "name": "WC",
+    "area": 1.6
+   }
+  ],
+  "livingArea": 62.6,
+  "structures": 1.5,
+  "floorArea": 64.1,
+  "loggia": 8.1,
+  "balcony": null,
+  "terrace": 31.1,
+  "garden": null,
+  "cellar": {
+   "no": 3,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 3
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.3"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "7 m²"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "POKOJ",
+    "12,0 m2"
+   ],
+   [
+    "KOMORA",
+    "2,7 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,0 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,5 m"
+   ],
+   [
+    "WC",
+    "1,6 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,6 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,1 m2"
+   ],
+   [
+    "TERASA",
+    "31,1 m2"
+   ],
+   [
+    "SKLEP č. 3",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 3",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKA"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD1-40",
+  "building": "BD1",
+  "number": 40,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.40_PRODEJ.pdf",
+  "layout": "4+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 14.8
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.6
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 13.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 35.9
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   }
+  ],
+  "livingArea": 93.2,
+  "structures": 3.3,
+  "floorArea": 96.5,
+  "loggia": 7,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 25,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 25
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 4+kk",
+    "BYT č.40"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "14,8 m²"
+   ],
+   [
+    "KOMORA",
+    "2,6 m"
+   ],
+   [
+    "POKOJ",
+    "10,1 m"
+   ],
+   [
+    "LOŽNICE",
+    "13,3 m"
+   ],
+   [
+    "POKOJ",
+    "10,1 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "35,9 m2"
+   ],
+   [
+    "WC",
+    "1,9 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "93,2 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "3,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "96,5 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,0 m"
+   ],
+   [
+    "SKLEP č. 25",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 25",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-41",
+  "building": "BD1",
+  "number": 41,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.41_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.9
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.3
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.3,
+  "structures": 1.9,
+  "floorArea": 46.2,
+  "loggia": 7.2,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 30,
+   "area": 2.8
+  },
+  "parking": {
+   "no": 30
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.41"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,9 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,3 m2"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,9 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,2 m"
+   ],
+   [
+    "SKLEP č. 30",
+    "2,8 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 30",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-42",
+  "building": "BD1",
+  "number": 42,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.42_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56,
+  "structures": 2.2,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 31,
+   "area": 2.2
+  },
+  "parking": {
+   "no": 31
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\"KOMORA41.05"
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.42"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m2"
+   ],
+   [
+    "KOMORA",
+    "2,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 31",
+    "2,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 31",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-43",
+  "building": "BD1",
+  "number": 43,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.43_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 62,
+  "structures": 2.1,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 43,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 43
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.43"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m²"
+   ],
+   [
+    "KOMORA",
+    "2,3 m2"
+   ],
+   [
+    "POKOJ",
+    "11,4 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m2"
+   ],
+   [
+    "WC",
+    "1,8 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m"
+   ],
+   [
+    "SKLEP č. 43",
+    "2,9 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 43",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-44",
+  "building": "BD1",
+  "number": 44,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.44_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 44,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 44
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.44"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 44",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 44",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-45",
+  "building": "BD1",
+  "number": 45,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.45_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 45,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 48
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.45"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 45",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 48",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-4",
+  "building": "BD1",
+  "number": 4,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.4_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 21.3
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 44.8,
+  "structures": 1.4,
+  "floorArea": 46.2,
+  "loggia": 8.5,
+  "balcony": null,
+  "terrace": 39.7,
+  "garden": null,
+  "cellar": {
+   "no": 4,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 4
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.4"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "21,3 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,0 m"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44,8 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,5 m2"
+   ],
+   [
+    "TERASA",
+    "39,7 m2"
+   ],
+   [
+    "SKLEP č. 4",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 4",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKA"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "INSTALAČNÍCHŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-5",
+  "building": "BD1",
+  "number": 5,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.5_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 14.1
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 8.4
+   },
+   {
+    "name": "KOMORA",
+    "area": 3.4
+   },
+   {
+    "name": "POKOJ",
+    "area": 13.9
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 26.7
+   }
+  ],
+  "livingArea": 86,
+  "structures": 4.2,
+  "floorArea": 90.2,
+  "loggia": null,
+  "balcony": null,
+  "terrace": 81.2,
+  "garden": null,
+  "cellar": {
+   "no": 5,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 5
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.5"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "14,1 m²"
+   ],
+   [
+    "WC",
+    "1,8 m"
+   ],
+   [
+    "KOUPELNA",
+    "8,4 m"
+   ],
+   [
+    "KOMORA",
+    "3,4 m2"
+   ],
+   [
+    "POKOJ",
+    "13,9 m2"
+   ],
+   [
+    "LOŽNICE",
+    "17,7 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "26,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "86 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "4,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "90,2 m²"
+   ],
+   [
+    "TERASA",
+    "81,2 m2"
+   ],
+   [
+    "SKLEP č. 5",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 5",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-6",
+  "building": "BD1",
+  "number": 6,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.6_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 15.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 26.6
+   },
+   {
+    "name": "KOMORA",
+    "area": 10.3
+   }
+  ],
+  "livingArea": 69.4,
+  "structures": 2,
+  "floorArea": 71.4,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": 36,
+  "garden": null,
+  "cellar": {
+   "no": 20,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 20
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.6"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "10,4 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m"
+   ],
+   [
+    "WC",
+    "1,9 m"
+   ],
+   [
+    "LOŽNICE",
+    "15,7 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "26,6 m2"
+   ],
+   [
+    "KOMORA",
+    "10,3 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "69,4 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "71,4 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "TERASA",
+    "36 m2"
+   ],
+   [
+    "SKLEP č. 20",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 20",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-7",
+  "building": "BD1",
+  "number": 7,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.7_PRODEJ.pdf",
+  "layout": "4+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 12.1
+   },
+   {
+    "name": "KOMORA",
+    "area": 5.2
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 22.8
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "POKOJ",
+    "area": 10.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 36.7
+   },
+   {
+    "name": "WC",
+    "area": 1.9
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.5
+   }
+  ],
+  "livingArea": 103.4,
+  "structures": 2.5,
+  "floorArea": 105.9,
+  "loggia": 8.9,
+  "balcony": null,
+  "terrace": 72.3,
+  "garden": null,
+  "cellar": {
+   "no": 21,
+   "area": 2.9
+  },
+  "parking": {
+   "no": 21
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 4+kk",
+    "BYT č.7"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "12,1 m²"
+   ],
+   [
+    "KOMORA",
+    "5,2 m2"
+   ],
+   [
+    "LOŽNICE",
+    "22,8 m2"
+   ],
+   [
+    "POKOJ",
+    "10,1 m2"
+   ],
+   [
+    "POKOJ",
+    "10,1 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "36,7 m2"
+   ],
+   [
+    "WC",
+    "1,9 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,5 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "103,4 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "105,9 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,9 m2"
+   ],
+   [
+    "TERASA",
+    "72,3 m2"
+   ],
+   [
+    "SKLEP č. 21",
+    "2,9 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 21",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY INSTALAČNÍCH",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-8",
+  "building": "BD1",
+  "number": 8,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.8_PRODEJ - 2.pdf",
+  "layout": "1,5+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 29.3
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5
+   },
+   {
+    "name": "KOMORA",
+    "area": 3.5
+   }
+  ],
+  "livingArea": 44,
+  "structures": 2.2,
+  "floorArea": 46.2,
+  "loggia": 8.5,
+  "balcony": null,
+  "terrace": 58.2,
+  "garden": null,
+  "cellar": {
+   "no": 26,
+   "area": 2.5
+  },
+  "parking": {
+   "no": 26
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 1,5+kk",
+    "BYT č.8"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "6,2 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "29,3 m2"
+   ],
+   [
+    "KOUPELNA",
+    "5,0 m2"
+   ],
+   [
+    "KOMORA",
+    "3,5 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "44 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "46,2 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,5 m2"
+   ],
+   [
+    "TERASA",
+    "58,2 m2"
+   ],
+   [
+    "SKLEP č. 26",
+    "2,5 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 26",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO"
+   ],
+   [
+    "VKLADU DO KATASTRU NEMOVITOSTÍ.",
+    "TVOŘÍJISOUČETPODLAHOVÝCH"
+   ],
+   [
+    "PLOCH MÍSTNOSTÍ BYTU, PLOCH",
+    "VNITŘNÍCHNOSNÝCHKONSTRUKCÍ,"
+   ],
+   [
+    "PLOCH POD NENOSNÝMI SVISLÝMI",
+    "KONSTRUKCEMIBYTU,PLOCHY"
+   ],
+   [
+    "INSTALAČNÍCH ŠACHET, KOMÍNŮ.",
+    "DOPODLAHOVÉPLOCHY"
+   ],
+   [
+    "VEŠKERÉ INFORMACE A ÚDAJE",
+    "UVEDENÉNATÉTOSTRÁNCE"
+   ],
+   [
+    "POUZE INFORMATIVNÍ POVAHY.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD1-9",
+  "building": "BD1",
+  "number": 9,
+  "source": "Prodejní listy BD1 - 6.6.2025/Byt č.9_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 12.8
+   },
+   {
+    "name": "WC",
+    "area": 1.7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5
+   },
+   {
+    "name": "POKOJ",
+    "area": 15.6
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 15.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 26.7
+   }
+  ],
+  "livingArea": 77.5,
+  "structures": 3.5,
+  "floorArea": 81,
+  "loggia": null,
+  "balcony": null,
+  "terrace": 118.4,
+  "garden": null,
+  "cellar": {
+   "no": 27,
+   "area": 2.5
+  },
+  "parking": {
+   "no": 27
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\" BLOK \"C\"",
+    "BLOK \"D\"BLOK \"E\""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD1"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.9"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "12,8 m²"
+   ],
+   [
+    "WC",
+    "1,7 m2"
+   ],
+   [
+    "KOUPELNA",
+    "5,0 m2"
+   ],
+   [
+    "POKOJ",
+    "15,6 m2"
+   ],
+   [
+    "LOŽNICE",
+    "15,7 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "26,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "77,5 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "3,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "81,0 m²"
+   ],
+   [
+    "TERASA",
+    "118,4 m"
+   ],
+   [
+    "SKLEP č. 27",
+    "2,5 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 27",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-10",
+  "building": "BD2",
+  "number": 10,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.10_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 22.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5.2
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 13.8
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 48.1,
+  "structures": 2,
+  "floorArea": 50.1,
+  "loggia": 7.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 16,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 16
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.10"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "22,1 m"
+   ],
+   [
+    "KOUPELNA",
+    "5,2 m"
+   ],
+   [
+    "LOŽNICE",
+    "13,8 m"
+   ],
+   [
+    "KOMORA",
+    "2,2 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "48,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "50,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,8 m2"
+   ],
+   [
+    "SKLEP č. 16",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 16",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-11",
+  "building": "BD2",
+  "number": 11,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.11_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 11,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 11
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.11"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 11",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 11",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-12",
+  "building": "BD2",
+  "number": 12,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.12_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 12,
+   "area": 3.3
+  },
+  "parking": {
+   "no": 12
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.12"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 12",
+    "3,3 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 12",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-13",
+  "building": "BD2",
+  "number": 13,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.13_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 62,
+  "structures": 2.1,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 4,
+   "area": 5.1
+  },
+  "parking": {
+   "no": 13
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.13"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m2"
+   ],
+   [
+    "KOMORA",
+    "2,3 m"
+   ],
+   [
+    "POKOJ",
+    "11,4 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m"
+   ],
+   [
+    "WC",
+    "1,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²LEGENDA"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 4",
+    "5,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 13",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-14",
+  "building": "BD2",
+  "number": 14,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.14_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56,
+  "structures": 2.2,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 17,
+   "area": 3.1
+  },
+  "parking": {
+   "no": 17
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.14"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m"
+   ],
+   [
+    "KOMORA",
+    "2,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,0 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²LEGENDA"
+   ],
+   [
+    "BALKON",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 17",
+    "3,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 17",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-15",
+  "building": "BD2",
+  "number": 15,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.15_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "2.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 22.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5.2
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 13.8
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 48.1,
+  "structures": 2,
+  "floorArea": 50.1,
+  "loggia": 7.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 18,
+   "area": 3.6
+  },
+  "parking": {
+   "no": 18
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.15"
+   ],
+   [
+    "PODLAŽÍ",
+    "2.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "22,1 m"
+   ],
+   [
+    "KOUPELNA",
+    "5,2 m"
+   ],
+   [
+    "LOŽNICE",
+    "13,8 m"
+   ],
+   [
+    "KOMORA",
+    "2,2 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "48,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2 m2"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "50,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,8 m2"
+   ],
+   [
+    "SKLEP č. 18",
+    "3,6 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 18",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-16",
+  "building": "BD2",
+  "number": 16,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.16_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 9,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 14
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.16"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 9",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 14",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-17",
+  "building": "BD2",
+  "number": 17,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.17_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 10,
+   "area": 3.4
+  },
+  "parking": {
+   "no": 10
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.17"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m2"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 10",
+    "3,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 10",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-18",
+  "building": "BD2",
+  "number": 18,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.18_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 62,
+  "structures": 2.1,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 5,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 15
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.18"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m2"
+   ],
+   [
+    "KOMORA",
+    "2,3 m"
+   ],
+   [
+    "POKOJ",
+    "11,4 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m"
+   ],
+   [
+    "WC",
+    "1,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,4 m2"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m2LEGENDA"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 5",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 15",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-19",
+  "building": "BD2",
+  "number": 19,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.19_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56,
+  "structures": 2.2,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 19,
+   "area": 3.6
+  },
+  "parking": {
+   "no": 19
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.19"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m"
+   ],
+   [
+    "KOMORA",
+    "2,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,2 m2"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²LEGENDA"
+   ],
+   [
+    "BALKON",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 19",
+    "3,6 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 19",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-1",
+  "building": "BD2",
+  "number": 1,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.1_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 19.9
+   }
+  ],
+  "livingArea": 30.8,
+  "structures": 1.3,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 1,
+   "area": 5.1
+  },
+  "parking": {
+   "no": 1
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.1"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m²"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "19,9 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "30,8 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,3 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 1",
+    "5,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 1",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD2-20",
+  "building": "BD2",
+  "number": 20,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.20_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "3.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 22.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5.2
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 13.8
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.2
+   }
+  ],
+  "livingArea": 48.1,
+  "structures": 2,
+  "floorArea": 50.1,
+  "loggia": 7.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 20,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 33
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BD2",
+    ""
+   ],
+   [
+    "BD1",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.20"
+   ],
+   [
+    "PODLAŽÍ",
+    "3.N.P."
+   ],
+   [
+    "CHODBA",
+    "4,8 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "22,1 m2"
+   ],
+   [
+    "KOUPELNA",
+    "5,2 m2"
+   ],
+   [
+    "LOŽNICE",
+    "13,8 m2"
+   ],
+   [
+    "KOMORA",
+    "2,2 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "48,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2 m2"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "50,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,8 m"
+   ],
+   [
+    "SKLEP č. 20",
+    "3,2 m"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 33 (v BD1)",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-2",
+  "building": "BD2",
+  "number": 2,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.2_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.1
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 31.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 58.1,
+  "structures": 1,
+  "floorArea": 59.1,
+  "loggia": 8.9,
+  "balcony": null,
+  "terrace": 94.7,
+  "garden": null,
+  "cellar": {
+   "no": 2,
+   "area": 5.1
+  },
+  "parking": {
+   "no": 2
+  },
+  "_pairs": [
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.2"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m²"
+   ],
+   [
+    "LOŽNICE",
+    "12,1 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "31,2 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "58,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "8,9 m2"
+   ],
+   [
+    "TERASA",
+    "94,7 m2"
+   ],
+   [
+    "SKLEP č. 2",
+    "5,1 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 2",
+    ""
+   ],
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD2-3",
+  "building": "BD2",
+  "number": 3,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.3_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7.5
+   },
+   {
+    "name": "KOMORA",
+    "area": 4.7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4
+   },
+   {
+    "name": "WC",
+    "area": 1.7
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 28.4
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 16.6
+   }
+  ],
+  "livingArea": 62.9,
+  "structures": 1.2,
+  "floorArea": 64.1,
+  "loggia": 7.7,
+  "balcony": null,
+  "terrace": 35.4,
+  "garden": null,
+  "cellar": {
+   "no": 3,
+   "area": 5
+  },
+  "parking": {
+   "no": 3
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.3"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "7,5 m²"
+   ],
+   [
+    "KOMORA",
+    "4,7 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,0 m"
+   ],
+   [
+    "WC",
+    "1,7 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "28,4 m"
+   ],
+   [
+    "LOŽNICE",
+    "16,6 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "62,9 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,7 m2"
+   ],
+   [
+    "TERASA",
+    "35,4 m2"
+   ],
+   [
+    "SKLEP č. 3",
+    "5,0 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 3",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD2-4",
+  "building": "BD2",
+  "number": 4,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.4_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 12.6
+   },
+   {
+    "name": "WC",
+    "area": 1.7
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5
+   },
+   {
+    "name": "POKOJ",
+    "area": 15.7
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 15.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 26.8
+   }
+  ],
+  "livingArea": 77.6,
+  "structures": 3.4,
+  "floorArea": 81,
+  "loggia": null,
+  "balcony": null,
+  "terrace": 116.9,
+  "garden": null,
+  "cellar": {
+   "no": 13,
+   "area": 2.4
+  },
+  "parking": {
+   "no": 7
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    "S 1.1.b"
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.4"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "12,6 m²"
+   ],
+   [
+    "WC",
+    "1,7 m"
+   ],
+   [
+    "KOUPELNA",
+    "5,0 m"
+   ],
+   [
+    "POKOJ",
+    "15,7 m"
+   ],
+   [
+    "LOŽNICE",
+    "15,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "26,8 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "77,6 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "3,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "81,0 m²"
+   ],
+   [
+    "TERASA",
+    "116,9 m2"
+   ],
+   [
+    "SKLEP č. 13",
+    "2,4 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 7",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ",
+    ""
+   ],
+   [
+    "DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "VNITŘNÍCHNOSNÝCH"
+   ]
+  ]
+ },
+ {
+  "id": "BD2-5",
+  "building": "BD2",
+  "number": 5,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.5_PRODEJ - 2.pdf",
+  "layout": "1,5+kk",
+  "floor": "1.P.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.9
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 32.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 5
+   },
+   {
+    "name": "KOMORA",
+    "area": 4
+   }
+  ],
+  "livingArea": 48.1,
+  "structures": 2,
+  "floorArea": 50.1,
+  "loggia": 9.2,
+  "balcony": null,
+  "terrace": 57.9,
+  "garden": null,
+  "cellar": {
+   "no": 14,
+   "area": 3.7
+  },
+  "parking": {
+   "no": 8
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 1,5+kk",
+    "BYT č.5"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.P.P."
+   ],
+   [
+    "CHODBA",
+    "6,9 m²"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "32,2 m"
+   ],
+   [
+    "KOUPELNA",
+    "5,0 m"
+   ],
+   [
+    "KOMORA",
+    "4,0 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "48,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "50,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "9,2 m2"
+   ],
+   [
+    "TERASA",
+    "57,9 m2"
+   ],
+   [
+    "SKLEP č. 14",
+    "3,7 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 8",
+    ""
+   ],
+   [
+    "LEGENDA",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKA"
+   ],
+   [
+    "VKLADU DO KATASTRU NEMOVITOSTÍ.",
+    "TVOŘÍJISOUČETPODLAHOVÝCH"
+   ],
+   [
+    "PLOCH MÍSTNOSTÍ BYTU, PLOCH",
+    "VNITŘNÍCHNOSNÝCHKONSTRUKCÍ,"
+   ],
+   [
+    "PLOCH POD NENOSNÝMI SVISLÝMI",
+    "KONSTRUKCEMIBYTU,"
+   ],
+   [
+    "INSTALAČNÍCH ŠACHET, KOMÍNŮ.",
+    "DOPODLAHOVÉPLOCHY"
+   ],
+   [
+    "VEŠKERÉ INFORMACE A ÚDAJE",
+    "NATÉTOSTRÁNCEJSOU POUZE"
+   ],
+   [
+    "INFORMATIVNÍ POVAHY.",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-6",
+  "building": "BD2",
+  "number": 6,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.6_PRODEJ.pdf",
+  "layout": "1+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 6.1
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 20.4
+   }
+  ],
+  "livingArea": 31.3,
+  "structures": 0.8,
+  "floorArea": 32.1,
+  "loggia": null,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 6,
+   "area": 3.2
+  },
+  "parking": {
+   "no": 6
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 1+kk",
+    "BYT č.6"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "6,1 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "20,4 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "31,3 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "0,8 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "32,1 m²"
+   ],
+   [
+    "SKLEP č. 6",
+    "3,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 6",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-7",
+  "building": "BD2",
+  "number": 7,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.7_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 10.1
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12.5
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 30.4
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.7
+   }
+  ],
+  "livingArea": 57.7,
+  "structures": 1.4,
+  "floorArea": 59.1,
+  "loggia": 7.6,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 7,
+   "area": 2.7
+  },
+  "parking": {
+   "no": 4
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.7"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "10,1 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,5 m2"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "30,4 m"
+   ],
+   [
+    "KOUPELNA",
+    "4,7 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "57,7 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "1,4 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "59,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "7,6 m2"
+   ],
+   [
+    "SKLEP č. 7",
+    "2,7 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 4",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-8",
+  "building": "BD2",
+  "number": 8,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.8_PRODEJ.pdf",
+  "layout": "3+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 7
+   },
+   {
+    "name": "KOMORA",
+    "area": 2.3
+   },
+   {
+    "name": "POKOJ",
+    "area": 11.4
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.3
+   },
+   {
+    "name": "WC",
+    "area": 1.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 12
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 3.8
+   }
+  ],
+  "livingArea": 61.6,
+  "structures": 2.5,
+  "floorArea": 64.1,
+  "loggia": 6.8,
+  "balcony": null,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 8,
+   "area": 2.7
+  },
+  "parking": {
+   "no": 5
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 3+kk",
+    "BYT č.8"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "7,0 m2"
+   ],
+   [
+    "KOMORA",
+    "2,3 m"
+   ],
+   [
+    "POKOJ",
+    "11,4 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,3 m"
+   ],
+   [
+    "WC",
+    "1,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "12,0 m2"
+   ],
+   [
+    "KOUPELNA",
+    "3,8 m2"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "61,6 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,5 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "64,1 m²"
+   ],
+   [
+    "LODŽIE",
+    "6,8 m2"
+   ],
+   [
+    "SKLEP č. 8",
+    "2,7 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 5",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "BD2-9",
+  "building": "BD2",
+  "number": 9,
+  "source": "Prodejní listy BD2 - 18.6.2025/Byt č.9_PRODEJ.pdf",
+  "layout": "2+kk",
+  "floor": "1.N.P.",
+  "rooms": [
+   {
+    "name": "CHODBA",
+    "area": 8.2
+   },
+   {
+    "name": "KOUPELNA",
+    "area": 4.8
+   },
+   {
+    "name": "LOŽNICE",
+    "area": 17.2
+   },
+   {
+    "name": "OBÝVACÍ POKOJ+KK",
+    "area": 23.9
+   },
+   {
+    "name": "KOMORA",
+    "area": 2
+   }
+  ],
+  "livingArea": 56.1,
+  "structures": 2.1,
+  "floorArea": 58.2,
+  "loggia": null,
+  "balcony": 7,
+  "terrace": null,
+  "garden": null,
+  "cellar": {
+   "no": 15,
+   "area": 5.2
+  },
+  "parking": {
+   "no": 9
+  },
+  "_pairs": [
+   [
+    "BLOK \"A\" BLOK \"B\"",
+    ""
+   ],
+   [
+    "BYTOVÝ DŮM",
+    "BD2"
+   ],
+   [
+    "BYT 2+kk",
+    "BYT č.9"
+   ],
+   [
+    "PODLAŽÍ",
+    "1.N.P."
+   ],
+   [
+    "CHODBA",
+    "8,2 m2"
+   ],
+   [
+    "KOUPELNA",
+    "4,8 m"
+   ],
+   [
+    "LOŽNICE",
+    "17,2 m"
+   ],
+   [
+    "OBÝVACÍ POKOJ+KK",
+    "23,9 m"
+   ],
+   [
+    "KOMORA",
+    "2,0 m"
+   ],
+   [
+    "OBYTNÁ PLOCHA",
+    "56,1 m²"
+   ],
+   [
+    "SVISLÉ KONSTRUKCE",
+    "2,1 m²"
+   ],
+   [
+    "PODLAHOVÁ PLOCHA",
+    "58,2 m²"
+   ],
+   [
+    "BALKON",
+    "7,0 m2"
+   ],
+   [
+    "SKLEP č. 15",
+    "5,2 m2"
+   ],
+   [
+    "GARÁŽOVÉ STÁNÍ č. 9",
+    ""
+   ],
+   [
+    "PLOCHA BYTU VYCHÁZÍ Z BUDOUCÍHO",
+    "PROHLÁŠENÍVLASTNÍKAA JEHO VKLADU DO KATASTRU"
+   ],
+   [
+    "PODLAHOVÝCH PLOCH MÍSTNOSTÍ",
+    "BYTU,PLOCHVNITŘNÍCHNOSNÝCH"
+   ],
+   [
+    "KONSTRUKCEMI BYTU, PLOCHY",
+    "ŠACHET,KOMÍNŮ."
+   ],
+   [
+    "LODŽIÍ A TERAS .",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RDD-01",
+  "building": "RDD",
+  "number": 1,
+  "source": "Prodejní listy RDD 01-04 - 2025_11_27/01_prodej.pdf",
+  "title": "RODINNÝ DVOJDŮM Č.01",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 96,2 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 15,9 m",
+    ""
+   ],
+   [
+    "² LODŽIE 6,3 m",
+    ""
+   ],
+   [
+    "TERASA 25,6 m ²",
+    ""
+   ],
+   [
+    "² ZÁVĚTŘÍ 9,1 m",
+    ""
+   ],
+   [
+    "m ² PLOCHA POZEMKU: 237",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 4,6 m",
+    ""
+   ],
+   [
+    "CHODBA 4,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 3,6 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 9,6 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 12,0 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,4 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.NP CELKEM 39,9 m ²",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,6 m ²",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 23,5 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 10,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 4,8 m ²",
+    ""
+   ],
+   [
+    "WC 1,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 5,3 m",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.PP CELKEM 56,3 m ²",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK RDD",
+    ""
+   ],
+   [
+    "OBJEKT RDD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "OPĚRNÁ ZEĎ",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RDD-02",
+  "building": "RDD",
+  "number": 2,
+  "source": "Prodejní listy RDD 01-04 - 2025_11_27/02_prodej.pdf",
+  "title": "RODINNÝ DVOJDŮM Č.02",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 107,0 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 20,2 m",
+    ""
+   ],
+   [
+    "² LODŽIE 6,3 m",
+    ""
+   ],
+   [
+    "TERASA 25,0 m ²",
+    ""
+   ],
+   [
+    "² ZÁVĚTŘÍ 9,1 m",
+    ""
+   ],
+   [
+    "m ² PLOCHA POZEMKU: 239",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 4,6 m",
+    ""
+   ],
+   [
+    "CHODBA 4,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 3,6 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 12,0 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13,0 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,4 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.NP CELKEM 43,3 m ²",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,6 m ²",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 26,9 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 14,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 4,8 m ²",
+    ""
+   ],
+   [
+    "WC 1,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 5,3 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.PP CELKEM 63,8 m ²",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK RDD",
+    ""
+   ],
+   [
+    "OBJEKT RDD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RDD-03",
+  "building": "RDD",
+  "number": 3,
+  "source": "Prodejní listy RDD 01-04 - 2025_11_27/03_prodej.pdf",
+  "title": "RODINNÝ DVOJDŮM Č.03",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 109,9 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 20,7 m",
+    ""
+   ],
+   [
+    "² LODŽIE 8,00 m",
+    ""
+   ],
+   [
+    "TERASA 24,8 m ²",
+    ""
+   ],
+   [
+    "² ZÁVĚTŘÍ 9,1 m",
+    ""
+   ],
+   [
+    "m ² PLOCHA POZEMKU: 258",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 4,6 m",
+    ""
+   ],
+   [
+    "CHODBA 4,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 3,6 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13,3 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13,4 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,4 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.NP CELKEM 44,9 m ²",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,6 m ²",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 28,6 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 14,0 m",
+    ""
+   ],
+   [
+    "KOUPELNA 4,8 m ²",
+    ""
+   ],
+   [
+    "WC 1,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 5,3 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.PP CELKEM 65,0 m ²",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK RDD",
+    ""
+   ],
+   [
+    "OBJEKT RDD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RDD-04",
+  "building": "RDD",
+  "number": 4,
+  "source": "Prodejní listy RDD 01-04 - 2025_11_27/04_prodej.pdf",
+  "title": "RODINNÝ DVOJDŮM Č.04",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 109,9 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 20,7 m",
+    ""
+   ],
+   [
+    "² LODŽIE 8,00 m",
+    ""
+   ],
+   [
+    "TERASA 24,8 m ²",
+    ""
+   ],
+   [
+    "² ZÁVĚTŘÍ 9,1 m",
+    ""
+   ],
+   [
+    "m ² PLOCHA POZEMKU: 278",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 4,6 m",
+    ""
+   ],
+   [
+    "CHODBA 4,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 3,6 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13,3 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13,4 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,4 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.NP CELKEM 44,9 m ²",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,6 m ²",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 28,6 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 14,0 m",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOUPELNA 4,8 m ²",
+    ""
+   ],
+   [
+    "WC 1,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 5,3 m",
+    ""
+   ],
+   [
+    "OBYTNÁ PLOCHA 1.PP CELKEM 65,0 m ²",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK RDD",
+    ""
+   ],
+   [
+    "OBJEKT RDD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-05",
+  "building": "ŘRD",
+  "number": 5,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 05_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 5",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 31,0 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 379 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-06",
+  "building": "ŘRD",
+  "number": 6,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 06_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 6",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 31,0 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 294 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-07",
+  "building": "ŘRD",
+  "number": 7,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 07_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 7",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 30,8 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 324 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha (m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha (m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-08",
+  "building": "ŘRD",
+  "number": 8,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 08_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 8",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 30,9 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 286 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "OPĚRNÁ ZEĎ",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-09",
+  "building": "ŘRD",
+  "number": 9,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 09_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 9",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 31,0 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 288 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    ""
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    ""
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "OPĚRNÁ ZEĎ",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "RRD-10",
+  "building": "ŘRD",
+  "number": 10,
+  "source": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 10_prodej.pdf",
+  "title": "ŘADOVÝ DŮM Č. 10",
+  "pageSize": [
+   1191,
+   842
+  ],
+  "_pairs": [
+   [
+    "² OBYTNÁ PLOCHA CELKEM 129 m",
+    ""
+   ],
+   [
+    "² GARÁŽ 23,5 m",
+    ""
+   ],
+   [
+    "² LODŽIE 1. NP 11,7 m",
+    ""
+   ],
+   [
+    "TERASA 1. PP 30,8 m ²",
+    ""
+   ],
+   [
+    "PLOCHA POZEMKU: 369 m ²",
+    ""
+   ],
+   [
+    "1. NP Plocha ( m",
+    "²)"
+   ],
+   [
+    "² ZÁDVEŘÍ 5 m",
+    ""
+   ],
+   [
+    "CHODBA 6,7 m ²",
+    ""
+   ],
+   [
+    "WC + KOUPELNA 4,5 m ²",
+    ""
+   ],
+   [
+    "POKOJ 1 13 m ²",
+    ""
+   ],
+   [
+    "POKOJ 2 13 m ²",
+    "D10.06"
+   ],
+   [
+    "² SCHODIŠTĚ 5,3 m",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.NP CELKEM 47,5 m",
+    ""
+   ],
+   [
+    "1. PP Plocha ( m",
+    "²)"
+   ],
+   [
+    "CHODBA 10,8 m ²",
+    ""
+   ],
+   [
+    "² TECHNICKÁ MÍSTNOST 4,7 m",
+    ""
+   ],
+   [
+    "² OBÝVACÍ POKOJ + KK 29,7 m",
+    ""
+   ],
+   [
+    "² POKOJ HOSTÉ 10,3 m",
+    ""
+   ],
+   [
+    "² LOŽNICE 15,4 m",
+    ""
+   ],
+   [
+    "KOUPELNA 6,4 m ²",
+    ""
+   ],
+   [
+    "WC 2,1 m ²",
+    "PŮDORYS 1.PP"
+   ],
+   [
+    "KOMORA 2,4 m ²",
+    ""
+   ],
+   [
+    "² OBYTNÁ PLOCHA 1.PP CELKEM 81,7 m",
+    ""
+   ],
+   [
+    "LEGENDA PŮDORYSY",
+    "D10.14"
+   ],
+   [
+    "STANDARDNÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "NENÍ SOUČÁSTÍ DODÁVKY",
+    ""
+   ],
+   [
+    "(PŘÍP. NADSTANDARD )",
+    ""
+   ],
+   [
+    "LEGENDA SITUACE",
+    ""
+   ],
+   [
+    "POZEMEK ŘRD",
+    ""
+   ],
+   [
+    "OBJEKT ŘRD",
+    ""
+   ],
+   [
+    "ZELEŇ",
+    ""
+   ],
+   [
+    "BETONOVÁ DLAŽBA",
+    ""
+   ],
+   [
+    "OPLOCENÍ PLETIVO",
+    ""
+   ],
+   [
+    "DĚLICÍ STĚNA - DŘEVO",
+    ""
+   ],
+   [
+    "OPĚRNÁ ZEĎ",
+    ""
+   ],
+   [
+    "VYSVAHOVÁNÍ POZEMKU",
+    ""
+   ]
+  ]
+ }
+]

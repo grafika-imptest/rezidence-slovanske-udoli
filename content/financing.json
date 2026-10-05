@@ -1,0 +1,55 @@
+{
+  "_meta": { "note": "Doslovně z dokumentu „Postup financování při prodeji bytů a rodinných domů“ (PDF klienta, platné od 01. 05. 2026) a „Pravidla klientských změn“ (PDF klienta).", "source": "rezidenceslovanskeudoli.cz/ke-stazeni" },
+  "validFrom": "01. 05. 2026",
+  "pdf": "docs/Postup_financovani.pdf",
+  "steps": [
+    {
+      "n": "1", "title": "Smlouva o rezervaci",
+      "text": "Uzavření Smlouvy o rezervaci a úhrada zálohy na kupní cenu související s rezervací ve výši 100.000,-- Kč (slovy: jedno sto tisíc korun českých) na předmětnou nemovitou věc. Předmětná nemovitá věc bude rezervována ode dne podpisu Smlouvy o rezervaci do dne podpisu Smlouvy o smlouvě budoucí kupní, tj. nejpozději do 3 měsíců od uzavření Smlouvy o rezervaci.",
+      "highlight": "100 000 Kč"
+    },
+    {
+      "n": "2", "title": "Smlouva o budoucí kupní smlouvě",
+      "text": "Po úhradě rezervačního poplatku – zálohy na kupní cenu Budoucí prodávající vypracuje Smlouvu o budoucí kupní smlouvě na předmětnou nemovitou věc. V této smlouvě bude stanoven standardní splátkový kalendář.",
+      "highlight": "splátkový kalendář"
+    },
+    {
+      "n": "3", "title": "Kupní smlouva",
+      "text": "Kupní smlouva na převod předmětné nemovité věci do vlastnictví Kupujícího bude uzavřena nejpozději do 45 pracovních dnů po zápisu kolaudačního rozhodnutí včetně zápisu geometrického plánu se zaměřeným domem do katastru nemovitostí. Poplatky spojené s vypracováním kupní smlouvy hradí Prodávající. Poplatky spojené s podáním Návrhu na vklad této smlouvy do katastru nemovitostí hradí Kupující.",
+      "highlight": "do 45 pracovních dnů"
+    }
+  ],
+  "schedule": [
+    { "key": "A", "pct": 20, "when": "do 10 dnů ode dne podpisu smlouvy", "note": "z této částky bude odečten již zaplacený rezervační poplatek – záloha na kupní cenu" },
+    { "key": "B", "pct": 25, "when": "po dokončení hrubé stavby", "note": "u bytových domů se jedná o dokončení hrubé stavby odpovídajícího podlaží, ve kterém bude umístěna Jednotka" },
+    { "key": "C", "pct": 20, "when": "po dokončení střechy a osazení oken" },
+    { "key": "D", "pct": 15, "when": "po dokončení příček, rozvodů elektroinstalací, ZTI, ÚT a dokončení betonových podlahových konstrukcí" },
+    { "key": "E", "pct": 10, "when": "po dokončení omítek" },
+    { "key": "F", "pct": 10, "when": "po předložení kolaudačního rozhodnutí, nejpozději však před podpisem vlastní kupní smlouvy" }
+  ],
+  "scheduleNotes": [
+    "Takto nastavené splátky jsou akceptovány i peněžními ústavy v případě financování prostřednictvím hypotéky.",
+    "V závislosti na postupu výstavby a době vstupu Budoucího kupujícího do projektu mohou být jednotlivé splátky upravovány.",
+    "Budoucí prodávající se zavazuje, že v případě financování koupě prostřednictvím peněžního ústavu poskytne na žádost Budoucího kupujícího v nezbytně nutném rozsahu součinnost při zřízení zástavního práva k předmětu koupě ve prospěch financujícího peněžního ústavu."
+  ],
+  "iko": "v případě zájmu možnost zajištění financování koupě nemovitostí",
+  "_src_iko": "ikoplzen.cz – Výhody pro naše klienty",
+  "clientChanges": {
+    "intro": "Budoucí kupující má možnost požadovat úpravy kupované bytové jednotky oproti standardu.",
+    "levels": [
+      { "key": "KZ1", "price": "9.000,- Kč bez DPH + individuální kalkulace změn", "examples": "změna umístění vývodů instalačních rozvodů, změna dodávaných materiálů oproti standardu (dveře, podlahy, obklady a dlažby, el. přístroje, zařizovací předměty), drobné úpravy příček" },
+      { "key": "KZ2", "price": "15.000,- Kč bez DPH + individuální kalkulace změn", "examples": "jako KZ1 a dále např. el. rohože v koupelně, přemístění otopných těles, příprava klimatizace či zastínění, změna otevírání dveří a oken" },
+      { "key": "KZ3", "price": "20.000,- Kč bez DPH + individuální kalkulace změn", "examples": "jako KZ1 a KZ2 a dále změny vnitřní dispozice (posun příček, související úpravy instalačních rozvodů), osazení pouzder pro posuvné dveře, změny vyžadující bourací práce nebo konzultaci s architektem lokality" }
+    ],
+    "note": "Požadována bude úhrada pouze v hodnotě dle nejvyšší dosažené kategorie.",
+    "pdfs": [
+      { "label": "Pravidla klientských změn – byty", "href": "docs/Pravidla_klientskych_zmen_BYTY.pdf", "valid": "platné od 01. 06. 2026" },
+      { "label": "Pravidla klientských změn – dvojdomy a řadové domy", "href": "docs/Pravidla_klientskych_zmen_RDD_RRD.pdf", "valid": "platné od 01. 07. 2026" }
+    ]
+  },
+  "gaps": [
+    "Partnerská banka / hypoteční specialista a kontakt na něj",
+    "Hypoteční kalkulačka – parametry (úroková sazba, LTV) dodá klient nebo partner",
+    "Vzor Smlouvy o rezervaci a SOBKS (na současném webu jen placeholder „Připravuje se…“)"
+  ]
+}

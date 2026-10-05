@@ -1,0 +1,10 @@
+{
+  "path": "financovani/", "section": "financovani/", "title": "Financování",
+  "description": "Postup koupě, rezervace, splátkový kalendář a klientské změny – Rezidence Slovanské údolí.",
+  "scripts": ["finance.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Financování", "title": "Jak probíhá koupě", "lead": "Rezervace, smlouva o budoucí kupní smlouvě se splátkami podle postupu výstavby a kupní smlouva po kolaudaci.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Financování" }] },
+    { "type": "FinancingSteps" },
+    { "type": "ContactForm", "eyebrow": "Dotaz k financování", "title": "Potřebujete poradit s financováním?", "text": "Napište nám – IKO uvádí možnost zajištění financování koupě nemovitosti." }
+  ]
+}

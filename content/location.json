@@ -1,0 +1,30 @@
+{
+  "_meta": { "note": "Lokalita – texty doslovně z homepage současného webu; mapové podklady = PDF „Přehledové mapy“ klienta. Vzdálenosti, časy, GPS a seznam konkrétních míst v podkladech nejsou.", "source": "rezidenceslovanskeudoli.cz (/), Slovanske_udoli.pdf" },
+  "title": "Skvrňany, Plzeň 3",
+  "lead": "Skvrňany nabízí svým obyvatelům velmi vysoký standard občanské vybavenosti.",
+  "paragraphs": [
+    "Skvrňany jsou kompaktní plzeňskou čtvrtí, která je součástí Městského obvodu Plzeň 3. Městský obvod Plzeň 3 je svojí rozlohou 3 546 ha jedním z největších plzeňských obvodů. Obvod slučuje jak historickou část města, tak části mladší jako jsou Bory, Doudlevce, Skvrňany, Nová Hospoda, Zátiší, Valcha či Radobyčice.",
+    "Skvrňany nabízí svým obyvatelům velmi vysoký standard občanské vybavenosti. Nechybí zde školy, školky, dětská hřiště, zdravotnická zařízení, knihovna, plavecký bazén, sportovní hřiště a samozřejmě i supermarkety. Najdeme zde i lokální prodejny, moderní bistra či restaurace. Lokalita má výborné dopravní napojení do centra Plzně. Tramvajová zastávka se nachází nedaleko budované lokality „Rezidence Slovanské údolí“. Nespornou výhodou je též nedaleké napojení na nově vybudovaný Západní okruh Plzně. Další nový bytový areál vyrůstá postupně i v sousedství ulice Vojanova a v prodloužení ulice Františka Kováříka."
+  ],
+  "access": "Dopravně je napojena z křižovatky ulic Za Humny a Slovanské údolí.",
+  "categories": [
+    { "id": "doprava", "title": "Doprava", "items": ["Tramvajová zastávka nedaleko lokality", "Výborné dopravní napojení do centra Plzně", "Nedaleké napojení na Západní okruh Plzně", "Příjezd z křižovatky ulic Za Humny a Slovanské údolí"] },
+    { "id": "skoly", "title": "Školy a školky", "items": ["Školy", "Školky"] },
+    { "id": "zdravi", "title": "Zdraví", "items": ["Zdravotnická zařízení"] },
+    { "id": "sport", "title": "Sport a volný čas", "items": ["Plavecký bazén", "Sportovní hřiště", "Dětská hřiště", "Knihovna"] },
+    { "id": "obchody", "title": "Obchody a služby", "items": ["Supermarkety", "Lokální prodejny", "Moderní bistra a restaurace"] },
+    { "id": "priroda", "title": "Příroda", "items": ["Výhled na údolí Vejprnického potoka", "Cyklostezka podél Vejprnického potoka (dle přehledové mapy)"] }
+  ],
+  "maps": [
+    { "image": "media/lokalita/mapa-01.webp", "caption": "Letecký pohled se zákresem pozemku – Skvrňany, Vejprnická, Vejprnický potok" },
+    { "image": "media/lokalita/mapa-02.webp", "caption": "Ortofoto se zákresem pozemku – Vejprnická, Za Humny, Slovanské údolí, cyklostezka" },
+    { "image": "media/lokalita/mapa-03.webp", "caption": "Poloha v rámci Plzně" }
+  ],
+  "mapsPdf": "docs/Prehledove_mapy_Slovanske_udoli.pdf",
+  "cadastre": "k.ú. Skvrňany (722596), p.č. 2112/1, 2113/1, 2113/2 (dle PENB)",
+  "gaps": [
+    "GPS souřadnice projektu / adresa pro navigaci",
+    "Konkrétní body zájmu (názvy škol, školek, zastávek, obchodů) se vzdálenostmi a časy",
+    "Interaktivní mapa – nelze sestavit bez potvrzených bodů"
+  ]
+}

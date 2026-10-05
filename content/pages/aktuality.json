@@ -1,0 +1,9 @@
+{
+  "path": "aktuality/", "section": "aktuality/", "title": "Aktuality",
+  "description": "Aktuality a fotografie z výstavby Rezidence Slovanské údolí.",
+  "scripts": ["news.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Aktuality", "title": "Ze stavby a projektu", "lead": "Fotografie z výstavby, videa a novinky z projektu.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Aktuality" }] },
+    { "type": "NewsList", "filters": true }
+  ]
+}

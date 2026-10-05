@@ -1,0 +1,137 @@
+/* ==========================================================================
+   Rezidence Slovanské údolí — projektový web v ekosystému IKO Plzeň
+   base.css: tokeny (1:1 s centrálním webem IKO) + reset + typografie + layout
+   Zdroj tokenů: iko-plzen/public/css/site.css, brand manuál IKO 2024 + dodatek 2026
+   ========================================================================== */
+
+@font-face{font-family:'Pepi';src:url('../fonts/Pepi-Regular.woff2') format('woff2');font-weight:400 600;font-style:normal;font-display:swap}
+@font-face{font-family:'Pepi';src:url('../fonts/Pepi-Bold.woff2') format('woff2');font-weight:700 900;font-style:normal;font-display:swap}
+
+:root{
+  /* --- Brand (manuál 2024, kap. 3.1) ---------------------------------- */
+  --iko-blue:#005FAA; --iko-white:#fff; --iko-gray:#8A8D8F; --iko-black:#000;
+
+  --blue-50:#e8f1f9; --blue-100:#cadfef; --blue-200:#9cc3e2; --blue-300:#5f9fd0;
+  --blue-400:#2b7ebe; --blue-500:#005FAA; --blue-600:#004f90; --blue-700:#003f74;
+  --blue-800:#002f58; --blue-900:#00203c; --blue-950:#001526;
+
+  --gray-0:#fff; --gray-50:#f6f7f8; --gray-100:#eceef0; --gray-200:#dcdfe1;
+  --gray-300:#c4c8cb; --gray-400:#a7abad; --gray-500:#8A8D8F; --gray-600:#6c6f71;
+  --gray-700:#4f5254; --gray-800:#333638; --gray-900:#1a1c1d;
+
+  /* --- Stavy jednotek (UI doplněk centrály) ----------------------------- */
+  --green-500:#2e9e5b; --green-50:#e7f5ed; --green-700:#1f6e3f;
+  --amber-500:#d98a1f; --amber-50:#fbf1e0; --amber-700:#8f5508;
+  --red-500:#c0392b;   --red-50:#f9e8e6;   --red-700:#8c2419;
+  --st-free:var(--green-500); --st-free-bg:var(--green-50); --st-free-ink:var(--green-700);
+  --st-res:var(--amber-500);  --st-res-bg:var(--amber-50);  --st-res-ink:var(--amber-700);
+  --st-sold:var(--gray-400);  --st-sold-bg:var(--gray-100); --st-sold-ink:var(--gray-600);
+
+  /* --- Sémantika -------------------------------------------------------- */
+  --brand:var(--iko-blue); --brand-hover:var(--blue-600); --brand-active:var(--blue-700);
+  --ink:var(--gray-900); --ink-body:var(--gray-800); --ink-muted:var(--gray-600); --ink-subtle:var(--gray-500);
+  --paper:#fff; --paper-2:var(--gray-50); --paper-3:var(--gray-100);
+  --line:var(--gray-200); --line-2:var(--gray-300); --line-3:var(--gray-400);
+  --night:var(--blue-950);
+  --focus-ring:0 0 0 3px color-mix(in srgb, var(--iko-blue) 38%, transparent);
+
+  /* --- Typografie -------------------------------------------------------- */
+  --font:'Pepi', Arial, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --fs-mega:clamp(3.2rem, 1rem + 9vw, 9.5rem);
+  --fs-hero:clamp(2.7rem, 1.1rem + 6.2vw, 6rem);
+  --fs-display:clamp(2.2rem, 1.2rem + 3.6vw, 4rem);
+  --fs-h1:clamp(1.9rem, 1.3rem + 2.4vw, 3.1rem);
+  --fs-h2:clamp(1.55rem, 1.15rem + 1.5vw, 2.35rem);
+  --fs-h3:clamp(1.2rem, 1rem + .7vw, 1.6rem);
+  --fs-h4:clamp(1.05rem, .95rem + .35vw, 1.25rem);
+  --fs-lead:clamp(1.1rem, 1rem + .5vw, 1.4rem);
+  --fs-body:1.0625rem; --fs-sm:.9375rem; --fs-label:.8125rem; --fs-micro:.75rem;
+  --lh-tight:1.02; --lh-heading:1.1; --lh-snug:1.28; --lh-body:1.62;
+  --ls-tight:-.02em; --ls-tighter:-.035em; --ls-label:.18em;
+
+  /* --- Layout ------------------------------------------------------------ */
+  --container:1440px; --container-text:860px;
+  --gutter:clamp(1rem, .4rem + 3vw, 2.75rem);
+  --section:clamp(4rem, 2.6rem + 6vw, 8.5rem);
+  --header-h:72px;
+
+  --shadow-xs:0 1px 2px rgba(0,32,60,.06);
+  --shadow-sm:0 1px 3px rgba(0,32,60,.08),0 1px 2px rgba(0,32,60,.06);
+  --shadow-md:0 8px 24px rgba(0,32,60,.10);
+  --shadow-lg:0 20px 50px rgba(0,32,60,.16);
+
+  --ease:cubic-bezier(.16,1,.3,1); --ease-std:cubic-bezier(.2,0,.1,1);
+  --t-fast:140ms; --t:280ms; --t-slow:560ms;
+}
+
+/* --- Reset ---------------------------------------------------------------- */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:calc(var(--header-h) + 1rem)}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.001ms!important;transition-duration:.001ms!important}}
+body{font-family:var(--font);font-size:var(--fs-body);line-height:var(--lh-body);color:var(--ink-body);background:var(--paper);-webkit-font-smoothing:antialiased;font-synthesis:none;overflow-x:hidden}
+[hidden]{display:none!important}
+img,svg,video,picture{display:block;max-width:100%}
+img{height:auto}
+a{color:inherit;text-decoration:none}
+button,input,select,textarea{font:inherit;color:inherit}
+button{background:none;border:0;cursor:pointer}
+ul,ol{list-style:none}
+table{border-collapse:collapse}
+h1,h2,h3,h4{font-weight:800;line-height:var(--lh-heading);letter-spacing:var(--ls-tight);color:var(--ink);text-wrap:balance}
+p{text-wrap:pretty}
+::selection{background:var(--iko-blue);color:#fff}
+:focus-visible{outline:none;box-shadow:var(--focus-ring)}
+.i{width:1.15em;height:1.15em;flex:none;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:square}
+.sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip{position:absolute;left:1rem;top:-4rem;z-index:200;background:var(--brand);color:#fff;padding:.7rem 1rem;font-weight:700}
+.skip:focus{top:1rem}
+
+/* --- Layout --------------------------------------------------------------- */
+.wrap{width:100%;max-width:var(--container);margin-inline:auto;padding-inline:var(--gutter)}
+.wrap--text{max-width:calc(var(--container-text) + 2*var(--gutter))}
+.sec{padding-block:var(--section)}
+.sec--tight{padding-block:clamp(2.75rem,2rem + 3vw,5rem)}
+.sec--paper2{background:var(--paper-2)}
+.sec--night{background:var(--night);color:rgba(255,255,255,.82)}
+.sec--night h1,.sec--night h2,.sec--night h3{color:#fff}
+.sec--blue{background:var(--brand);color:rgba(255,255,255,.9)}
+.sec--blue h2,.sec--blue h3{color:#fff}
+.grid-12{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:clamp(1rem,.5rem + 1.6vw,2rem)}
+
+/* --- Typografie ----------------------------------------------------------- */
+.eyebrow{display:inline-flex;align-items:center;gap:.7rem;font-size:var(--fs-label);font-weight:700;text-transform:uppercase;letter-spacing:var(--ls-label);color:var(--brand)}
+.eyebrow::before{content:"";width:26px;height:2px;background:currentColor}
+.sec--night .eyebrow,.sec--blue .eyebrow,.on-dark .eyebrow{color:#fff}
+.h-mega{font-size:var(--fs-mega);line-height:.92;letter-spacing:-.045em}
+.h-hero{font-size:var(--fs-hero);line-height:var(--lh-tight);letter-spacing:var(--ls-tighter)}
+.h-display{font-size:var(--fs-display);line-height:1.04;letter-spacing:var(--ls-tighter)}
+.h1{font-size:var(--fs-h1)} .h2{font-size:var(--fs-h2)} .h3{font-size:var(--fs-h3)} .h4{font-size:var(--fs-h4)}
+.lead{font-size:var(--fs-lead);line-height:var(--lh-snug);color:var(--ink)}
+.sec--night .lead,.sec--blue .lead{color:#fff}
+.muted{color:var(--ink-muted)}
+.small{font-size:var(--fs-sm)}
+.micro{font-size:var(--fs-micro);text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:var(--ink-muted)}
+.prose{max-width:66ch}
+.prose>*+*{margin-top:1em}
+.prose h2{font-size:var(--fs-h3);margin-top:2em}
+.prose h3{font-size:var(--fs-h4);margin-top:1.6em}
+.prose ul{padding-left:1.1em}
+.prose li{list-style:square;margin-top:.35em}
+.prose li::marker{color:var(--brand)}
+.prose a,.link{color:var(--brand);font-weight:700;border-bottom:1px solid currentColor}
+.num{font-variant-numeric:tabular-nums}
+
+/* Sekční hlavička */
+.shead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem 2rem;align-items:end;margin-bottom:clamp(2rem,1.4rem + 2vw,3.5rem)}
+.shead__t{max-width:22ch;margin-top:.9rem}
+.shead__p{grid-column:1/-1;max-width:60ch;color:var(--ink-muted)}
+.sec--night .shead__p{color:rgba(255,255,255,.72)}
+@media (max-width:760px){.shead{grid-template-columns:1fr}.shead__a{justify-self:start}}
+
+/* --- Data gap markers (viditelné záměrně – prototyp) ---------------------- */
+.gap{display:inline-flex;flex-wrap:wrap;align-items:baseline;gap:.45em;font-size:.72rem;font-weight:700;letter-spacing:.08em;line-height:1.3;padding:.3em .6em;border:1px dashed currentColor;vertical-align:middle;text-transform:uppercase}
+.gap em{font-style:normal;font-weight:400;letter-spacing:0;text-transform:none;font-size:.95em}
+.gap--missing{color:#b42318;background:#fff4f2}
+.gap--verify{color:#8f5508;background:#fff8eb}
+.gap-box{border:1px dashed var(--line-3);background:repeating-linear-gradient(-45deg,transparent 0 10px,rgba(0,0,0,.025) 10px 20px);padding:1.25rem;display:grid;gap:.6rem;place-content:center;text-align:center;color:var(--ink-muted);min-height:180px}
+body.hide-gaps .gap,body.hide-gaps .gap-box,body.hide-gaps [data-gap]{display:none!important}

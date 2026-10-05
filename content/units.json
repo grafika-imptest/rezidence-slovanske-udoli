@@ -1,0 +1,5686 @@
+{
+ "_meta": {
+  "generated": "2026-10-05",
+  "note": "Generováno skriptem scripts/build-units.mjs. V CMS bude každá položka jedním záznamem typu „Jednotka“.",
+  "priceNote": "Ceny a stavy převzaty ze současného webu k 5. 10. 2026. Před spuštěním nutno napojit na živý zdroj (CRM / CMS)."
+ },
+ "units": [
+  {
+   "id": "BD1-01",
+   "type": "byt",
+   "building": "BD1",
+   "number": 1,
+   "slug": "byt-bd1-01",
+   "label": "Byt č. 1",
+   "code": "BD1-01",
+   "status": "rezervovano",
+   "price": 3724000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.1_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 30.6,
+    "structures": 1.5,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 1,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 14,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.6
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 19.9
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-01.webp",
+    "sheet": "media/sheets/BD1-01.webp",
+    "sheetPdf": "docs/units/BD1-01-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-01-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-02",
+   "type": "byt",
+   "building": "BD1",
+   "number": 2,
+   "slug": "byt-bd1-02",
+   "label": "Byt č. 2",
+   "code": "BD1-02",
+   "status": "volne",
+   "price": 6470000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.2_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 58.1,
+    "structures": 1,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 2,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 15,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 31.2
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-02.webp",
+    "sheet": "media/sheets/BD1-02.webp",
+    "sheetPdf": "docs/units/BD1-02-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-02-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-03",
+   "type": "byt",
+   "building": "BD1",
+   "number": 3,
+   "slug": "byt-bd1-03",
+   "label": "Byt č. 3",
+   "code": "BD1-03",
+   "status": "volne",
+   "price": 7450000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.3_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 62.6,
+    "structures": 1.5,
+    "loggia": 8.1,
+    "balcony": null,
+    "terrace": 31.1
+   },
+   "cellar": {
+    "no": 3,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 3,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    },
+    {
+     "name": "POKOJ",
+     "area": 12
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.5
+    },
+    {
+     "name": "WC",
+     "area": 1.6
+    }
+   ],
+   "outdoorTotal": 39.2,
+   "media": {
+    "plan": "media/plans/BD1-03.webp",
+    "sheet": "media/sheets/BD1-03.webp",
+    "sheetPdf": "docs/units/BD1-03-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-03-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-04",
+   "type": "byt",
+   "building": "BD1",
+   "number": 4,
+   "slug": "byt-bd1-04",
+   "label": "Byt č. 4",
+   "code": "BD1-04",
+   "status": "volne",
+   "price": 6202000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.4_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "B",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.8,
+    "structures": 1.4,
+    "loggia": 8.5,
+    "balcony": null,
+    "terrace": 39.7
+   },
+   "cellar": {
+    "no": 4,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 4,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 21.3
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 48.2,
+   "media": {
+    "plan": "media/plans/BD1-04.webp",
+    "sheet": "media/sheets/BD1-04.webp",
+    "sheetPdf": "docs/units/BD1-04-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-04-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-05",
+   "type": "byt",
+   "building": "BD1",
+   "number": 5,
+   "slug": "byt-bd1-05",
+   "label": "Byt č. 5",
+   "code": "BD1-05",
+   "status": "volne",
+   "price": 9899000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.5_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 90.2,
+    "living": 86,
+    "structures": 4.2,
+    "loggia": null,
+    "balcony": null,
+    "terrace": 81.2
+   },
+   "cellar": {
+    "no": 5,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 5,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 14.1
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 8.4
+    },
+    {
+     "name": "KOMORA",
+     "area": 3.4
+    },
+    {
+     "name": "POKOJ",
+     "area": 13.9
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 26.7
+    }
+   ],
+   "outdoorTotal": 81.2,
+   "media": {
+    "plan": "media/plans/BD1-05.webp",
+    "sheet": "media/sheets/BD1-05.webp",
+    "sheetPdf": "docs/units/BD1-05-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-05-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-06",
+   "type": "byt",
+   "building": "BD1",
+   "number": 6,
+   "slug": "byt-bd1-06",
+   "label": "Byt č. 6",
+   "code": "BD1-06",
+   "status": "volne",
+   "price": 8189000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.6_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "C",
+   "orientation": "J",
+   "areas": {
+    "floor": 71.4,
+    "living": 69.4,
+    "structures": 2,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": 36
+   },
+   "cellar": {
+    "no": 20,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 20,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 26.6
+    },
+    {
+     "name": "KOMORA",
+     "area": 10.3
+    }
+   ],
+   "outdoorTotal": 43.6,
+   "media": {
+    "plan": "media/plans/BD1-06.webp",
+    "sheet": "media/sheets/BD1-06.webp",
+    "sheetPdf": "docs/units/BD1-06-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-06-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-07",
+   "type": "byt",
+   "building": "BD1",
+   "number": 7,
+   "slug": "byt-bd1-07",
+   "label": "Byt č. 7",
+   "code": "BD1-07",
+   "status": "volne",
+   "price": 11504000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.7_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "C",
+   "orientation": "J",
+   "areas": {
+    "floor": 105.9,
+    "living": 103.4,
+    "structures": 2.5,
+    "loggia": 8.9,
+    "balcony": null,
+    "terrace": 72.3
+   },
+   "cellar": {
+    "no": 21,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 21,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 12.1
+    },
+    {
+     "name": "KOMORA",
+     "area": 5.2
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 22.8
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 36.7
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    }
+   ],
+   "outdoorTotal": 81.2,
+   "media": {
+    "plan": "media/plans/BD1-07.webp",
+    "sheet": "media/sheets/BD1-07.webp",
+    "sheetPdf": "docs/units/BD1-07-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-07-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-08",
+   "type": "byt",
+   "building": "BD1",
+   "number": 8,
+   "slug": "byt-bd1-08",
+   "label": "Byt č. 8",
+   "code": "BD1-08",
+   "status": "volne",
+   "price": 6369000,
+   "parkingPrice": 425000,
+   "verify": [
+    "dispozice: prodejní list 1,5+kk × web 1+KK",
+    "podlahová plocha: prodejní list 46.2 × XLS 45.9"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.8_PRODEJ - 2.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1,5+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "D",
+   "orientation": "J",
+   "areas": {
+    "floor": 46.2,
+    "living": 44,
+    "structures": 2.2,
+    "loggia": 8.5,
+    "balcony": null,
+    "terrace": 58.2
+   },
+   "cellar": {
+    "no": 26,
+    "area": 2.5
+   },
+   "parking": {
+    "no": 26,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.3
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5
+    },
+    {
+     "name": "KOMORA",
+     "area": 3.5
+    }
+   ],
+   "outdoorTotal": 66.7,
+   "media": {
+    "plan": "media/plans/BD1-08.webp",
+    "sheet": "media/sheets/BD1-08.webp",
+    "sheetPdf": "docs/units/BD1-08-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-08-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-09",
+   "type": "byt",
+   "building": "BD1",
+   "number": 9,
+   "slug": "byt-bd1-09",
+   "label": "Byt č. 9",
+   "code": "BD1-09",
+   "status": "volne",
+   "price": 9735000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.9_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "D",
+   "orientation": "J",
+   "areas": {
+    "floor": 81,
+    "living": 77.5,
+    "structures": 3.5,
+    "loggia": null,
+    "balcony": null,
+    "terrace": 118.4
+   },
+   "cellar": {
+    "no": 27,
+    "area": 2.5
+   },
+   "parking": {
+    "no": 27,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 12.8
+    },
+    {
+     "name": "WC",
+     "area": 1.7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5
+    },
+    {
+     "name": "POKOJ",
+     "area": 15.6
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 26.7
+    }
+   ],
+   "outdoorTotal": 118.4,
+   "media": {
+    "plan": "media/plans/BD1-09.webp",
+    "sheet": "media/sheets/BD1-09.webp",
+    "sheetPdf": "docs/units/BD1-09-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-09-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-10",
+   "type": "byt",
+   "building": "BD1",
+   "number": 10,
+   "slug": "byt-bd1-10",
+   "label": "Byt č. 10",
+   "code": "BD1-10",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.10_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "E",
+   "orientation": "J",
+   "areas": {
+    "floor": 64.1,
+    "living": 62.8,
+    "structures": 1.3,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": 36
+   },
+   "cellar": {
+    "no": 37,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 37,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 16.6
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 28.3
+    },
+    {
+     "name": "WC",
+     "area": 1.6
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.1
+    },
+    {
+     "name": "KOMORA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 43.6,
+   "media": {
+    "plan": "media/plans/BD1-10.webp",
+    "sheet": "media/sheets/BD1-10.webp",
+    "sheetPdf": "docs/units/BD1-10-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-10-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-11",
+   "type": "byt",
+   "building": "BD1",
+   "number": 11,
+   "slug": "byt-bd1-11",
+   "label": "Byt č. 11",
+   "code": "BD1-11",
+   "status": "volne",
+   "price": 3724000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.11_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "E",
+   "orientation": "V",
+   "areas": {
+    "floor": 32.1,
+    "living": 30.8,
+    "structures": 1.3,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 38,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 38,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 19.9
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-11.webp",
+    "sheet": "media/sheets/BD1-11.webp",
+    "sheetPdf": "docs/units/BD1-11-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-11-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-12",
+   "type": "byt",
+   "building": "BD1",
+   "number": 12,
+   "slug": "byt-bd1-12",
+   "label": "Byt č. 12",
+   "code": "BD1-12",
+   "status": "rezervovano",
+   "price": 7256000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.12_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "E",
+   "orientation": "JV",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.8,
+    "structures": 1.3,
+    "loggia": 8.4,
+    "balcony": null,
+    "terrace": 36.5
+   },
+   "cellar": {
+    "no": 39,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 39,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.9
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 44.9,
+   "media": {
+    "plan": "media/plans/BD1-12.webp",
+    "sheet": "media/sheets/BD1-12.webp",
+    "sheetPdf": "docs/units/BD1-12-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-12-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-13",
+   "type": "byt",
+   "building": "BD1",
+   "number": 13,
+   "slug": "byt-bd1-13",
+   "label": "Byt č. 13",
+   "code": "BD1-13",
+   "status": "rezervovano",
+   "price": 3756000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.13_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.1,
+    "structures": 1,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 13,
+    "area": 2.4
+   },
+   "parking": {
+    "no": 13,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.6
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-13.webp",
+    "sheet": "media/sheets/BD1-13.webp",
+    "sheetPdf": "docs/units/BD1-13-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-13-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-14",
+   "type": "byt",
+   "building": "BD1",
+   "number": 14,
+   "slug": "byt-bd1-14",
+   "label": "Byt č. 14",
+   "code": "BD1-14",
+   "status": "rezervovano",
+   "price": 6537000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.14_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 14,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 1,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-14.webp",
+    "sheet": "media/sheets/BD1-14.webp",
+    "sheetPdf": "docs/units/BD1-14-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-14-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-15",
+   "type": "byt",
+   "building": "BD1",
+   "number": 15,
+   "slug": "byt-bd1-15",
+   "label": "Byt č. 15",
+   "code": "BD1-15",
+   "status": "rezervovano",
+   "price": 6968000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.15_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 62.2,
+    "structures": 1.9,
+    "loggia": 7,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 15,
+    "area": 2.8
+   },
+   "parking": {
+    "no": 2,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.7
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.6
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-15.webp",
+    "sheet": "media/sheets/BD1-15.webp",
+    "sheetPdf": "docs/units/BD1-15-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-15-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-16",
+   "type": "byt",
+   "building": "BD1",
+   "number": 16,
+   "slug": "byt-bd1-16",
+   "label": "Byt č. 16",
+   "code": "BD1-16",
+   "status": "volne",
+   "price": 5447000,
+   "parkingPrice": 425000,
+   "verify": [
+    "lodžie: prodejní list 7.2 × XLS 12.5"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.16_PRODEJ - 2.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "B",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.3,
+    "structures": 1.9,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 6,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 6,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.5
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.3
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-16.webp",
+    "sheet": "media/sheets/BD1-16.webp",
+    "sheetPdf": "docs/units/BD1-16-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-16-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-17",
+   "type": "byt",
+   "building": "BD1",
+   "number": 17,
+   "slug": "byt-bd1-17",
+   "label": "Byt č. 17",
+   "code": "BD1-17",
+   "status": "volne",
+   "price": 6390000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.17_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56.1,
+    "structures": 2.1,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 7,
+    "area": 3
+   },
+   "parking": {
+    "no": 7,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-17.webp",
+    "sheet": "media/sheets/BD1-17.webp",
+    "sheetPdf": "docs/units/BD1-17-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-17-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-18",
+   "type": "byt",
+   "building": "BD1",
+   "number": 18,
+   "slug": "byt-bd1-18",
+   "label": "Byt č. 18",
+   "code": "BD1-18",
+   "status": "volne",
+   "price": 7664000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.18_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "C",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 71.4,
+    "living": 68.3,
+    "structures": 3.1,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 18,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 18,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 11.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 1.9
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 24.5
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.6
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-18.webp",
+    "sheet": "media/sheets/BD1-18.webp",
+    "sheetPdf": "docs/units/BD1-18-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-18-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-19",
+   "type": "byt",
+   "building": "BD1",
+   "number": 19,
+   "slug": "byt-bd1-19",
+   "label": "Byt č. 19",
+   "code": "BD1-19",
+   "status": "volne",
+   "price": 9936000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.19_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "C",
+   "orientation": "JV",
+   "areas": {
+    "floor": 96.5,
+    "living": 92.1,
+    "structures": 4.4,
+    "loggia": 7,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 19,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 19,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 14.7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.6
+    },
+    {
+     "name": "POKOJ",
+     "area": 9.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.9
+    },
+    {
+     "name": "POKOJ",
+     "area": 9.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 35.9
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-19.webp",
+    "sheet": "media/sheets/BD1-19.webp",
+    "sheetPdf": "docs/units/BD1-19-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-19-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-20",
+   "type": "byt",
+   "building": "BD1",
+   "number": 20,
+   "slug": "byt-bd1-20",
+   "label": "Byt č. 20",
+   "code": "BD1-20",
+   "status": "rezervovano",
+   "price": 5501000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.20_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "D",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44,
+    "structures": 2.2,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 28,
+    "area": 5.3
+   },
+   "parking": {
+    "no": 28,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.9
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-20.webp",
+    "sheet": "media/sheets/BD1-20.webp",
+    "sheetPdf": "docs/units/BD1-20-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-20-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-21",
+   "type": "byt",
+   "building": "BD1",
+   "number": 21,
+   "slug": "byt-bd1-21",
+   "label": "Byt č. 21",
+   "code": "BD1-21",
+   "status": "volne",
+   "price": 6390000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.21_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "D",
+   "orientation": "JV",
+   "areas": {
+    "floor": 58.2,
+    "living": 56,
+    "structures": 2.2,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 29,
+    "area": 2.8
+   },
+   "parking": {
+    "no": 29,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-21.webp",
+    "sheet": "media/sheets/BD1-21.webp",
+    "sheetPdf": "docs/units/BD1-21-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-21-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-22",
+   "type": "byt",
+   "building": "BD1",
+   "number": 22,
+   "slug": "byt-bd1-22",
+   "label": "Byt č. 22",
+   "code": "BD1-22",
+   "status": "volne",
+   "price": 6948000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.22_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "E",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 64.1,
+    "living": 61.6,
+    "structures": 2.5,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 40,
+    "area": 2.8
+   },
+   "parking": {
+    "no": 40,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-22.webp",
+    "sheet": "media/sheets/BD1-22.webp",
+    "sheetPdf": "docs/units/BD1-22-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-22-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-23",
+   "type": "byt",
+   "building": "BD1",
+   "number": 23,
+   "slug": "byt-bd1-23",
+   "label": "Byt č. 23",
+   "code": "BD1-23",
+   "status": "rezervovano",
+   "price": 3756000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.23_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "E",
+   "orientation": "V",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 41,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 32,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-23.webp",
+    "sheet": "media/sheets/BD1-23.webp",
+    "sheetPdf": "docs/units/BD1-23-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-23-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-24",
+   "type": "byt",
+   "building": "BD1",
+   "number": 24,
+   "slug": "byt-bd1-24",
+   "label": "Byt č. 24",
+   "code": "BD1-24",
+   "status": "rezervovano",
+   "price": 6537000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.24_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "E",
+   "orientation": "JV",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 42,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 42,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-24.webp",
+    "sheet": "media/sheets/BD1-24.webp",
+    "sheetPdf": "docs/units/BD1-24-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-24-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-25",
+   "type": "byt",
+   "building": "BD1",
+   "number": 25,
+   "slug": "byt-bd1-25",
+   "label": "Byt č. 25",
+   "code": "BD1-25",
+   "status": "rezervovano",
+   "price": 3788000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.25_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.1,
+    "structures": 1,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 12,
+    "area": 2.4
+   },
+   "parking": {
+    "no": 12,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.6
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-25.webp",
+    "sheet": "media/sheets/BD1-25.webp",
+    "sheetPdf": "docs/units/BD1-25-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-25-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-26",
+   "type": "byt",
+   "building": "BD1",
+   "number": 26,
+   "slug": "byt-bd1-26",
+   "label": "Byt č. 26",
+   "code": "BD1-26",
+   "status": "rezervovano",
+   "price": 6604000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.26_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 16,
+    "area": 2.8
+   },
+   "parking": {
+    "no": 9,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-26.webp",
+    "sheet": "media/sheets/BD1-26.webp",
+    "sheetPdf": "docs/units/BD1-26-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-26-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-27",
+   "type": "byt",
+   "building": "BD1",
+   "number": 27,
+   "slug": "byt-bd1-27",
+   "label": "Byt č. 27",
+   "code": "BD1-27",
+   "status": "rezervovano",
+   "price": 7039000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.27_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 62.2,
+    "structures": 1.9,
+    "loggia": 7,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 17,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 8,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.7
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.6
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-27.webp",
+    "sheet": "media/sheets/BD1-27.webp",
+    "sheetPdf": "docs/units/BD1-27-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-27-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-28",
+   "type": "byt",
+   "building": "BD1",
+   "number": 28,
+   "slug": "byt-bd1-28",
+   "label": "Byt č. 28",
+   "code": "BD1-28",
+   "status": "rezervovano",
+   "price": 5554000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.28_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "B",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.3,
+    "structures": 1.9,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 8,
+    "area": 3
+   },
+   "parking": {
+    "no": 17,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.5
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.3
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-28.webp",
+    "sheet": "media/sheets/BD1-28.webp",
+    "sheetPdf": "docs/units/BD1-28-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-28-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-29",
+   "type": "byt",
+   "building": "BD1",
+   "number": 29,
+   "slug": "byt-bd1-29",
+   "label": "Byt č. 29",
+   "code": "BD1-29",
+   "status": "volne",
+   "price": 6455000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.29_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56.1,
+    "structures": 2.1,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 9,
+    "area": 3
+   },
+   "parking": {
+    "no": 16,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-29.webp",
+    "sheet": "media/sheets/BD1-29.webp",
+    "sheetPdf": "docs/units/BD1-29-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-29-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-30",
+   "type": "byt",
+   "building": "BD1",
+   "number": 30,
+   "slug": "byt-bd1-30",
+   "label": "Byt č. 30",
+   "code": "BD1-30",
+   "status": "volne",
+   "price": 7742000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.30_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "C",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 71.4,
+    "living": 68.7,
+    "structures": 2.7,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 22,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 22,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 11.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 1.9
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 24.5
+    },
+    {
+     "name": "POKOJ",
+     "area": 12
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-30.webp",
+    "sheet": "media/sheets/BD1-30.webp",
+    "sheetPdf": "docs/units/BD1-30-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-30-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-31",
+   "type": "byt",
+   "building": "BD1",
+   "number": 31,
+   "slug": "byt-bd1-31",
+   "label": "Byt č. 31",
+   "code": "BD1-31",
+   "status": "volne",
+   "price": 10040000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.31_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "C",
+   "orientation": "JV",
+   "areas": {
+    "floor": 96.5,
+    "living": 93.2,
+    "structures": 3.3,
+    "loggia": 7,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 23,
+    "area": 2.3
+   },
+   "parking": {
+    "no": 23,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 14.8
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.6
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 13.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 35.9
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-31.webp",
+    "sheet": "media/sheets/BD1-31.webp",
+    "sheetPdf": "docs/units/BD1-31-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-31-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-32",
+   "type": "byt",
+   "building": "BD1",
+   "number": 32,
+   "slug": "byt-bd1-32",
+   "label": "Byt č. 32",
+   "code": "BD1-32",
+   "status": "rezervovano",
+   "price": 5554000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.32_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "D",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.3,
+    "structures": 1.9,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 32,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 41,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.9
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.3
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-32.webp",
+    "sheet": "media/sheets/BD1-32.webp",
+    "sheetPdf": "docs/units/BD1-32-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-32-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-33",
+   "type": "byt",
+   "building": "BD1",
+   "number": 33,
+   "slug": "byt-bd1-33",
+   "label": "Byt č. 33",
+   "code": "BD1-33",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.33_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "D",
+   "orientation": "JV",
+   "areas": {
+    "floor": 58.2,
+    "living": 56,
+    "structures": 2.2,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 33,
+    "area": 2.1
+   },
+   "parking": {
+    "no": 45,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-33.webp",
+    "sheet": "media/sheets/BD1-33.webp",
+    "sheetPdf": "docs/units/BD1-33-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-33-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-34",
+   "type": "byt",
+   "building": "BD1",
+   "number": 34,
+   "slug": "byt-bd1-34",
+   "label": "Byt č. 34",
+   "code": "BD1-34",
+   "status": "volne",
+   "price": 7019000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.34_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "E",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 64.1,
+    "living": 62,
+    "structures": 2.1,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 34,
+    "area": 2.1
+   },
+   "parking": {
+    "no": 46,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-34.webp",
+    "sheet": "media/sheets/BD1-34.webp",
+    "sheetPdf": "docs/units/BD1-34-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-34-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-35",
+   "type": "byt",
+   "building": "BD1",
+   "number": 35,
+   "slug": "byt-bd1-35",
+   "label": "Byt č. 35",
+   "code": "BD1-35",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.35_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "E",
+   "orientation": "V",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 35,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 47,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-35.webp",
+    "sheet": "media/sheets/BD1-35.webp",
+    "sheetPdf": "docs/units/BD1-35-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-35-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-36",
+   "type": "byt",
+   "building": "BD1",
+   "number": 36,
+   "slug": "byt-bd1-36",
+   "label": "Byt č. 36",
+   "code": "BD1-36",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.36_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "E",
+   "orientation": "JV",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 36,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 36,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-36.webp",
+    "sheet": "media/sheets/BD1-36.webp",
+    "sheetPdf": "docs/units/BD1-36-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-36-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-37",
+   "type": "byt",
+   "building": "BD1",
+   "number": 37,
+   "slug": "byt-bd1-37",
+   "label": "Byt č. 37",
+   "code": "BD1-37",
+   "status": "rezervovano",
+   "price": 5714000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.37_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "B",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.3,
+    "structures": 1.9,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 10,
+    "area": 2.1
+   },
+   "parking": {
+    "no": 10,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.5
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.3
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-37.webp",
+    "sheet": "media/sheets/BD1-37.webp",
+    "sheetPdf": "docs/units/BD1-37-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-37-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-38",
+   "type": "byt",
+   "building": "BD1",
+   "number": 38,
+   "slug": "byt-bd1-38",
+   "label": "Byt č. 38",
+   "code": "BD1-38",
+   "status": "volne",
+   "price": 6651000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.38_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56.1,
+    "structures": 2.1,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 11,
+    "area": 2.1
+   },
+   "parking": {
+    "no": 11,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-38.webp",
+    "sheet": "media/sheets/BD1-38.webp",
+    "sheetPdf": "docs/units/BD1-38-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-38-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-39",
+   "type": "byt",
+   "building": "BD1",
+   "number": 39,
+   "slug": "byt-bd1-39",
+   "label": "Byt č. 39",
+   "code": "BD1-39",
+   "status": "volne",
+   "price": 7977000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.39_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "C",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 71.4,
+    "living": 68.7,
+    "structures": 2.7,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 24,
+    "area": 2.4
+   },
+   "parking": {
+    "no": 24,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 11.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 1.9
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 24.5
+    },
+    {
+     "name": "POKOJ",
+     "area": 12
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-39.webp",
+    "sheet": "media/sheets/BD1-39.webp",
+    "sheetPdf": "docs/units/BD1-39-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-39-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-40",
+   "type": "byt",
+   "building": "BD1",
+   "number": 40,
+   "slug": "byt-bd1-40",
+   "label": "Byt č. 40",
+   "code": "BD1-40",
+   "status": "volne",
+   "price": 10350000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.40_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "C",
+   "orientation": "JV",
+   "areas": {
+    "floor": 96.5,
+    "living": 93.2,
+    "structures": 3.3,
+    "loggia": 7,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 25,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 25,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 14.8
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.6
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 13.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 10.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 35.9
+    },
+    {
+     "name": "WC",
+     "area": 1.9
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-40.webp",
+    "sheet": "media/sheets/BD1-40.webp",
+    "sheetPdf": "docs/units/BD1-40-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-40-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-41",
+   "type": "byt",
+   "building": "BD1",
+   "number": 41,
+   "slug": "byt-bd1-41",
+   "label": "Byt č. 41",
+   "code": "BD1-41",
+   "status": "rezervovano",
+   "price": 5714000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.41_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "D",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 46.2,
+    "living": 44.3,
+    "structures": 1.9,
+    "loggia": 7.2,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 30,
+    "area": 2.8
+   },
+   "parking": {
+    "no": 30,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.9
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.5
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.3
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.2,
+   "media": {
+    "plan": "media/plans/BD1-41.webp",
+    "sheet": "media/sheets/BD1-41.webp",
+    "sheetPdf": "docs/units/BD1-41-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-41-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-42",
+   "type": "byt",
+   "building": "BD1",
+   "number": 42,
+   "slug": "byt-bd1-42",
+   "label": "Byt č. 42",
+   "code": "BD1-42",
+   "status": "volne",
+   "price": 6651000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.42_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "D",
+   "orientation": "JV",
+   "areas": {
+    "floor": 58.2,
+    "living": 56,
+    "structures": 2.2,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 31,
+    "area": 2.2
+   },
+   "parking": {
+    "no": 31,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD1-42.webp",
+    "sheet": "media/sheets/BD1-42.webp",
+    "sheetPdf": "docs/units/BD1-42-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-42-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-43",
+   "type": "byt",
+   "building": "BD1",
+   "number": 43,
+   "slug": "byt-bd1-43",
+   "label": "Byt č. 43",
+   "code": "BD1-43",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.43_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "E",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 64.1,
+    "living": 62,
+    "structures": 2.1,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 43,
+    "area": 2.9
+   },
+   "parking": {
+    "no": 43,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD1-43.webp",
+    "sheet": "media/sheets/BD1-43.webp",
+    "sheetPdf": "docs/units/BD1-43-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-43-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-44",
+   "type": "byt",
+   "building": "BD1",
+   "number": 44,
+   "slug": "byt-bd1-44",
+   "label": "Byt č. 44",
+   "code": "BD1-44",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.44_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "E",
+   "orientation": "V",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 44,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 44,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD1-44.webp",
+    "sheet": "media/sheets/BD1-44.webp",
+    "sheetPdf": "docs/units/BD1-44-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-44-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD1-45",
+   "type": "byt",
+   "building": "BD1",
+   "number": 45,
+   "slug": "byt-bd1-45",
+   "label": "Byt č. 45",
+   "code": "BD1-45",
+   "status": "rezervovano",
+   "price": 6804000,
+   "parkingPrice": 425000,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD1 - 6.6.2025/Byt č.45_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "E",
+   "orientation": "JV",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 45,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 48,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD1-45.webp",
+    "sheet": "media/sheets/BD1-45.webp",
+    "sheetPdf": "docs/units/BD1-45-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD1-45-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-01",
+   "type": "byt",
+   "building": "BD2",
+   "number": 1,
+   "slug": "byt-bd2-01",
+   "label": "Byt č. 1",
+   "code": "BD2-01",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.1_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 30.8,
+    "structures": 1.3,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 1,
+    "area": 5.1
+   },
+   "parking": {
+    "no": 1,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 19.9
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD2-01.webp",
+    "sheet": "media/sheets/BD2-01.webp",
+    "sheetPdf": "docs/units/BD2-01-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-01-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-02",
+   "type": "byt",
+   "building": "BD2",
+   "number": 2,
+   "slug": "byt-bd2-02",
+   "label": "Byt č. 2",
+   "code": "BD2-02",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.2_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 58.1,
+    "structures": 1,
+    "loggia": 8.9,
+    "balcony": null,
+    "terrace": 94.7
+   },
+   "cellar": {
+    "no": 2,
+    "area": 5.1
+   },
+   "parking": {
+    "no": 2,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.1
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 31.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 103.60000000000001,
+   "media": {
+    "plan": "media/plans/BD2-02.webp",
+    "sheet": "media/sheets/BD2-02.webp",
+    "sheetPdf": "docs/units/BD2-02-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-02-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-03",
+   "type": "byt",
+   "building": "BD2",
+   "number": 3,
+   "slug": "byt-bd2-03",
+   "label": "Byt č. 3",
+   "code": "BD2-03",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.3_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "A",
+   "orientation": "J",
+   "areas": {
+    "floor": 64.1,
+    "living": 62.9,
+    "structures": 1.2,
+    "loggia": 7.7,
+    "balcony": null,
+    "terrace": 35.4
+   },
+   "cellar": {
+    "no": 3,
+    "area": 5
+   },
+   "parking": {
+    "no": 3,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7.5
+    },
+    {
+     "name": "KOMORA",
+     "area": 4.7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4
+    },
+    {
+     "name": "WC",
+     "area": 1.7
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 28.4
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 16.6
+    }
+   ],
+   "outdoorTotal": 43.1,
+   "media": {
+    "plan": "media/plans/BD2-03.webp",
+    "sheet": "media/sheets/BD2-03.webp",
+    "sheetPdf": "docs/units/BD2-03-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-03-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-04",
+   "type": "byt",
+   "building": "BD2",
+   "number": 4,
+   "slug": "byt-bd2-04",
+   "label": "Byt č. 4",
+   "code": "BD2-04",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.4_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 81,
+    "living": 77.6,
+    "structures": 3.4,
+    "loggia": null,
+    "balcony": null,
+    "terrace": 116.9
+   },
+   "cellar": {
+    "no": 13,
+    "area": 2.4
+   },
+   "parking": {
+    "no": 7,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 12.6
+    },
+    {
+     "name": "WC",
+     "area": 1.7
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5
+    },
+    {
+     "name": "POKOJ",
+     "area": 15.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 26.8
+    }
+   ],
+   "outdoorTotal": 116.9,
+   "media": {
+    "plan": "media/plans/BD2-04.webp",
+    "sheet": "media/sheets/BD2-04.webp",
+    "sheetPdf": "docs/units/BD2-04-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-04-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-05",
+   "type": "byt",
+   "building": "BD2",
+   "number": 5,
+   "slug": "byt-bd2-05",
+   "label": "Byt č. 5",
+   "code": "BD2-05",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [
+    "dispozice: prodejní list 1,5+kk × web 1+KK"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.5_PRODEJ - 2.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1,5+kk",
+   "floor": "1.PP",
+   "floorOrder": -1,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 50.1,
+    "living": 48.1,
+    "structures": 2,
+    "loggia": 9.2,
+    "balcony": null,
+    "terrace": 57.9
+   },
+   "cellar": {
+    "no": 14,
+    "area": 3.7
+   },
+   "parking": {
+    "no": 8,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.9
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 32.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5
+    },
+    {
+     "name": "KOMORA",
+     "area": 4
+    }
+   ],
+   "outdoorTotal": 67.1,
+   "media": {
+    "plan": "media/plans/BD2-05.webp",
+    "sheet": "media/sheets/BD2-05.webp",
+    "sheetPdf": "docs/units/BD2-05-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-05-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-06",
+   "type": "byt",
+   "building": "BD2",
+   "number": 6,
+   "slug": "byt-bd2-06",
+   "label": "Byt č. 6",
+   "code": "BD2-06",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.6_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 6,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 6,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD2-06.webp",
+    "sheet": "media/sheets/BD2-06.webp",
+    "sheetPdf": "docs/units/BD2-06-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-06-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-07",
+   "type": "byt",
+   "building": "BD2",
+   "number": 7,
+   "slug": "byt-bd2-07",
+   "label": "Byt č. 7",
+   "code": "BD2-07",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.7_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 7,
+    "area": 2.7
+   },
+   "parking": {
+    "no": 4,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD2-07.webp",
+    "sheet": "media/sheets/BD2-07.webp",
+    "sheetPdf": "docs/units/BD2-07-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-07-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-08",
+   "type": "byt",
+   "building": "BD2",
+   "number": 8,
+   "slug": "byt-bd2-08",
+   "label": "Byt č. 8",
+   "code": "BD2-08",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.8_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 61.6,
+    "structures": 2.5,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 8,
+    "area": 2.7
+   },
+   "parking": {
+    "no": 5,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD2-08.webp",
+    "sheet": "media/sheets/BD2-08.webp",
+    "sheetPdf": "docs/units/BD2-08-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-08-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-09",
+   "type": "byt",
+   "building": "BD2",
+   "number": 9,
+   "slug": "byt-bd2-09",
+   "label": "Byt č. 9",
+   "code": "BD2-09",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.9_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56.1,
+    "structures": 2.1,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 15,
+    "area": 5.2
+   },
+   "parking": {
+    "no": 9,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD2-09.webp",
+    "sheet": "media/sheets/BD2-09.webp",
+    "sheetPdf": "docs/units/BD2-09-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-09-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-10",
+   "type": "byt",
+   "building": "BD2",
+   "number": 10,
+   "slug": "byt-bd2-10",
+   "label": "Byt č. 10",
+   "code": "BD2-10",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.10_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "1.NP",
+   "floorOrder": 1,
+   "entrance": "B",
+   "orientation": "JV",
+   "areas": {
+    "floor": 50.1,
+    "living": 48.1,
+    "structures": 2,
+    "loggia": 7.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 16,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 16,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 22.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5.2
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 13.8
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.8,
+   "media": {
+    "plan": "media/plans/BD2-10.webp",
+    "sheet": "media/sheets/BD2-10.webp",
+    "sheetPdf": "docs/units/BD2-10-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-10-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-11",
+   "type": "byt",
+   "building": "BD2",
+   "number": 11,
+   "slug": "byt-bd2-11",
+   "label": "Byt č. 11",
+   "code": "BD2-11",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.11_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 11,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 11,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD2-11.webp",
+    "sheet": "media/sheets/BD2-11.webp",
+    "sheetPdf": "docs/units/BD2-11-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-11-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-12",
+   "type": "byt",
+   "building": "BD2",
+   "number": 12,
+   "slug": "byt-bd2-12",
+   "label": "Byt č. 12",
+   "code": "BD2-12",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.12_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 12,
+    "area": 3.3
+   },
+   "parking": {
+    "no": 12,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD2-12.webp",
+    "sheet": "media/sheets/BD2-12.webp",
+    "sheetPdf": "docs/units/BD2-12-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-12-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-13",
+   "type": "byt",
+   "building": "BD2",
+   "number": 13,
+   "slug": "byt-bd2-13",
+   "label": "Byt č. 13",
+   "code": "BD2-13",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.13_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 62,
+    "structures": 2.1,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 4,
+    "area": 5.1
+   },
+   "parking": {
+    "no": 13,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD2-13.webp",
+    "sheet": "media/sheets/BD2-13.webp",
+    "sheetPdf": "docs/units/BD2-13-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-13-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-14",
+   "type": "byt",
+   "building": "BD2",
+   "number": 14,
+   "slug": "byt-bd2-14",
+   "label": "Byt č. 14",
+   "code": "BD2-14",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.14_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56,
+    "structures": 2.2,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 17,
+    "area": 3.1
+   },
+   "parking": {
+    "no": 17,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD2-14.webp",
+    "sheet": "media/sheets/BD2-14.webp",
+    "sheetPdf": "docs/units/BD2-14-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-14-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-15",
+   "type": "byt",
+   "building": "BD2",
+   "number": 15,
+   "slug": "byt-bd2-15",
+   "label": "Byt č. 15",
+   "code": "BD2-15",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.15_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "2.NP",
+   "floorOrder": 2,
+   "entrance": "B",
+   "orientation": "JV",
+   "areas": {
+    "floor": 50.1,
+    "living": 48.1,
+    "structures": 2,
+    "loggia": 7.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 18,
+    "area": 3.6
+   },
+   "parking": {
+    "no": 18,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 22.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5.2
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 13.8
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.8,
+   "media": {
+    "plan": "media/plans/BD2-15.webp",
+    "sheet": "media/sheets/BD2-15.webp",
+    "sheetPdf": "docs/units/BD2-15-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-15-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-16",
+   "type": "byt",
+   "building": "BD2",
+   "number": 16,
+   "slug": "byt-bd2-16",
+   "label": "Byt č. 16",
+   "code": "BD2-16",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.16_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "1+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "A",
+   "orientation": "Z",
+   "areas": {
+    "floor": 32.1,
+    "living": 31.3,
+    "structures": 0.8,
+    "loggia": null,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 9,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 14,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 6.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 20.4
+    }
+   ],
+   "outdoorTotal": null,
+   "media": {
+    "plan": "media/plans/BD2-16.webp",
+    "sheet": "media/sheets/BD2-16.webp",
+    "sheetPdf": "docs/units/BD2-16-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-16-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-17",
+   "type": "byt",
+   "building": "BD2",
+   "number": 17,
+   "slug": "byt-bd2-17",
+   "label": "Byt č. 17",
+   "code": "BD2-17",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.17_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "A",
+   "orientation": "JZ",
+   "areas": {
+    "floor": 59.1,
+    "living": 57.7,
+    "structures": 1.4,
+    "loggia": 7.6,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 10,
+    "area": 3.4
+   },
+   "parking": {
+    "no": 10,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 10.1
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.5
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 30.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    }
+   ],
+   "outdoorTotal": 7.6,
+   "media": {
+    "plan": "media/plans/BD2-17.webp",
+    "sheet": "media/sheets/BD2-17.webp",
+    "sheetPdf": "docs/units/BD2-17-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-17-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-18",
+   "type": "byt",
+   "building": "BD2",
+   "number": 18,
+   "slug": "byt-bd2-18",
+   "label": "Byt č. 18",
+   "code": "BD2-18",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.18_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "3+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "A",
+   "orientation": "JV",
+   "areas": {
+    "floor": 64.1,
+    "living": 62,
+    "structures": 2.1,
+    "loggia": 6.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 5,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 15,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 7
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.3
+    },
+    {
+     "name": "POKOJ",
+     "area": 11.4
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.3
+    },
+    {
+     "name": "WC",
+     "area": 1.8
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 12.4
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 3.8
+    }
+   ],
+   "outdoorTotal": 6.8,
+   "media": {
+    "plan": "media/plans/BD2-18.webp",
+    "sheet": "media/sheets/BD2-18.webp",
+    "sheetPdf": "docs/units/BD2-18-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-18-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-19",
+   "type": "byt",
+   "building": "BD2",
+   "number": 19,
+   "slug": "byt-bd2-19",
+   "label": "Byt č. 19",
+   "code": "BD2-19",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.19_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "B",
+   "orientation": "J",
+   "areas": {
+    "floor": 58.2,
+    "living": 56,
+    "structures": 2.2,
+    "loggia": null,
+    "balcony": 7,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 19,
+    "area": 3.6
+   },
+   "parking": {
+    "no": 19,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 8.2
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.7
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 17.2
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.9
+    },
+    {
+     "name": "KOMORA",
+     "area": 2
+    }
+   ],
+   "outdoorTotal": 7,
+   "media": {
+    "plan": "media/plans/BD2-19.webp",
+    "sheet": "media/sheets/BD2-19.webp",
+    "sheetPdf": "docs/units/BD2-19-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-19-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "BD2-20",
+   "type": "byt",
+   "building": "BD2",
+   "number": 20,
+   "slug": "byt-bd2-20",
+   "label": "Byt č. 20",
+   "code": "BD2-20",
+   "status": "prodano",
+   "price": null,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy BD2 - 18.6.2025/Byt č.20_PRODEJ.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "2+kk",
+   "floor": "3.NP",
+   "floorOrder": 3,
+   "entrance": "B",
+   "orientation": "JV",
+   "areas": {
+    "floor": 50.1,
+    "living": 48.1,
+    "structures": 2,
+    "loggia": 7.8,
+    "balcony": null,
+    "terrace": null
+   },
+   "cellar": {
+    "no": 20,
+    "area": 3.2
+   },
+   "parking": {
+    "no": 33,
+    "type": "garážové stání (2.PP)"
+   },
+   "rooms": [
+    {
+     "name": "CHODBA",
+     "area": 4.8
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 22.1
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 5.2
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 13.8
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.2
+    }
+   ],
+   "outdoorTotal": 7.8,
+   "media": {
+    "plan": "media/plans/BD2-20.webp",
+    "sheet": "media/sheets/BD2-20.webp",
+    "sheetPdf": "docs/units/BD2-20-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/BD2-20-technicky-pudorys.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-05",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 5,
+   "slug": "radovy-dum-05",
+   "label": "Řadový dům č. 05",
+   "code": "ŘRD-05",
+   "status": "volne",
+   "price": 16153000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 05_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 31,
+    "porch": null,
+    "plot": 379
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.7,
+   "media": {
+    "plan": "media/plans/RRD-05.webp",
+    "sheet": "media/sheets/RRD-05.webp",
+    "sheetPdf": "docs/units/RRD-05-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-05-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-05-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-06",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 6,
+   "slug": "radovy-dum-06",
+   "label": "Řadový dům č. 06",
+   "code": "ŘRD-06",
+   "status": "volne",
+   "price": 14916000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“",
+    "plocha pozemku: prodejní list 294 × XLSX 295.2"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 06_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 31,
+    "porch": null,
+    "plot": 294
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.7,
+   "media": {
+    "plan": "media/plans/RRD-06.webp",
+    "sheet": "media/sheets/RRD-06.webp",
+    "sheetPdf": "docs/units/RRD-06-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-06-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-06-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-07",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 7,
+   "slug": "radovy-dum-07",
+   "label": "Řadový dům č. 07",
+   "code": "ŘRD-07",
+   "status": "volne",
+   "price": 15454000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 07_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 30.8,
+    "porch": null,
+    "plot": 324
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.5,
+   "media": {
+    "plan": "media/plans/RRD-07.webp",
+    "sheet": "media/sheets/RRD-07.webp",
+    "sheetPdf": "docs/units/RRD-07-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-07-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-07-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-08",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 8,
+   "slug": "radovy-dum-08",
+   "label": "Řadový dům č. 08",
+   "code": "ŘRD-08",
+   "status": "volne",
+   "price": 14977000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 08_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 30.9,
+    "porch": null,
+    "plot": 286
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.599999999999994,
+   "media": {
+    "plan": "media/plans/RRD-08.webp",
+    "sheet": "media/sheets/RRD-08.webp",
+    "sheetPdf": "docs/units/RRD-08-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-08-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-08-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-09",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 9,
+   "slug": "radovy-dum-09",
+   "label": "Řadový dům č. 09",
+   "code": "ŘRD-09",
+   "status": "volne",
+   "price": 14832000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 09_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 31,
+    "porch": null,
+    "plot": 288
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.7,
+   "media": {
+    "plan": "media/plans/RRD-09.webp",
+    "sheet": "media/sheets/RRD-09.webp",
+    "sheetPdf": "docs/units/RRD-09-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-09-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-09-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RRD-10",
+   "type": "radovy-dum",
+   "building": "ŘRD",
+   "number": 10,
+   "slug": "radovy-dum-10",
+   "label": "Řadový dům č. 10",
+   "code": "ŘRD-10",
+   "status": "rezervovano",
+   "price": 16028000,
+   "parkingPrice": null,
+   "verify": [
+    "parkování: web uvádí jednou „1 garáž + 2 venkovní“, jinde „1 garáž + 1 venkovní“"
+   ],
+   "sources": {
+    "sheet": "Prodejní listy ŘRD 05-07 08-10 - 2026_07_24/ŘRD 10_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "5+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 129,
+    "livingNP": 47.5,
+    "livingPP": 81.7,
+    "garage": 23.5,
+    "loggia": 11.7,
+    "terrace": 30.8,
+    "porch": null,
+    "plot": 369
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 5,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 6.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 4.5,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 4.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 29.7,
+     "level": "1.PP"
+    },
+    {
+     "name": "POKOJ HOSTÉ",
+     "area": 10.3,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 15.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 6.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 2.1,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOMORA",
+     "area": 2.4,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + venkovní stání (počet K OVĚŘENÍ)"
+   },
+   "outdoorTotal": 42.5,
+   "media": {
+    "plan": "media/plans/RRD-10.webp",
+    "sheet": "media/sheets/RRD-10.webp",
+    "sheetPdf": "docs/units/RRD-10-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RRD-10-technicky-pudorys-1np.pdf",
+     "docs/units/RRD-10-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RDD-01",
+   "type": "dvojdum",
+   "building": "RDD",
+   "number": 1,
+   "slug": "dvojdum-01",
+   "label": "Dvojdům č. 01",
+   "code": "RDD-01",
+   "status": "rezervovano",
+   "price": 12721000,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy RDD 01-04 - 2025_11_27/01_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 96.2,
+    "livingNP": 39.9,
+    "livingPP": 56.3,
+    "garage": 15.9,
+    "loggia": 6.3,
+    "terrace": 25.6,
+    "porch": 9.1,
+    "plot": 237
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 4.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 4.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 3.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 9.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 12,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 23.5,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 10.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 1.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 5.3,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + 1 venkovní stání"
+   },
+   "outdoorTotal": 41,
+   "media": {
+    "plan": "media/plans/RDD-01.webp",
+    "sheet": "media/sheets/RDD-01.webp",
+    "sheetPdf": "docs/units/RDD-01-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RDD-01-technicky-pudorys-1np.pdf",
+     "docs/units/RDD-01-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RDD-02",
+   "type": "dvojdum",
+   "building": "RDD",
+   "number": 2,
+   "slug": "dvojdum-02",
+   "label": "Dvojdům č. 02",
+   "code": "RDD-02",
+   "status": "rezervovano",
+   "price": 13547000,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy RDD 01-04 - 2025_11_27/02_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 107,
+    "livingNP": 43.3,
+    "livingPP": 63.8,
+    "garage": 20.2,
+    "loggia": 6.3,
+    "terrace": 25,
+    "porch": 9.1,
+    "plot": 239
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 4.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 4.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 3.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 12,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 26.9,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 14.4,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 1.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 5.3,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + 1 venkovní stání"
+   },
+   "outdoorTotal": 40.4,
+   "media": {
+    "plan": "media/plans/RDD-02.webp",
+    "sheet": "media/sheets/RDD-02.webp",
+    "sheetPdf": "docs/units/RDD-02-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RDD-02-technicky-pudorys-1np.pdf",
+     "docs/units/RDD-02-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RDD-03",
+   "type": "dvojdum",
+   "building": "RDD",
+   "number": 3,
+   "slug": "dvojdum-03",
+   "label": "Dvojdům č. 03",
+   "code": "RDD-03",
+   "status": "rezervovano",
+   "price": 14110000,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy RDD 01-04 - 2025_11_27/03_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 109.9,
+    "livingNP": 44.9,
+    "livingPP": 65,
+    "garage": 20.7,
+    "loggia": 8,
+    "terrace": 24.8,
+    "porch": 9.1,
+    "plot": 258
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 4.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 4.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 3.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 28.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 14,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 1.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 5.3,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + 1 venkovní stání"
+   },
+   "outdoorTotal": 41.9,
+   "media": {
+    "plan": "media/plans/RDD-03.webp",
+    "sheet": "media/sheets/RDD-03.webp",
+    "sheetPdf": "docs/units/RDD-03-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RDD-03-technicky-pudorys-1np.pdf",
+     "docs/units/RDD-03-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  },
+  {
+   "id": "RDD-04",
+   "type": "dvojdum",
+   "building": "RDD",
+   "number": 4,
+   "slug": "dvojdum-04",
+   "label": "Dvojdům č. 04",
+   "code": "RDD-04",
+   "status": "volne",
+   "price": 14360000,
+   "parkingPrice": null,
+   "verify": [],
+   "sources": {
+    "sheet": "Prodejní listy RDD 01-04 - 2025_11_27/04_prodej.pdf",
+    "web": "rezidenceslovanskeudoli.cz (5. 10. 2026)"
+   },
+   "layout": "4+kk",
+   "floor": "1.NP + 1.PP",
+   "levels": [
+    "1.NP",
+    "1.PP"
+   ],
+   "areas": {
+    "living": 109.9,
+    "livingNP": 44.9,
+    "livingPP": 65,
+    "garage": 20.7,
+    "loggia": 8,
+    "terrace": 24.8,
+    "porch": 9.1,
+    "plot": 278
+   },
+   "rooms": [
+    {
+     "name": "ZÁDVEŘÍ",
+     "area": 4.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 4.7,
+     "level": "1.NP"
+    },
+    {
+     "name": "WC + KOUPELNA",
+     "area": 3.6,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 1",
+     "area": 13.3,
+     "level": "1.NP"
+    },
+    {
+     "name": "POKOJ 2",
+     "area": 13.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "SCHODIŠTĚ",
+     "area": 5.4,
+     "level": "1.NP"
+    },
+    {
+     "name": "CHODBA",
+     "area": 10.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "OBÝVACÍ POKOJ + KK",
+     "area": 28.6,
+     "level": "1.PP"
+    },
+    {
+     "name": "LOŽNICE",
+     "area": 14,
+     "level": "1.PP"
+    },
+    {
+     "name": "KOUPELNA",
+     "area": 4.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "WC",
+     "area": 1.8,
+     "level": "1.PP"
+    },
+    {
+     "name": "TECHNICKÁ MÍSTNOST",
+     "area": 5.3,
+     "level": "1.PP"
+    }
+   ],
+   "parking": {
+    "type": "garáž + 1 venkovní stání"
+   },
+   "outdoorTotal": 41.9,
+   "media": {
+    "plan": "media/plans/RDD-04.webp",
+    "sheet": "media/sheets/RDD-04.webp",
+    "sheetPdf": "docs/units/RDD-04-prodejni-list.pdf",
+    "techPdfs": [
+     "docs/units/RDD-04-technicky-pudorys-1np.pdf",
+     "docs/units/RDD-04-technicky-pudorys-1pp.pdf"
+    ]
+   }
+  }
+ ]
+}

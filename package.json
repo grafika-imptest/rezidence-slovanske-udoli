@@ -1,0 +1,22 @@
+{
+  "name": "rezidence-slovanske-udoli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototyp webu Rezidence Slovanské údolí (IKO Plzeň) – statický generátor, data oddělená od UI, bloky = budoucí CMS bloky.",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "build:pages": "BASE_PATH=/rezidence-slovanske-udoli/ node src/build.mjs",
+    "serve": "node serve.mjs 5310",
+    "data:units": "node scripts/build-units.mjs",
+    "data:standards": "node scripts/build-standards.mjs",
+    "deploy": "bash scripts/deploy-pages.sh",
+    "test": "node scripts/test-interactions.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "path": "ke-stazeni/", "section": "ke-stazeni/", "title": "Ke stažení",
+  "description": "Dokumenty ke stažení – standardy, katalogy vybavení, postup financování, pravidla klientských změn, energetické průkazy.",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Dokumenty", "title": "Ke stažení", "lead": "Standardy, katalogy vybavení, postup financování a energetické průkazy na jednom místě.", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Ke stažení" }] },
+    { "type": "Downloads" }
+  ]
+}

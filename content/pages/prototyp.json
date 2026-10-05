@@ -1,0 +1,7 @@
+{
+  "path": "prototyp/", "title": "O prototypu",
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Prototyp", "title": "O prototypu a datech", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "O prototypu" }] },
+    { "type": "PrototypeInfo" }
+  ]
+}

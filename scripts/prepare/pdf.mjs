@@ -1,0 +1,9 @@
+import fs from 'fs'; import path from 'path';
+import { createCanvas, DOMMatrix, Path2D, ImageData } from '@napi-rs/canvas';
+globalThis.DOMMatrix=DOMMatrix; globalThis.Path2D=Path2D; globalThis.ImageData=ImageData;
+const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs');
+class CanvasFactory{create(w,h){const c=createCanvas(w,h);return{canvas:c,context:c.getContext('2d')}}reset(cc,w,h){cc.canvas.width=w;cc.canvas.height=h}destroy(cc){cc.canvas.width=0;cc.canvas.height=0}}
+export async function load(file){const data=new Uint8Array(fs.readFileSync(file));return pdfjs.getDocument({data,CanvasFactory,standardFontDataUrl:'node_modules/pdfjs-dist/standard_fonts/',cMapUrl:'node_modules/pdfjs-dist/cmaps/',cMapPacked:true,verbosity:0}).promise}
+export async function text(doc,p=1){const page=await doc.getPage(p);const tc=await page.getTextContent();return tc.items.filter(i=>i.str.trim()).map(i=>({s:i.str,x:Math.round(i.transform[4]),y:Math.round(i.transform[5])}))}
+export async function render(doc,p,out,width){const page=await doc.getPage(p);const vp0=page.getViewport({scale:1});const scale=width/vp0.width;const vp=page.getViewport({scale});const c=createCanvas(Math.round(vp.width),Math.round(vp.height));const ctx=c.getContext('2d');ctx.fillStyle='#fff';ctx.fillRect(0,0,c.width,c.height);await page.render({canvasContext:ctx,viewport:vp,canvasFactory:new CanvasFactory()}).promise;fs.writeFileSync(out,await c.encode('png'));return {w:c.width,h:c.height,pw:vp0.width,ph:vp0.height}}
+if(process.argv[1]&&process.argv[1].endsWith("pdf.mjs")&&process.argv[2]){const doc=await load(process.argv[2]);console.log('pages',doc.numPages);const t=await text(doc,1);t.sort((a,b)=>b.y-a.y||a.x-b.x);console.log(t.map(i=>`${i.y}\t${i.x}\t${i.s}`).join('\n'));if(process.argv[3])console.log(await render(doc,1,process.argv[3],1800))}

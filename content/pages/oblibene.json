@@ -1,0 +1,7 @@
+{
+  "path": "oblibene/", "title": "Oblíbené jednotky", "scripts": ["lists.js"],
+  "blocks": [
+    { "type": "PageHero", "eyebrow": "Oblíbené", "title": "Vaše uložené jednotky", "crumbs": [{ "label": "Úvod", "href": "" }, { "label": "Oblíbené" }] },
+    { "type": "Favorites" }
+  ]
+}
