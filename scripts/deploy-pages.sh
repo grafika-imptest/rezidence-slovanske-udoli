@@ -3,7 +3,7 @@
 # Pozor: každé spuštění = zveřejnění nové verze náhledu.
 set -e
 cd "$(dirname "$0")/.."
-BASE_PATH=/rezidence-slovanske-udoli/ node src/build.mjs
+node -e "process.env.BASE_PATH='/rezidence-slovanske-udoli/'; import('./src/build.mjs')"   # (ne BASE_PATH=… v Git Bash – MSYS přepíše /cestu na C:/Program Files/Git/…)
 REMOTE=$(git remote get-url origin)
 cd dist
 touch .nojekyll
