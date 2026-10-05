@@ -171,3 +171,13 @@ select.ctrl{appearance:none;background:#fff url("data:image/svg+xml,%3Csvg xmlns
 .sheet{visibility:hidden;transition:transform var(--t-slow) var(--ease),visibility 0s linear var(--t-slow)}
 .sheet.is-open{visibility:visible;transition:transform var(--t-slow) var(--ease)}
 @media (max-width:760px){.hero__stat-l .hero__lay{display:none}}
+
+/* Patička – barevnost dle centrály IKO (ikoplzen.imptest.cz): stříbrná #8A8D8F + bílý text */
+.ftr{background:var(--iko-gray);color:#fff}
+.ftr a{color:#fff}
+.ftr a:hover{color:#fff;text-decoration:underline}
+.ftr__brand p{color:rgba(255,255,255,.92)}
+.ftr__iko,.ftr__bottom{border-top-color:rgba(255,255,255,.22)}
+.ftr__bottom,.ftr__bottom a{color:rgba(255,255,255,.85)}
+.ftr__iko .micro{color:rgba(255,255,255,.85)!important}
+.ftr .tape{box-shadow:0 10px 30px rgba(0,0,0,.12)}

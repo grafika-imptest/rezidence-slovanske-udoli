@@ -25,10 +25,11 @@ a rozhodnutí, která z nich plynou pro prototyp. Seznam chybějících a nejasn
 | Podklad | Stav | Poznámka |
 |---|---|---|
 | Vizualizace (15×) | **použitelné** | exteriérové, s lidmi; žádné interiérové |
-| Video `Web Desktop/Mobile_H.264` | **použitelné** | klientský sestřih pro web (16:9 + 9:16) → hero |
-| Video `VRC_18` | **použitelné** | pomalý letecký průlet nad celým areálem → fullscreen banner (Home, Projekt), aktualita |
+| Video `Web Desktop/Mobile_H.264` | nepoužito | klientský sestřih pro web; letecký záběr je v něm zrychlený cca 2× – nahrazeno originálem VRC_18 v reálném čase |
+| Video `VRC_18` | **použitelné** | pomalý letecký průlet nad celým areálem → hero (desktop + výřez 9:16 pro mobil), banner Projekt, aktualita |
 | Video `VRC_40` | **použitelné** | kamera stoupá nad zahradami rodinných domů → typologie řadové domy |
-| Video `VRC_11`, `VRC_21` | doplňkové | pěší pohled na bytové domy / cesta zelení – nezadány, nepoužity; vhodné pro Lokalitu nebo sociální sítě |
+| Video `VRC_21` | **použitelné** | pěší cesta svahem mezi zelení → banner na úvodu |
+| Video `VRC_11` | doplňkové | pěší pohled na bytové domy – nepoužito; vhodné pro Lokalitu nebo sociální sítě |
 | `Cukrovarska_VRC_0009.mp4` | **nepoužito** | ve složce není; dle zadání do projektu nepatří |
 | Prodejní listy (65 bytů + 10 domů) | **použitelné** | plochy, místnosti, sklep, garážové stání, půdorys → detail jednotky |
 | Technické půdorysy | **použitelné** | ke stažení v detailu jednotky |

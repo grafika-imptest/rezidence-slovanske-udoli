@@ -1,25 +1,133 @@
 {
-  "_meta": { "note": "Vizualizace – originály klienta (složka „Vizualizace + video“, 6000×4000 px). Popisky jsou popisem obsahu obrázku, ne marketingovým textem. CMS typ „Galerie“ → položky {image, alt, tags[]}." },
+  "_meta": {
+    "note": "Vizualizace – originály klienta (složka „Vizualizace + video“, 6000×4000 px). Popisky jsou popisem obsahu obrázku, ne marketingovým textem. CMS typ „Galerie“ → položky {image, alt, tags[]}.",
+    "videoNote": "Klientský sestřih Web Desktop/Mobile_H.264 se nepoužívá – letecký záběr je v něm zrychlený cca 2× oproti originálu (požadavek: videa v reálném čase)."
+  },
   "items": [
-    { "id": "su-0018", "alt": "Letecký pohled na celý areál", "tags": ["areal"] },
-    { "id": "su-0017", "alt": "Letecký pohled od jihu s údolím Vejprnického potoka", "tags": ["areal"] },
-    { "id": "su-0003", "alt": "Bytové domy podél obslužné komunikace", "tags": ["byty"] },
-    { "id": "su-0014", "alt": "Bytový dům – pohled z ulice", "tags": ["byty"] },
-    { "id": "su-0028", "alt": "Předzahrádka bytu v přízemí", "tags": ["byty"] },
-    { "id": "su-0020", "alt": "Výhled z balkonu na rodinné domy", "tags": ["byty"] },
-    { "id": "su-0011", "alt": "Pěší cesta svahem mezi zelení", "tags": ["areal"] },
-    { "id": "su-0021", "alt": "Pěší cesta s výhledem na areál", "tags": ["areal"] },
-    { "id": "su-0012", "alt": "Příjezdová komunikace s cyklistou", "tags": ["areal"] },
-    { "id": "su-0013", "alt": "Pohled přes zeleň na zástavbu", "tags": ["areal"] },
-    { "id": "su-0022", "alt": "Rodinné domy pod bytovým domem", "tags": ["domy"] },
-    { "id": "su-0023", "alt": "Rodinný dům s terasou a zahradou", "tags": ["domy"] },
-    { "id": "su-0040", "alt": "Rodinné domy se zahradami", "tags": ["domy"] },
-    { "id": "su-0025", "alt": "Ulice u rodinných domů", "tags": ["domy"] },
-    { "id": "su-0037", "alt": "Vjezd do garáží a parkování", "tags": ["areal"] }
+    {
+      "id": "su-0018",
+      "alt": "Letecký pohled na celý areál",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0017",
+      "alt": "Letecký pohled od jihu s údolím Vejprnického potoka",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0003",
+      "alt": "Bytové domy podél obslužné komunikace",
+      "tags": [
+        "byty"
+      ]
+    },
+    {
+      "id": "su-0014",
+      "alt": "Bytový dům – pohled z ulice",
+      "tags": [
+        "byty"
+      ]
+    },
+    {
+      "id": "su-0028",
+      "alt": "Předzahrádka bytu v přízemí",
+      "tags": [
+        "byty"
+      ]
+    },
+    {
+      "id": "su-0020",
+      "alt": "Výhled z balkonu na rodinné domy",
+      "tags": [
+        "byty"
+      ]
+    },
+    {
+      "id": "su-0011",
+      "alt": "Pěší cesta svahem mezi zelení",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0021",
+      "alt": "Pěší cesta s výhledem na areál",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0012",
+      "alt": "Příjezdová komunikace s cyklistou",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0013",
+      "alt": "Pohled přes zeleň na zástavbu",
+      "tags": [
+        "areal"
+      ]
+    },
+    {
+      "id": "su-0022",
+      "alt": "Rodinné domy pod bytovým domem",
+      "tags": [
+        "domy"
+      ]
+    },
+    {
+      "id": "su-0023",
+      "alt": "Rodinný dům s terasou a zahradou",
+      "tags": [
+        "domy"
+      ]
+    },
+    {
+      "id": "su-0040",
+      "alt": "Rodinné domy se zahradami",
+      "tags": [
+        "domy"
+      ]
+    },
+    {
+      "id": "su-0025",
+      "alt": "Ulice u rodinných domů",
+      "tags": [
+        "domy"
+      ]
+    },
+    {
+      "id": "su-0037",
+      "alt": "Vjezd do garáží a parkování",
+      "tags": [
+        "areal"
+      ]
+    }
   ],
   "videos": [
-    { "id": "su-vrc-18", "title": "Areál z výšky", "use": "Fullscreen video banner – Homepage, Projekt", "note": "VRC_18 – pomalý letecký průlet nad celým areálem" },
-    { "id": "su-vrc-40", "title": "Rodinné domy", "use": "Typologie – řadové domy a dvojdomy", "note": "VRC_40 – kamera stoupá nad zahradami rodinných domů" },
-    { "id": "su-hero", "title": "Hero sestřih", "use": "Homepage hero (desktop 16:9 + mobil 9:16)", "note": "Slovanske_Udoli_Web Desktop/Mobile_H.264 – klientský sestřih pro web" }
+    {
+      "id": "su-vrc-18",
+      "title": "Areál z výšky",
+      "use": "Homepage hero (desktop 16:9, mobil výřez 9:16) + banner na stránce Projekt",
+      "note": "VRC_18 – pomalý letecký průlet nad celým areálem, přehráváno v reálném čase"
+    },
+    {
+      "id": "su-vrc-21",
+      "title": "Pěší cesty v areálu",
+      "use": "Fullscreen video banner – Homepage",
+      "note": "VRC_21 – pěší cesta svahem mezi zelení"
+    },
+    {
+      "id": "su-vrc-40",
+      "title": "Rodinné domy",
+      "use": "Typologie – řadové domy",
+      "note": "VRC_40 – kamera stoupá nad zahradami rodinných domů"
+    }
   ]
 }

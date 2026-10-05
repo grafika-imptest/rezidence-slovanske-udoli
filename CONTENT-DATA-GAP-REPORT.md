@@ -15,7 +15,7 @@ Stav k 5. 10. 2026 · prototyp v1. Značky na webu: `K OVĚŘENÍ` (údaj nejedn
 | Detail jednotky | půdorys, umístění v podlaží/areálu, prodejní list, cena + garážové stání, plochy, místnosti, standardy, rozpis splátek, dokumenty, podobné jednotky, poptávka s předvyplněnou jednotkou |
 | Oblíbené / porovnání | localStorage, sdílení seznamu odkazem, porovnání až 4 jednotek napříč typy |
 | Standardy | 3 sady, 35 kategorií, 154 položek (texty doslovně z PDF), 61 položek s fotkou z katalogu |
-| Média | 15 vizualizací (webp 640/1280/2400), 3 videa (hero 16:9 + 9:16, VRC_18, VRC_40), 16 fotek ze stavby, 3 mapy, 145 PDF |
+| Média | 15 vizualizací (webp 640/1280/2400), 4 videa v reálném čase (VRC_18 jako hero 16:9 + výřez 9:16, VRC_21, VRC_40), 16 fotek ze stavby, 3 mapy, 145 PDF |
 | Responzivita | testováno 1440 px, 390 px; bez vodorovného přetékání; půdorysy na mobilu posuvné do stran |
 | CMS příprava | obsah v `content/*.json`, stránky = seznam bloků, 23 bloků (viz README) |
 
@@ -92,4 +92,4 @@ Stav k 5. 10. 2026 · prototyp v1. Značky na webu: `K OVĚŘENÍ` (údaj nejedn
 - Přenos bloků do CMS (mapování v README), editor polygonů jednotek nad obrázkem podlaží.
 - Analytika (GA4 + GTM, Meta Pixel dle strategie), cookie lišta.
 - Odstranit `noindex`, nastavit canonical, sitemap, meta description (připraveny v šabloně).
-- Optimalizace: hero video 12 MB (desktop) / 5,6 MB (mobil) – zvážit CDN nebo kratší smyčku.
+- Optimalizace: hero video 13 MB (desktop) / 6,8 MB (mobil) – zvážit CDN nebo kratší smyčku.

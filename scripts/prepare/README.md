@@ -20,4 +20,4 @@ Cesta k podkladům: proměnná prostředí `SOURCE_DIR` (výchozí `C:/Users/Ome
 Poté: `node scripts/build-units.mjs` (sloučení zdrojů + rozpory) a `node scripts/build-standards.mjs`.
 
 Videa (ffmpeg-static): VRC_18 a VRC_40 → H.264 1080p (CRF 30–31) + 540p, bez zvuku, `+faststart`;
-„Web Desktop/Mobile_H.264“ → hero (CRF 26–28). `Cukrovarska_VRC_0009.mp4` do projektu nepatří a nepoužívá se.
+VRC_18 → mobilní hero = výřez 1215×2160 → 720×1280. „Web Desktop/Mobile_H.264“ se nepoužívá (zrychlený sestřih). VRC_21 → banner na úvodu. `Cukrovarska_VRC_0009.mp4` do projektu nepatří a nepoužívá se.

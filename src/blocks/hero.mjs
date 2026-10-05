@@ -8,9 +8,10 @@ export function HeroVideo(p, c) {
   return html`<section class="hero" data-hero>
   <div class="hero__media">
     <video class="hero__video" autoplay muted loop playsinline preload="metadata"
-      poster="${url('media/video/su-hero-desktop-poster.webp')}" data-mobile-src="${url('media/video/su-hero-mobile.mp4')}" data-mobile-poster="${url('media/video/su-hero-mobile-poster.webp')}">
+      poster="${url('media/video/su-vrc-18-start-poster.webp')}" data-mobile-src="${url('media/video/su-hero-mobile.mp4')}" data-mobile-poster="${url('media/video/su-hero-mobile-poster.webp')}">
       <source src="${url('media/video/su-hero-mobile.mp4')}" type="video/mp4" media="(max-width: 760px) and (orientation: portrait)">
-      <source src="${url('media/video/su-hero-desktop.mp4')}" type="video/mp4">
+      <source src="${url('media/video/su-vrc-18-1080.mp4')}" type="video/mp4" media="(min-width: 800px)">
+      <source src="${url('media/video/su-vrc-18-540.mp4')}" type="video/mp4">
     </video>
     <span class="media__tag">Vizualizace</span>
   </div>
