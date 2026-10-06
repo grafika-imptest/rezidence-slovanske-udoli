@@ -1,0 +1,183 @@
+/* ==========================================================================
+   components.css — sdílené UI prvky (odpovídají komponentám centrály IKO)
+   ========================================================================== */
+
+/* --- Tlačítka ------------------------------------------------------------- */
+.btn{--bg:var(--brand);--fg:#fff;--bd:var(--brand);display:inline-flex;align-items:center;justify-content:center;gap:.6em;min-height:48px;padding:.8em 1.4em;font-size:var(--fs-sm);font-weight:700;line-height:1.1;letter-spacing:.01em;background:var(--bg);color:var(--fg);border:1px solid var(--bd);transition:background var(--t-fast),color var(--t-fast),border-color var(--t-fast),transform var(--t-fast);white-space:nowrap}
+.btn .i{transition:transform var(--t) var(--ease)}
+.btn:hover{--bg:var(--brand-hover);--bd:var(--brand-hover)}
+.btn:hover .i--arrow{transform:translateX(4px)}
+.btn:active{transform:translateY(1px)}
+.btn--line{--bg:transparent;--fg:var(--brand);--bd:var(--brand)}
+.btn--line:hover{--bg:var(--blue-50);--fg:var(--brand);--bd:var(--brand)}
+.btn--white{--bg:#fff;--fg:var(--brand);--bd:#fff}
+.btn--white:hover{--bg:var(--blue-50);--bd:var(--blue-50)}
+.btn--ghost{--bg:transparent;--fg:#fff;--bd:rgba(255,255,255,.5)}
+.btn--ghost:hover{--bg:rgba(255,255,255,.12);--bd:#fff}
+.btn--ink{--bg:transparent;--fg:var(--ink);--bd:var(--line-2)}
+.btn--ink:hover{--bg:var(--paper-2);--bd:var(--ink)}
+.btn--sm{min-height:40px;padding:.55em 1em;font-size:.875rem}
+.btn--lg{min-height:56px;padding:1em 1.8em;font-size:1rem}
+.btn--block{width:100%}
+.btn--icon{min-width:44px;padding:0}
+.tlink{display:inline-flex;align-items:center;gap:.5em;font-weight:700;color:var(--brand)}
+.tlink:hover .i{transform:translateX(4px)}
+.tlink .i{transition:transform var(--t) var(--ease)}
+.on-dark .tlink,.sec--night .tlink{color:#fff}
+
+/* --- Badge stavů + tagy (jediné zaoblené prvky) --------------------------- */
+.badge{display:inline-flex;align-items:center;gap:.45em;padding:.3em .75em .3em .6em;border-radius:999px;font-size:.75rem;font-weight:700;letter-spacing:.02em;line-height:1.2;white-space:nowrap;background:var(--paper-3);color:var(--ink-muted)}
+.badge::before{content:"";width:.5em;height:.5em;border-radius:50%;background:currentColor}
+.badge--volne{background:var(--st-free-bg);color:var(--st-free-ink)}
+.badge--rezervovano{background:var(--st-res-bg);color:var(--st-res-ink)}
+.badge--prodano{background:var(--st-sold-bg);color:var(--st-sold-ink)}
+.badge--solid{background:#fff;box-shadow:var(--shadow-xs)}
+.chip{display:inline-flex;align-items:center;gap:.4em;min-height:38px;padding:.4em .95em;border:1px solid var(--line-2);border-radius:999px;font-size:.875rem;font-weight:600;background:#fff;color:var(--ink);transition:all var(--t-fast);cursor:pointer;user-select:none}
+.chip:hover{border-color:var(--ink)}
+.chip[aria-pressed=true],.chip.is-on,input:checked+.chip{background:var(--brand);border-color:var(--brand);color:#fff}
+.chip .count{font-size:.75em;opacity:.7}
+
+/* --- Header --------------------------------------------------------------- */
+.topbar{background:var(--night);color:rgba(255,255,255,.78);font-size:.8125rem}
+.topbar__in{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:36px}
+.topbar a{display:inline-flex;align-items:center;gap:.45em}
+.topbar a:hover{color:#fff}
+.topbar__iko{font-weight:700;color:#fff}
+.topbar__iko img{height:14px;width:auto}
+.topbar__links{display:flex;gap:1.5rem}
+@media (max-width:760px){.topbar__links .hide-m{display:none}}
+
+.hdr{position:sticky;top:0;z-index:90;background:rgba(255,255,255,.94);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid transparent;transition:border-color var(--t),box-shadow var(--t)}
+.hdr.is-scrolled{border-bottom-color:var(--line);box-shadow:var(--shadow-xs)}
+.hdr__in{display:flex;align-items:center;gap:1.5rem;height:var(--header-h)}
+.brand{display:flex;align-items:center;gap:.65rem;flex:none}
+.brand__mark{height:36px;width:auto}
+.brand__name{font-weight:800;color:var(--brand);font-size:1.02rem;line-height:.98;letter-spacing:-.01em}
+.nav{display:flex;align-items:center;gap:clamp(.9rem,.2rem + 1.2vw,1.9rem);margin-left:auto}
+.nav a{position:relative;font-size:var(--fs-sm);font-weight:700;color:var(--ink);padding-block:.4rem}
+.nav a::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--brand);transform:scaleX(0);transform-origin:left;transition:transform var(--t) var(--ease)}
+.nav a:hover::after,.nav a[aria-current=page]::after{transform:scaleX(1)}
+.nav a[aria-current=page]{color:var(--brand)}
+.hdr__tools{display:flex;align-items:center;gap:.35rem}
+.tool{position:relative;display:grid;place-items:center;width:44px;height:44px;color:var(--ink)}
+.tool:hover{color:var(--brand)}
+.tool .i{width:22px;height:22px}
+.tool__n{position:absolute;top:4px;right:2px;min-width:18px;height:18px;padding:0 4px;border-radius:999px;background:var(--brand);color:#fff;font-size:.6875rem;font-weight:700;display:grid;place-items:center;line-height:1}
+.tool__n:empty,.tool__n[data-n="0"]{display:none}
+.burger{display:none}
+@media (max-width:1180px){
+  .nav,.hdr__cta{display:none}
+  .burger{display:grid}
+  .hdr__tools{margin-left:auto}
+}
+/* Mobilní menu */
+.mnav{position:fixed;inset:0;z-index:120;background:var(--brand);color:#fff;display:flex;flex-direction:column;padding:1rem var(--gutter) 2rem;clip-path:inset(0 0 100% 0);visibility:hidden;transition:clip-path var(--t-slow) var(--ease),visibility 0s linear var(--t-slow);overflow:auto}
+.mnav.is-open{clip-path:inset(0);visibility:visible;transition:clip-path var(--t-slow) var(--ease)}
+.mnav__top{display:flex;justify-content:space-between;align-items:center;min-height:56px}
+.mnav__links{margin-top:1.5rem;display:grid}
+.mnav__links a{font-size:clamp(1.7rem,7vw,2.6rem);font-weight:800;letter-spacing:-.02em;padding:.35rem 0;border-bottom:1px solid rgba(255,255,255,.18)}
+.mnav__foot{margin-top:auto;padding-top:2rem;display:grid;gap:.4rem;font-weight:700}
+
+/* --- Footer --------------------------------------------------------------- */
+.ftr{background:var(--night);color:rgba(255,255,255,.72);font-size:var(--fs-sm)}
+.ftr a:hover{color:#fff}
+.ftr__top{display:grid;grid-template-columns:1.4fr 1fr 1fr 1.2fr;gap:2.5rem;padding-block:clamp(3rem,2rem + 4vw,5.5rem)}
+.ftr h3{color:#fff;font-size:.8125rem;text-transform:uppercase;letter-spacing:var(--ls-label);margin-bottom:1rem}
+.ftr li+li{margin-top:.45rem}
+.ftr__brand p{margin-top:1.25rem;max-width:34ch}
+.ftr__lockup{display:flex;align-items:center;gap:.7rem;color:#fff}
+.ftr__lockup img{height:40px}
+.ftr__lockup b{font-size:1.1rem;line-height:.98}
+.ftr__iko{display:flex;gap:1rem;align-items:center;padding-block:1.5rem;border-top:1px solid rgba(255,255,255,.12)}
+.ftr__projects{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem}
+.ftr__bottom{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.75rem;padding-block:1.4rem;border-top:1px solid rgba(255,255,255,.12);font-size:.8125rem;color:rgba(255,255,255,.55)}
+@media (max-width:980px){.ftr__top{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.ftr__top{grid-template-columns:1fr}}
+
+/* --- IKO páska (endorsement prvek dle dodatku 2026) ----------------------- */
+.tape{--h:46px;height:var(--h);background:#fff url('../img/iko-tape-tile.svg') repeat-x left center/calc(var(--h)*.62*3.2529) calc(var(--h)*.62);animation:tape 40s linear infinite;box-shadow:var(--shadow-md)}
+.tape--blue{background-color:var(--brand);background-image:url('../img/iko-tape-tile-white.svg')}
+@keyframes tape{to{background-position:calc(var(--h)*.62*3.2529*-10) center}}
+.tape-band{position:relative;overflow:hidden;padding-block:2.5rem}
+.tape-band .tape{transform:rotate(-2.2deg) scale(1.04)}
+
+/* --- Formuláře ------------------------------------------------------------ */
+.form{display:grid;gap:1rem}
+.form__row{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+@media (max-width:640px){.form__row{grid-template-columns:1fr}}
+.field{display:grid;gap:.4rem}
+.field label,.field .lbl{font-size:var(--fs-label);font-weight:700;color:var(--ink)}
+.ctrl{width:100%;min-height:50px;padding:.75rem .9rem;background:#fff;border:1px solid var(--line-2);font-size:1rem;transition:border-color var(--t-fast),box-shadow var(--t-fast)}
+.ctrl:hover{border-color:var(--line-3)}
+.ctrl:focus{outline:none;border-color:var(--brand);box-shadow:var(--focus-ring)}
+textarea.ctrl{min-height:130px;resize:vertical}
+select.ctrl{appearance:none;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23333' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right .9rem center;padding-right:2.4rem}
+.field.is-invalid .ctrl{border-color:var(--red-500)}
+.field__err{font-size:.8125rem;color:var(--red-500);display:none}
+.field.is-invalid .field__err{display:block}
+.check{display:flex;gap:.7rem;align-items:flex-start;font-size:.875rem;color:var(--ink-muted)}
+.check input{width:20px;height:20px;flex:none;accent-color:var(--brand);margin-top:.15rem}
+.form__ok{display:none;padding:1.25rem;background:var(--st-free-bg);color:var(--st-free-ink);font-weight:700}
+.form.is-sent .form__ok{display:block}
+.form.is-sent .form__body{display:none}
+
+/* --- Media ---------------------------------------------------------------- */
+.media{position:relative;overflow:hidden;background:var(--paper-3)}
+.media img{width:100%;height:100%;object-fit:cover}
+.media__tag{position:absolute;left:.75rem;bottom:.75rem;padding:.25em .6em;font-size:.6875rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:rgba(0,21,38,.55);color:#fff;backdrop-filter:blur(4px)}
+.ratio-43{aspect-ratio:4/3}.ratio-32{aspect-ratio:3/2}.ratio-169{aspect-ratio:16/9}.ratio-34{aspect-ratio:3/4}.ratio-11{aspect-ratio:1}
+.zoomable{cursor:zoom-in}
+
+/* --- Breadcrumbs ---------------------------------------------------------- */
+.crumbs{display:flex;flex-wrap:wrap;gap:.4rem;font-size:.8125rem;color:var(--ink-muted);padding-block:1rem}
+.crumbs a:hover{color:var(--brand)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--line-3)}
+
+/* --- Reveal ---------------------------------------------------------------- */
+.js [data-reveal]{opacity:0;transform:translateY(22px);transition:opacity .8s var(--ease),transform .8s var(--ease)}
+.js [data-reveal].is-in{opacity:1;transform:none}
+
+/* --- Lightbox ------------------------------------------------------------- */
+.lb{position:fixed;inset:0;z-index:150;background:rgba(0,21,38,.95);display:grid;grid-template-rows:auto 1fr auto;color:#fff}
+.lb__bar{display:flex;justify-content:space-between;align-items:center;padding:.75rem var(--gutter)}
+.lb__stage{position:relative;display:grid;place-items:center;padding:0 var(--gutter);min-height:0;overflow:auto}
+.lb__stage img{max-height:100%;max-width:100%;object-fit:contain;background:#fff}
+.lb__stage img.is-photo{background:none}
+.lb__nav{position:absolute;top:50%;transform:translateY(-50%);width:52px;height:52px;border-radius:50%;background:rgba(255,255,255,.12);color:#fff;display:grid;place-items:center}
+.lb__nav:hover{background:rgba(255,255,255,.24)}
+.lb__prev{left:1rem}.lb__next{right:1rem}
+.lb__cap{padding:.9rem var(--gutter);font-size:.875rem;color:rgba(255,255,255,.75);text-align:center}
+
+/* --- Drawer / bottom sheet ------------------------------------------------ */
+.sheet{position:fixed;z-index:140;inset:auto 0 0 0;background:#fff;box-shadow:0 -20px 50px rgba(0,32,60,.2);transform:translateY(105%);transition:transform var(--t-slow) var(--ease);max-height:88vh;overflow:auto}
+.sheet.is-open{transform:none}
+.sheet__grip{width:44px;height:4px;background:var(--line-2);border-radius:4px;margin:.6rem auto 0}
+.scrim{position:fixed;inset:0;z-index:130;background:rgba(0,21,38,.45);opacity:0;visibility:hidden;transition:opacity var(--t)}
+.scrim.is-on{opacity:1;visibility:visible}
+@media (min-width:900px){
+  .sheet--side{inset:0 0 0 auto;width:min(560px,92vw);max-height:none;transform:translateX(105%)}
+  .sheet--side.is-open{transform:none}
+  .sheet--side .sheet__grip{display:none}
+}
+
+/* --- Toast ---------------------------------------------------------------- */
+.toast{position:fixed;left:50%;bottom:1.25rem;z-index:160;transform:translate(-50%,150%);background:var(--ink);color:#fff;padding:.8rem 1.1rem;font-size:.875rem;font-weight:600;display:flex;gap:.8rem;align-items:center;transition:transform var(--t) var(--ease);box-shadow:var(--shadow-lg);max-width:calc(100vw - 2rem)}
+.toast.is-on{transform:translate(-50%,0)}
+.toast a{color:var(--blue-200);text-decoration:underline}
+.eyebrow.on-dark{color:#fff}
+.media picture{display:block;height:100%}
+.toast{visibility:hidden}
+.toast.is-on{visibility:visible}
+.sheet{visibility:hidden;transition:transform var(--t-slow) var(--ease),visibility 0s linear var(--t-slow)}
+.sheet.is-open{visibility:visible;transition:transform var(--t-slow) var(--ease)}
+@media (max-width:760px){.hero__stat-l .hero__lay{display:none}}
+
+/* Patička – barevnost dle centrály IKO (ikoplzen.imptest.cz): stříbrná #8A8D8F + bílý text */
+.ftr{background:var(--iko-gray);color:#fff}
+.ftr a{color:#fff}
+.ftr a:hover{color:#fff;text-decoration:underline}
+.ftr__brand p{color:rgba(255,255,255,.92)}
+.ftr__iko,.ftr__bottom{border-top-color:rgba(255,255,255,.22)}
+.ftr__bottom,.ftr__bottom a{color:rgba(255,255,255,.85)}
+.ftr__iko .micro{color:rgba(255,255,255,.85)!important}
+.ftr .tape{box-shadow:0 10px 30px rgba(0,0,0,.12)}
